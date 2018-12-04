@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Gaming Thrones</title>
+    <style>
+    html {
+      height: 100%;
+    }
+    body {
+      display: flex;
+      margin: 0;
+      height: 100%;
+      background-image: url('img/woodgrain_background.jpg');
+      font-size: 12pt;
+      font-family: Helvetica,Arial,sans-serif;
+    }
+    .flex-grid {
+      flex: 1;
+      display: flex;
+      max-width: 1600px;
+      justify-content: space-between;
+    }
+    .flex-grid .sidebar {
+      flex: 1;
+      width: 20%;
+      margin: 10px;
+      background-color: rgba(255,255,255,0.9);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 1em;
+    }
+    .sidebar-img {
+      width: 150px;
+    }
+    .sidebar p {
+      width: 100%;
+      text-align: center;
+    }
+    .flex-grid .main {
+      flex: 4;
+      width: 80%;
+      margin: 10px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .banner {
+      flex: 1;
+      display: flex;
+      width: 100%;
+      min-height: 300px;
+      margin: 0px 10px 10px 10px;
+      /*background-color: rgba(255,255,255,0.9);*/
+    }
+    .banner-img {
+      width: 100%;
+      object-fit: contain;
+    }
+    .content {
+      flex: 4;
+      width: 100%;
+      background-color: rgba(255,255,255,0.9);
+    }
+    </style>
+  </head>
+  <body>
+    <div class="flex-grid">
+      <div class="sidebar">
+        <img src="img/bucket.jpg" class="sidebar-img">
+        <p>Thank you for using Gaming Thrones
+        <br>for your video game shitter needs.
+        <br>You're a beautiful human being.</p>
+        <p><strong>with ROLLOVER imaging!</strong></p>
+        <div class="searchbar">
+          <form method="get" action="http://www.google.com/search" target="_blank">
+            <input type="hidden" name="sitesearch" value="gaming-thrones.com" />
+            <input type="text" name="q" maxlength="255" placeholder="Query" />
+          </form>
+        </div>
+      </div>
+      <div class="main">
+        <div class="banner">
+          <img src="img/banner.png" class="banner-img">
+        </div>
+        <div class="content">Content</div>
+      </div>
+    </div>
+  </body>
+</html>
