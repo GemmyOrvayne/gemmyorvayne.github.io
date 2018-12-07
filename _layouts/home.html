@@ -67,13 +67,13 @@
       object-fit: contain;
     }
     .blog-post-icon {
-      height: 10px;
+      height: 20px;
     }
-      .post {
-      flex: 4;
-      width: 100%;
-      margin-bottom: 10px;
-      background-color: rgba(255,255,255,0.9);
+    .post {
+    flex: 4;
+    width: 100%;
+    margin-bottom: 10px;
+    background-color: rgba(255,255,255,0.9);
     }
     .post-title {
       padding-left: 10px;
@@ -101,7 +101,7 @@
         </div>
         {% for post in site.posts %}
           <div class="post">
-            <img src="img/cucket.jpg" class="blog-post-icon">
+            <img src="img/bucket.jpg" class="blog-post-icon">
             <h2 class="post-title"><a href="{{ post.url }}">{{ post.date }}</a></h2>
             <p>{{ post.exerpt }}</p>
           </div>
