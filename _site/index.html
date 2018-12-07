@@ -14,6 +14,14 @@
       font-size: 12pt;
       font-family: Helvetica,Arial,sans-serif;
     }
+    a {
+      color: #8b0000;
+      text-decoration: none;
+    }
+    a:hover, a:visited, a:active {
+      color: #8b0000;
+      text-decoration: none:
+    }
     .flex-grid {
       flex: 1;
       display: flex;
@@ -58,10 +66,14 @@
       width: 100%;
       object-fit: contain;
     }
-    .content {
+    .post {
       flex: 4;
       width: 100%;
+      margin-bottom: 10px;
       background-color: rgba(255,255,255,0.9);
+    }
+    .post-title {
+      padding-left: 10px;
     }
     </style>
   </head>
@@ -84,7 +96,17 @@
         <div class="banner">
           <img src="img/banner.png" class="banner-img">
         </div>
-        <div class="content">Content</div>
+        
+          <div class="post">
+            <h2 class="post-title"><a href="/text/conversation/2018/12/04/We've-migrated-away-from-Tumblr.html">2018-12-04 13:32:50 -0500</a></h2>
+            <p></p>
+          </div>
+        
+          <div class="post">
+            <h2 class="post-title"><a href="/jekyll/update/2018/12/04/welcome-to-jekyll.html">2018-12-04 13:32:50 -0500</a></h2>
+            <p></p>
+          </div>
+        
       </div>
     </div>
   </body>

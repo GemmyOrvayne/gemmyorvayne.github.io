@@ -14,6 +14,14 @@
       font-size: 12pt;
       font-family: Helvetica,Arial,sans-serif;
     }
+    a {
+      color: #8b0000;
+      text-decoration: none;
+    }
+    a:hover, a:visited, a:active {
+      color: #8b0000;
+      text-decoration: none:
+    }
     .flex-grid {
       flex: 1;
       display: flex;
@@ -58,10 +66,17 @@
       width: 100%;
       object-fit: contain;
     }
-    .content {
+    .blog-post-icon {
+      height: 10px;
+    }
+      .post {
       flex: 4;
       width: 100%;
+      margin-bottom: 10px;
       background-color: rgba(255,255,255,0.9);
+    }
+    .post-title {
+      padding-left: 10px;
     }
     </style>
   </head>
@@ -84,7 +99,13 @@
         <div class="banner">
           <img src="img/banner.png" class="banner-img">
         </div>
-        <div class="content">Content</div>
+        {% for post in site.posts %}
+          <div class="post">
+            <img src="img/cucket.jpg" class="blog-post-icon">
+            <h2 class="post-title"><a href="{{ post.url }}">{{ post.date }}</a></h2>
+            <p>{{ post.exerpt }}</p>
+          </div>
+        {% endfor %}
       </div>
     </div>
   </body>
