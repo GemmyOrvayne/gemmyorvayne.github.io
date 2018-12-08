@@ -8,7 +8,7 @@ layout: default
     </div>
     <div class="post-column-b">
       <div class="post-date"><a href="{{ post.url }}">Posted on {{ post.date | date: "%B %e, %Y" }}</a></div>
-      <p>{{ post.content }}</p>
+      <div class="post-content">{{ post.content }}</div>
     </div>
   </div>
 {% endfor %}
