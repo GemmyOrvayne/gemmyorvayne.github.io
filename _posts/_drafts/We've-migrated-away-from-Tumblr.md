@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "We've migrated away from Tumblr!"
-date:   2018-12-04 13:32:50 -0500
-categories: Text Conversation
+title:  12/04/2018
+categories: [text]
+tags: [updates]
 ---
 A combination of Tumblr's codebase being limiting or difficult to work with, and their recent changes to their definition of censorship, has prompted this change.
 
