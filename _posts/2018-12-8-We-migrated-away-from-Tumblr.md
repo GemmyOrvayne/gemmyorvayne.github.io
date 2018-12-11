@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: no-img-post
 title: Gaming Thrones has a New Domain
 category: apple
 categories: [blog, travel]
