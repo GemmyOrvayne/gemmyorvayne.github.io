@@ -2,6 +2,11 @@
 layout: default
 ---
 <div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <p>{{ content }}</p>
+  <div class="post-column-a">
+    <img src="/img/bucket.png" class="blog-post-icon">
+  </div>
+  <div class="post-column-b">
+    <div class="post-date"><a href="{{ page.url }}">Posted on {{ page.date | date: "%B %e, %Y" }}</a></div>
+    <div class="post-content">{{ page.content }}</div>
+  </div>
 </div>
