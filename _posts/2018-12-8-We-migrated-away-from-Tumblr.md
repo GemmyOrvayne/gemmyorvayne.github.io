@@ -1,9 +1,9 @@
 ---
 layout: no-img-post
 title: Gaming Thrones has a New Domain
-category: apple
-categories: [blog, travel]
-tags: [hot, summer]
+category: text conversation
+categories: [text, updates]
+tags: [updates, tumblr]
 ---
 **We've Migrated Away from Tumblr!**
 
