@@ -7,8 +7,7 @@ layout: default
       <img src="/img/bucket.png" class="blog-post-icon">
     </div>
     <div class="post-column-b">
-      <div class="post-date"><a href="{{ post.url }}">Posted on {{ post.date | date: "%B %e, %Y" }}</a></div>
-      <div class="post-content">{{ post.content }}</div>
+      {% include post/{{ post.post_type }}.html content=post.content img1=post.img1 date=post.date url=post.url %}
     </div>
   </div>
 {% endfor %}
