@@ -1,5 +1,6 @@
 ---
-layout: single-img-post
+layout: post
+post_type: single-img
 title: This helpful sign is found outside Top of the World
 category: screenshot
 categories: [screenshots, funny]

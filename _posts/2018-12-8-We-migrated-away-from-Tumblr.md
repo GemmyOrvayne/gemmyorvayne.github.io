@@ -1,5 +1,6 @@
 ---
-layout: no-img-post
+layout: post
+post_type: no-img
 title: Gaming Thrones has a New Domain
 category: text conversation
 categories: [text, updates]
