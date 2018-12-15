@@ -3,7 +3,7 @@
     <img src="/img/bucket.png" class="blog-post-icon">
   </div>
   <div class="post-column-b">
-      {% include post/{{ include.post_type }}.html content=include.content img1=include.img1 date=include.date url=include.url %}
+      {% include post/{{ include.post_type }}.html content=include.content img1=include.img1 date=include.date url=include.url item=include.item %}
       {% include post/footer.html tags=include.tags %}
   </div>
 </div>
