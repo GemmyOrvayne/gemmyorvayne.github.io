@@ -5,7 +5,7 @@ title: Unmarked Shitter
 date: 2018-12-15 03:00:00
 category: screenshot
 categories: [screenshots, rollover, shitters]
-tags: [fallout 3, shitter, ROLLOVER]
+tags: [fallout, fallout 3, shitter, ROLLOVER]
 img1: /img/fallout3/mdpl1.jpg
 img1_rollover: /img/fallout3/mdpl2.jpg
 ---
