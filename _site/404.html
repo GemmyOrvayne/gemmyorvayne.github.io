@@ -79,6 +79,7 @@
     .post-date {
       text-transform: uppercase;
       font-weight: bold;
+      padding: 1em 1em 0 1em;
     }
     .post-title {
       padding-left: 10px;
@@ -107,12 +108,23 @@
       max-width: 100%;
     }
     .post-content {
-      max-width: 870px;
-      min-width: 500px;
-      min-height: 100%;
-      width: 100%;
-      margin: 1em auto;
+      margin: 1em 10em;
     }
+    .post-footer {
+      display: flex;
+      margin: 1em 10em;
+    }
+    .post-footer .post-tag {
+      margin-right: 1em;
+      color: #8b0000;
+    }
+    .post-footer .post-tag::before {
+      content:"["
+    }
+    .post-footer .post-tag::after {
+      content:"]"
+    }
+
     </style>
   </head>
   <body>

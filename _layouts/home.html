@@ -2,12 +2,5 @@
 layout: default
 ---
 {% for post in site.posts %}
-  <div class="post">
-    <div class="post-column-a">
-      <img src="/img/bucket.png" class="blog-post-icon">
-    </div>
-    <div class="post-column-b">
-      {% include post/{{ post.post_type }}.html content=post.content img1=post.img1 date=post.date url=post.url %}
-    </div>
-  </div>
+  {% include post.html content=post.content img1=post.img1 date=post.date url=post.url tags=post.tags post_type=post.post_type %}
 {% endfor %}

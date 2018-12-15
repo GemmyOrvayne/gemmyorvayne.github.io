@@ -1,11 +1,4 @@
 ---
 layout: default
 ---
-<div class="post">
-  <div class="post-column-a">
-    <img src="/img/bucket.png" class="blog-post-icon">
-  </div>
-  <div class="post-column-b">
-      {% include post/{{ page.post_type }}.html content=page.content img1=page.img1 date=page.date url=page.url %}
-  </div>
-</div>
+{% include post.html content=page.content img1=page.img1 date=page.date url=page.url tags=page.tags post_type=page.post_type %}
