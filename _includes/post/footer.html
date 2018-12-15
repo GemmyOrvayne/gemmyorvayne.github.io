@@ -1,5 +1,12 @@
 <div class="post-footer">
-  {% for tag in include.tags %}
-    <div class="post-tag">{{ tag }}</div>
-  {% endfor %}
+  <div class="post-source">
+    {% if include.item.source %}
+      Source: {{ include.item.source }}
+    {% endif %}
+  </div>
+  <div class="post-tags">
+    {% for tag in include.item.tags %}
+      <div class="post-tag">{{ tag }}</div>
+    {% endfor %}
+  </div>
 </div>
