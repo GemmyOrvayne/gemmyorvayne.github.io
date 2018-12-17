@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   {% include post.html content=post.content img1=post.img1 date=post.date url=post.url tags=post.tags post_type=post.post_type item=post %}
 {% endfor %}
+{% include pagination.html %}

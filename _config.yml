@@ -21,13 +21,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
+paginate: 10
 
 # Build settings
 encoding: utf-8
 markdown: kramdown
 theme: minima
-#plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
