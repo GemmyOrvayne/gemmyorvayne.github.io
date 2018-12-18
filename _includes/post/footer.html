@@ -6,7 +6,9 @@
   </div>
   <div class="post-tags">
     {% for tag in include.item.tags %}
-      <div class="post-tag">{{ tag }}</div>
+      <div class="post-tag">
+        <a href="/tags/{{ tag }}">{{ tag }}</a>
+      </div>
     {% endfor %}
   </div>
 </div>
