@@ -5,7 +5,7 @@ title: Spin the Bottle
 date: 2018-12-18 01:30:00
 category: screenshot
 categories: [screenshot, funny]
-tags: [fallout, fallout 76, screenshot]
+tags: [fallout, fallout 76, screenshot, bucket brigade]
 img1: /img/fallout76/bearbottle.jpg
 ---
 
