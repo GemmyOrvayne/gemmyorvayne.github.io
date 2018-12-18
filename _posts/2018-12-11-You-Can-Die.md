@@ -1,7 +1,7 @@
 ---
 layout: post
 post_type: single-img
-title: This helpful sign is found outside Top of the World
+title: Top of the World
 category: screenshot
 categories: [screenshots, funny]
 tags: [fallout, fallout 76, screenshot]

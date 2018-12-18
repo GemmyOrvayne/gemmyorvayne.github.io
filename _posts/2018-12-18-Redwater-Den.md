@@ -1,7 +1,7 @@
 ---
 layout: post
 post_type: double-img-rollover
-title: The Golden Cat Shitter
+title: Redwater Den Shitters
 date: 2018-12-18 02:00:00
 category: screenshot
 categories: [screenshots, rollover, shitters]
