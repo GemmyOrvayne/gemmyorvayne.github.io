@@ -10,6 +10,7 @@ img1: /img/skyrim/redwater1.jpg
 img1_rollover: /img/skyrim/redwater1a.jpg
 img2: /img/skyrim/redwater2.jpg
 img2_rollover: /img/skyrim/redwater2a.jpg
+img3: /img/memes/skooma.jpg
 ---
 #### Redwater Den & Redwater Spring shitters!
 
