@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: double-img-rollover
+post_type: triple-img-rollover
 title: Redwater Den Shitters
 date: 2018-12-18 02:00:00
 category: screenshot
@@ -11,6 +11,7 @@ img1_rollover: /img/skyrim/redwater1a.jpg
 img2: /img/skyrim/redwater2.jpg
 img2_rollover: /img/skyrim/redwater2a.jpg
 img3: /img/memes/skooma.jpg
+img3_rollover: /img/memes/skooma.jpg
 ---
 #### Redwater Den & Redwater Spring shitters!
 
