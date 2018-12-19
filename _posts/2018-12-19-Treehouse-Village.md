@@ -5,7 +5,7 @@ title: Treehouse Village Shitters
 date: 2018-12-19 01:25:00
 category: screenshot
 categories: [screenshots, shitters]
-tags: [fallout 76, shitter]
+tags: [fallout 76, shitter, ROLLOVER]
 img1: /img/fallout76/thv1.jpg
 img1_rollover: /img/fallout76/thv1a.jpg
 img2: /img/fallout76/thv2.jpg
