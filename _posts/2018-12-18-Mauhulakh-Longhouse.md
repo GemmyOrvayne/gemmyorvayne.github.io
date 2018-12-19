@@ -13,4 +13,4 @@ img2_rollover: /img/skyrim/septimus2a.jpg
 ---
 #### Mauhulakh Longhouse shitters!
 
-The Orcs of Narzulbur Stronghold show us the two extremes of indoor bucketing, each at opposite ends of the longhouse. I’m was assuming that one is for the boys, the other for the girls. Taking the assumption one step further (keeping in mind I’m coming here uninformed as hell, as a Wood Elf) I would wager the top photo is the Ladies’ Room. Just going on pure gut instinct.
+The Orcs of Narzulbur Stronghold show us the two extremes of indoor bucketing, each at opposite ends of the longhouse. One has a molecule of privacy, the other has none. 
