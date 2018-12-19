@@ -13,4 +13,4 @@ img2_rollover: /img/skyrim/mauhulakh2a.jpg
 ---
 #### Mauhulakh Longhouse shitters!
 
-The Orcs of Narzulbur Stronghold show us the two extremes of indoor bucketing, each at opposite ends of the longhouse. One has a molecule of privacy, the other has none.
+The Orcs of Narzulbur Stronghold show us the two extremes of indoor bucketing, each at opposite ends of the longhouse. One is clean and private, the other is neither.
