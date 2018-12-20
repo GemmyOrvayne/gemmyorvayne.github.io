@@ -6,12 +6,12 @@ date: 2018-12-20 01:50:00
 category: screenshot
 categories: [screenshots, shitters]
 tags: [fallout, fallout 3, shitter, are you afraid of the gnome, ROLLOVER]
-img1: /img/fallout3/marg3.jpg
-img1_rollover: /img/fallout3/marg3a.jpg
-img2: /img/fallout3/marg1.jpg
-img2_rollover: /img/fallout3/marg1a.jpg
-img3: /img/fallout3/marg6.jpg
-img3_rollover: /img/fallout3/marg6a.jpg
+img1: /img/fallout3/marg1.jpg
+img1_rollover: /img/fallout3/marg1a.jpg
+img2: /img/fallout3/marg2.jpg
+img2_rollover: /img/fallout3/marg2a.jpg
+img3: /img/fallout3/marg3.jpg
+img3_rollover: /img/fallout3/marg3a.jpg
 img4: /img/fallout3/marg4.jpg
 img4_rollover: /img/fallout3/marg4a.jpg
 ---
