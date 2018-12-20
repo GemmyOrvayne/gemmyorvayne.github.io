@@ -7,7 +7,7 @@
   <div class="post-tags">
     {% for tag in include.item.tags %}
       <div class="post-tag">
-        <a href="/tags/{{ tag }}">{{ tag }}</a>
+        <a href="/tags/{{ tag | slugify }}">{{ tag }}</a>
       </div>
     {% endfor %}
   </div>
