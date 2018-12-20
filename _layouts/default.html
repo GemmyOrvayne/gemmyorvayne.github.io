@@ -51,6 +51,10 @@
       width: 100%;
       text-align: center;
     }
+    .tagcloud {
+      margin: 1em;
+      display: none;
+    }
     .flex-grid .main {
       flex: 4;
       width: 80%;
@@ -157,6 +161,17 @@
             <input type="hidden" name="sitesearch" value="gaming-thrones.com" />
             <input type="text" name="q" maxlength="255" placeholder="Query" />
           </form>
+        </div>
+        <div class="tagcloud">
+          {% assign tags = site.tags | sort %}
+          {% for tag in tags %}
+            <span class="site-tag">
+              <a href="/tag/{{ tag | first | slugify }}/"
+                  style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
+                      {{ tag[0] | replace:'-', ' ' }}
+              </a>
+            </span>
+          {% endfor %}
         </div>
       </div>
       <div class="main">
