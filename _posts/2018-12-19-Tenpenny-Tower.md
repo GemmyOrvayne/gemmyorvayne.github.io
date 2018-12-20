@@ -5,7 +5,7 @@ title: Tenpenny Tower
 date: 2018-12-19 01:55:00
 category: screenshot
 categories: [screenshots, shitters]
-tags: [fallout 3, shitter, ROLLOVER]
+tags: [fallout, fallout 3, shitter, ROLLOVER]
 img1: /img/fallout3/tenpenny1.jpg
 img1_rollover: /img/fallout3/tenpenny1a.jpg
 img2: /img/fallout3/tenpenny2.jpg

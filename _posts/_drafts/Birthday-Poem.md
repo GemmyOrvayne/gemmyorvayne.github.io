@@ -4,7 +4,7 @@ post_type: single-img
 title: Presidential Metro Train NPC
 category: screenshot
 categories: [screenshots, funny]
-tags: [fallout 3]
+tags: [fallout, fallout 3]
 img1: /img/fallout3/birthdaypoem.png
 ---
 *Gray Walls, impenetrable steel.*
