@@ -14,4 +14,4 @@ img3: /img/skyrim/ancmoth4.jpg
 img3_rollover: /img/skyrim/ancmoth5.jpg
 ---
 
-This is a figurine I made of Skyrim's Ancestor Moth. It's stitched glass beads, embroidery, and felt with copper findings. 
+This is a figurine I made of Skyrim's Ancestor Moth. It's stitched glass beads, embroidery, and felt with copper findings.
