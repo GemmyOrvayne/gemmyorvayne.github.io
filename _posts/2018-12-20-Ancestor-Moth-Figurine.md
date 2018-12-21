@@ -10,7 +10,7 @@ img1: /img/skyrim/ancmoth2.jpg
 img1_rollover: /img/skyrim/ancmoth3.jpg
 img2: /img/skyrim/ancmoth1.jpg
 img2_rollover: /img/skyrim/ancmoth1.jpg
-img3: /img/skyrim/ancmoth5.jpg
+img3: /img/skyrim/ancmoth6.jpg
 img3_rollover: /img/skyrim/ancmoth4.jpg
 ---
 
