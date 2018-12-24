@@ -9,6 +9,9 @@
 </div> -->
 <!-- Pagination links -->
 <div class="pagination">
+  <a href="/" class="first">
+      First
+  </a>
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">
       &lt;&lt; Previous
@@ -24,4 +27,7 @@
   {% else %}
     <span class="next ">Next &gt;&gt;</span>
   {% endif %}
+  <a href="/page{{ paginator.total_pages }}" class="Last">
+      Last
+  </a>
 </div>
