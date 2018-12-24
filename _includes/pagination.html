@@ -10,7 +10,7 @@
 <!-- Pagination links -->
 <div class="pagination">
   <a href="/" class="first">
-      First
+      Newest
   </a>
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">
@@ -28,6 +28,6 @@
     <span class="next ">Next &gt;&gt;</span>
   {% endif %}
   <a href="/page{{ paginator.total_pages }}" class="Last">
-      Last
+      Oldest
   </a>
 </div>
