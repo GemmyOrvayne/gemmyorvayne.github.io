@@ -1,0 +1,7 @@
+<img id="{{ include.img | slugify }}" src="{{ include.img }}" class="column-b-img" onmouseover="rollover(this, '{{ include.img_rollover }}')" onmouseout="rollover(this, '{{ include.img }}')">
+<style>
+  {{ include.img | slugify }} {
+    display: none;
+    content:url('{{ include.img_rollover }}');
+  }
+</style>

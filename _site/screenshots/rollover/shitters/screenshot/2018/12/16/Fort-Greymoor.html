@@ -400,7 +400,14 @@
   <div class="post-column-b">
       <div class="post-date"><a href="/screenshots/rollover/shitters/screenshot/2018/12/16/Fort-Greymoor.html">Posted on December 16, 2018</a></div>
 <div class="post-content">
-  <img src="/img/skyrim/fortgreymoor1.jpg" class="column-b-img" onmouseover="rollover(this, '/img/skyrim/fortgreymoor2.jpg')" onmouseout="rollover(this, '/img/skyrim/fortgreymoor1.jpg')">
+  <img id="img-skyrim-fortgreymoor1-jpg" src="/img/skyrim/fortgreymoor1.jpg" class="column-b-img" onmouseover="rollover(this, '/img/skyrim/fortgreymoor2.jpg')" onmouseout="rollover(this, '/img/skyrim/fortgreymoor1.jpg')">
+<style>
+  img-skyrim-fortgreymoor1-jpg {
+    display: none;
+    content:url('/img/skyrim/fortgreymoor2.jpg');
+  }
+</style>
+
   <h4 id="fort-greymoor-shitter">Fort Greymoor shitter!</h4>
 
 <p>This no-nonsense, military-grade, multi-bucket latrine is for the use of all genders and races of Tamriel, once you hand it off to the Imperials.</p>

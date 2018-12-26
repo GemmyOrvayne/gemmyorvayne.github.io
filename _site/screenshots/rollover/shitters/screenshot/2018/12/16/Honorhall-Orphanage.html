@@ -400,7 +400,14 @@
   <div class="post-column-b">
       <div class="post-date"><a href="/screenshots/rollover/shitters/screenshot/2018/12/16/Honorhall-Orphanage.html">Posted on December 16, 2018</a></div>
 <div class="post-content">
-  <img src="/img/skyrim/honorhall1.jpg" class="column-b-img" onmouseover="rollover(this, '/img/skyrim/honorhall2.jpg')" onmouseout="rollover(this, '/img/skyrim/honorhall1.jpg')">
+  <img id="img-skyrim-honorhall1-jpg" src="/img/skyrim/honorhall1.jpg" class="column-b-img" onmouseover="rollover(this, '/img/skyrim/honorhall2.jpg')" onmouseout="rollover(this, '/img/skyrim/honorhall1.jpg')">
+<style>
+  img-skyrim-honorhall1-jpg {
+    display: none;
+    content:url('/img/skyrim/honorhall2.jpg');
+  }
+</style>
+
   <h4 id="honorhall-orphanage-shitter">Honorhall Orphanage shitter!</h4>
 
 <p>Here in Riften, the residents of this children’s home are taught proper hygiene by Constance Michel.</p>

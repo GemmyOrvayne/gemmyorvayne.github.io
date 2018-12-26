@@ -1,5 +1,5 @@
 <div class="post-date"><a href="{{ include.item.url }}">Posted on {{ include.item.date | date: "%B %e, %Y" }}</a></div>
 <div class="post-content">
-  <img src="{{ include.item.img1 }}" class="column-b-img" onmouseover="rollover(this, '{{ include.item.img1_rollover }}')" onmouseout="rollover(this, '{{ include.item.img1 }}')">
+  {% include rollover.html img=include.item.img1 img_rollover=include.item.img1_rollover %}
   {{ include.item.content }}
 </div>

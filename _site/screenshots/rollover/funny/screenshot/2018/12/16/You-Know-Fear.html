@@ -400,7 +400,14 @@
   <div class="post-column-b">
       <div class="post-date"><a href="/screenshots/rollover/funny/screenshot/2018/12/16/You-Know-Fear.html">Posted on December 16, 2018</a></div>
 <div class="post-content">
-  <img src="/img/memes/fear1.jpg" class="column-b-img" onmouseover="rollover(this, '/img/memes/fear2.jpg')" onmouseout="rollover(this, '/img/memes/fear1.jpg')">
+  <img id="img-memes-fear1-jpg" src="/img/memes/fear1.jpg" class="column-b-img" onmouseover="rollover(this, '/img/memes/fear2.jpg')" onmouseout="rollover(this, '/img/memes/fear1.jpg')">
+<style>
+  img-memes-fear1-jpg {
+    display: none;
+    content:url('/img/memes/fear2.jpg');
+  }
+</style>
+
   <h4 id="you-already-know-fear"><em>You Already Know Fear</em></h4>
 
 </div>

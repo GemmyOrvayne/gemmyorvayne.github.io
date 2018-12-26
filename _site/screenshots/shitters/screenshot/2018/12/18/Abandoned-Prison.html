@@ -400,8 +400,22 @@
   <div class="post-column-b">
       <div class="post-date"><a href="/screenshots/shitters/screenshot/2018/12/18/Abandoned-Prison.html">Posted on December 18, 2018</a></div>
 <div class="post-content">
-  <img src="/img/skyrim/abdprison1.jpg" class="column-b-img" onmouseover="rollover(this, '/img/skyrim/abdprison1a.jpg')" onmouseout="rollover(this, '/img/skyrim/abdprison1.jpg')">
-  <img src="/img/skyrim/abdprison2.jpg" class="column-b-img" onmouseover="rollover(this, '/img/skyrim/abdprison2a.jpg')" onmouseout="rollover(this, '/img/skyrim/abdprison2.jpg')">
+  <img id="img-skyrim-abdprison1-jpg" src="/img/skyrim/abdprison1.jpg" class="column-b-img" onmouseover="rollover(this, '/img/skyrim/abdprison1a.jpg')" onmouseout="rollover(this, '/img/skyrim/abdprison1.jpg')">
+<style>
+  img-skyrim-abdprison1-jpg {
+    display: none;
+    content:url('/img/skyrim/abdprison1a.jpg');
+  }
+</style>
+
+  <img id="img-skyrim-abdprison2-jpg" src="/img/skyrim/abdprison2.jpg" class="column-b-img" onmouseover="rollover(this, '/img/skyrim/abdprison2a.jpg')" onmouseout="rollover(this, '/img/skyrim/abdprison2.jpg')">
+<style>
+  img-skyrim-abdprison2-jpg {
+    display: none;
+    content:url('/img/skyrim/abdprison2a.jpg');
+  }
+</style>
+
   <h4 id="abandoned-prison-shitters">Abandoned Prison shitters!</h4>
 
 <p>This tower facility seems to have been built for a high volume of prisoners, as the cells are quite roomy and there are numerous skeletons littered about. As usual, seems the only things to have really survived the storm and ensuing flood that killed everyone in the prison are… (slow clap) <em>the shitters.</em></p>
