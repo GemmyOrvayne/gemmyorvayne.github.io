@@ -1,14 +1,19 @@
 <div class="post-footer">
-  <div class="post-source">
-    {% if include.item.source %}
-      Source: {{ include.item.source }}
-    {% endif %}
+  <div class="post-footer-column-a">
+    <div class="post-source">
+      {% if include.item.source %}
+        Source: {{ include.item.source }}
+      {% endif %}
+    </div>
+    <div class="post-tags">
+      {% for tag in include.item.tags %}
+        <div class="post-tag">
+          <a href="/tags/{{ tag | slugify }}">{{ tag }}</a>
+        </div>
+      {% endfor %}
+    </div>
   </div>
-  <div class="post-tags">
-    {% for tag in include.item.tags %}
-      <div class="post-tag">
-        <a href="/tags/{{ tag | slugify }}">{{ tag }}</a>
-      </div>
-    {% endfor %}
+  <div class="heart">
+    &#9825;
   </div>
 </div>
