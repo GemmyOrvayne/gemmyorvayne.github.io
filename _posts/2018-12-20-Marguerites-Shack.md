@@ -19,8 +19,8 @@ img4_rollover: /img/fallout3/marg4a.jpg
 
 Now here's a real chin-scratcher. There are plenty of objects here that look the part, but which is the legitimate shitter? I'm pretty sure one is a planter. The structural outhouse has a great deal of overgrowth and other indications of disuse (such as the ‘innocent’ gnome laying nearby who we all know is a vicious killer).
 
-No, I am putting my money on the only shitter here Marguerite is gonna be sharing private moments with as being the lovely powder room the third photo. I'm sure that sink whiskey is mostly for mouthwash. So, is this Where Marguerite nurses herself back to life every morning she has a hangover?
+No, I am putting my money on the only shitter here Marguerite is gonna be sharing private moments with as being the lovely powder room the third photo. I'm sure that sink whiskey is mostly for mouthwash. So, is this where Marguerite nurses herself back to life every morning she has a hangover?
 
 What say you, Marguerite?
 
-She doesn't seem to really be up for talking just now. Anyway, 'round back as you're heading out, there's a bathtub full of empty whiskey bottles. I'm sure this moonshiner would say they're being saved for art projects.
+She doesn't seem to really be up for talking just now. Anyway, 'round back as you're heading out, there's a bathtub full of empty whiskey bottles. I'm sure this moonshiner would say they're being saved for *'art projects.'*
