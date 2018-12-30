@@ -4,6 +4,12 @@
     <title>Gaming Thrones</title>
     <link rel="shortcut icon" href="/bucket.ico" type="image/x-icon">
     <script>
+      if (window.location.hostname.match('127.0.0.1') || window.location.hostname.match('localhost')) {
+        window.API_PATH = 'http://127.0.0.1:5000'
+      } else {
+        window.API_PATH = 'https://api.gaming-thrones.com'
+      }
+
       function rollover (x,src) {
         x.src=src;
       }
@@ -209,6 +215,7 @@
         {{ content }}
       </div>
     </div>
+    <script src="/js/heart.js"></script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131206946-1"></script>
     <script>
