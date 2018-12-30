@@ -1,1 +1,0 @@
-# gemmyorvayne.github.io
