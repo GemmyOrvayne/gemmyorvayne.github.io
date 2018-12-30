@@ -5,7 +5,7 @@ title: Critical Fail
 date: 2018-12-27 01:50:00
 category: memes
 categories: [memes, funny]
-tags: [memes]
+tags: [memes, dungeons and dragons]
 img1: /img/memes/xfin1.jpg
 img2: /img/memes/xfin2.jpg
 source: <a href="https://flavoracle.tumblr.com/post/179612935702/a-couple-months-ago-a-buddy-of-mine-went-to-a" target="_blank" rel="nofollow">Flavoracle</a>
