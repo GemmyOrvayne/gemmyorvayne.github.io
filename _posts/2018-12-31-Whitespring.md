@@ -15,7 +15,7 @@ img3_rollover: /img/fallout76/whitespringgnome1a.jpg
 ---
 #### Whitespring Golf Resort shitters!
 
-The Child of Frankenstein that you see before you now is what happens when my camera view is cramped into a tiny-ass corner of a shower trying to get a shot of the entire bathroom and Bethesda will not let me be great. Anyway, I clipped it together and you get the idea. The Enclave's secret relaxation retreat, Whitespring Golf Club, boasts powder rooms with plenty of sparkly loots and fixtures that are not even broken. This is going to make the common people rise up and start singing Galavant's *Today We Rise.*
+The Child of Frankenstein that you see before you now is what happens when my camera view is cramped into a tiny-ass corner of a shower trying to get a shot of the entire bathroom and Bethesda will not let me be great. Anyway, I clipped it together and you get the idea. The Enclave's secret relaxation retreat, Whitespring Golf Club, boasts powder rooms with plenty of sparkly loots and fixtures that are not even broken. This is going to make the common people seethe from injustice and start singing Galavant's *Today We Rise.*
 <br><br>
 So where do the proles shit? You can see that in the second photo! This is the "guest shitter" at Whitespring Resort, for use of plebes, with their adorable concept of Home Sweet Home in their narrow, tiny, myopic little skulls. The common, vulgar wastelander has never even dipped their toes into the excess and luxury of what the Enclave and Big Brother could offer them, but it's better that they keep their teacups, and imagine themselves lucky to have even set foot on the grounds of Whitespring Resort!
 <br><br>
