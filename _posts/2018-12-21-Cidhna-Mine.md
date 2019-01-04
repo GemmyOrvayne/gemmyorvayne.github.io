@@ -3,8 +3,6 @@ layout: post
 post_type: single-img-rollover
 title: Cidhna Mine Shitter
 date: 2018-12-21 01:15:00
-category: screenshot
-categories: [screenshots, skyrim]
 tags: [skyrim, shitter]
 img1: /img/skyrim/cidhnamine1.jpg
 img1_rollover: /img/skyrim/cidhnamine1a.jpg

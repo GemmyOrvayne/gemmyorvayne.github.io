@@ -3,8 +3,6 @@ layout: post
 post_type: double-img-rollover
 title: Little Lamplight and Big Town Shitters
 date: 2018-12-26 01:45:00
-category: screenshot
-categories: [screenshots, shitters]
 tags: [fallout, fallout 3, shitter, ROLLOVER]
 img1: /img/fallout3/LLamplight1.jpg
 img1_rollover: /img/fallout3/LLamplight1a.jpg

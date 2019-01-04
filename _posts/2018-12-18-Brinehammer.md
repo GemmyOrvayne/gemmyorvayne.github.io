@@ -3,8 +3,6 @@ layout: post
 post_type: single-img-rollover
 title: Wreck of the Brinehammer Shitters
 date: 2018-12-18 01:05:00
-category: screenshot
-categories: [screenshots, rollover, shitter]
 tags: [skyrim, shitter, ROLLOVER]
 img1: /img/skyrim/brinehammer1.jpg
 img1_rollover: /img/skyrim/brinehammer2.jpg

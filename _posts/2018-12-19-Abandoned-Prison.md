@@ -3,8 +3,6 @@ layout: post
 post_type: double-img-rollover
 title: Abandoned Prison Shitters
 date: 2018-12-19 01:00:00
-category: screenshot
-categories: [screenshots, shitters]
 tags: [skyrim, shitter]
 img1: /img/skyrim/abdprison1.jpg
 img1_rollover: /img/skyrim/abdprison1a.jpg

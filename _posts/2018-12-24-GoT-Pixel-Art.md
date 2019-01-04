@@ -3,9 +3,7 @@ layout: post
 post_type: six-img
 title: Game of Thrones Pixel Art
 date: 2018-12-24 01:30:00
-category: art
-categories: [fan art, got]
-tags: [fan art, game of thrones]
+tags: [this is art, game of thrones]
 img1: /img/other/tyrionpixel.gif
 img2: /img/other/jonsnowpixel.gif
 img3: /img/other/aryapixel.gif

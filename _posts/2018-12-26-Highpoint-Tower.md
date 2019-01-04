@@ -3,8 +3,6 @@ layout: post
 post_type: single-img-rollover
 title: Highpoint Tower Shitter
 date: 2018-12-26 01:30:00
-category: screenshot
-categories: [screenshots, shitters]
 tags: [skyrim, shitter, ROLLOVER]
 img1: /img/skyrim/highpointtower1.jpg
 img1_rollover: /img/skyrim/highpointtower1a.jpg

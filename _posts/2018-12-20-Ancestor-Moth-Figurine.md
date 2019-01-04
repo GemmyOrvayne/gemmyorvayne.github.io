@@ -3,9 +3,7 @@ layout: post
 post_type: triple-img-rollover
 title: Ancestor Moth Fan Art Figurine
 date: 2018-12-20 01:15:00
-category: cosplay
-categories: [interesting, fan art]
-tags: [skyrim, fan art, ROLLOVER]
+tags: [skyrim, this is art, ROLLOVER]
 img1: /img/skyrim/ancmoth2.jpg
 img1_rollover: /img/skyrim/ancmoth3.jpg
 img2: /img/skyrim/ancmoth1.jpg

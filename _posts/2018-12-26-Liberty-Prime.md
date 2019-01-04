@@ -3,9 +3,7 @@ layout: post
 post_type: five-img
 title: Liberty Prime Concept Art
 date: 2018-12-26 02:05:00
-category: art
-categories: [art]
-tags: [fallout, fallout 3, concept art]
+tags: [fallout, fallout 3, this is art]
 img1: /img/fallout3/lprime5.jpg
 img2: /img/fallout3/lprime2.jpg
 img3: /img/fallout3/lprime3.jpg

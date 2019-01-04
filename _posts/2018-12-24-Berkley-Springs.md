@@ -3,8 +3,6 @@ layout: post
 post_type: double-img-rollover
 title: Berkley Springs Shitter
 date: 2018-12-25 01:10:00
-category: screenshot
-categories: [screenshots, shitters]
 tags: [fallout, fallout 76, shitter, ROLLOVER]
 img1: /img/fallout76/berkleysprings1.jpg
 img1_rollover: /img/fallout76/berkleysprings1a.jpg

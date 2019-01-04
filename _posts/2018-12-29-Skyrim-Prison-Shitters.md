@@ -3,8 +3,6 @@ layout: post
 post_type: four-img-rollover
 title: Skyrim's Prison Shitters
 date: 2018-12-29 01:05:00
-category: screenshot
-categories: [screenshots, shitters]
 tags: [skyrim, shitter, ROLLOVER]
 img1: /img/skyrim/katariah1.jpg
 img1_rollover: /img/skyrim/katariah1a.jpg

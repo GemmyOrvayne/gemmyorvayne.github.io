@@ -3,8 +3,6 @@ layout: post
 post_type: single-img
 title: Union Carbide Atomic Age Ad
 date: 2018-12-22 01:20:00
-category: art
-categories: [art]
 tags: [duck and cover]
 img1: /img/fallout76/unioncarbide.jpg
 ---

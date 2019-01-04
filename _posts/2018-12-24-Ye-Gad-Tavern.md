@@ -3,8 +3,6 @@ layout: post
 post_type: four-img
 title: Ye Gad Tavern
 date: 2018-12-25 01:05:00
-category: screenshot
-categories: [screenshots, funny]
 tags: [fallout, fallout 76]
 img1: /img/fallout76/newgad1.jpg
 img2: /img/fallout76/newgad2.jpg

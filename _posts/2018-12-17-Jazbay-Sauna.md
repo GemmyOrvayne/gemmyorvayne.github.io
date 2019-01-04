@@ -3,8 +3,6 @@ layout: post
 post_type: single-img-rollover
 title: Jazbay Sauna Story
 date: 2018-12-17 02:00:00
-category: screenshot
-categories: [screenshots, text]
 tags: [skyrim, ROLLOVER]
 img1: /img/skyrim/jazbay1.jpg
 img1_rollover: /img/skyrim/jazbay2.jpg

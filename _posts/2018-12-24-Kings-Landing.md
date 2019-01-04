@@ -3,8 +3,6 @@ layout: post
 post_type: single-img-rollover
 title: Kings Landing Shitter
 date: 2018-12-24 01:35:00
-category: screenshot
-categories: [screenshot, got]
 tags: [game of thrones, shitter, ROLLOVER]
 img1: /img/other/kingslanding1.jpg
 img1_rollover: /img/other/kingslanding1a.jpg

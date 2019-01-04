@@ -3,8 +3,6 @@ layout: post
 post_type: single-img-rollover
 title: People’s Bank of Point Lookout Shitter
 date: 2018-12-16 01:50:00
-category: screenshot
-categories: [screenshots, rollover, shitters]
 tags: [fallout, fallout 3, shitter, ROLLOVER, are you afraid of the gnome]
 img1: /img/fallout3/peoplesbank1.jpg
 img1_rollover: /img/fallout3/peoplesbank2.jpg

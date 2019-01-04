@@ -3,8 +3,6 @@ layout: post
 post_type: single-img-rollover
 title: Broken Oar Grotto Shitter
 date: 2018-12-17 03:30:00
-category: screenshot
-categories: [screenshots, rollover, shitters]
 tags: [skyrim, shitter, ROLLOVER]
 img1: /img/skyrim/brokenoar1.jpg
 img1_rollover: /img/skyrim/brokenoar2.jpg

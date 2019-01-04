@@ -3,8 +3,6 @@ layout: post
 post_type: double-img-rollover
 title: Shroud Hearth Barrow Shitter
 date: 2018-12-29 01:10:00
-category: screenshot
-categories: [screenshots, shitters]
 tags: [skyrim, shitter, ROLLOVER]
 img1: /img/skyrim/shb1.jpg
 img1_rollover: /img/skyrim/shb1a.jpg

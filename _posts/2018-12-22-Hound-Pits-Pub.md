@@ -3,8 +3,6 @@ layout: post
 post_type: triple-img-rollover
 title: Hound Pits Pub Shitters
 date: 2018-12-22 01:25:00
-category: screenshot
-categories: [screenshots, shitters]
 tags: [dishonored, shitter, ROLLOVER]
 img1: /img/dishonored/hpbb1.jpg
 img1_rollover: /img/dishonored/hpbb1a.jpg

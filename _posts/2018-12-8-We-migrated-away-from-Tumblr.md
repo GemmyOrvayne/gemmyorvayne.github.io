@@ -2,9 +2,7 @@
 layout: post
 post_type: no-img
 title: Gaming Thrones has a New Domain
-category: text conversation
-categories: [text, updates]
-tags: [updates, tumblr]
+tags: [updates]
 ---
 #### We've Migrated Away from Tumblr!
 

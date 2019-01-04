@@ -3,8 +3,6 @@ layout: post
 post_type: double-img
 title: Hillfolk Hotdogs Shitter
 date: 2018-12-22 01:05:00
-category: screenshot
-categories: [screenshot, shitters]
 tags: [fallout, fallout 76, shitter]
 img1: /img/fallout76/hilltophotdogs1.jpg
 img2: /img/fallout76/hilltophotdogs2.jpg

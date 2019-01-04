@@ -3,8 +3,6 @@ layout: post
 post_type: double-img-rollover
 title: Mauhulakh Longhouse Shitters
 date: 2018-12-18 03:15:00
-category: screenshot
-categories: [screenshots, shitters]
 tags: [skyrim, shitter, ROLLOVER]
 img1: /img/skyrim/mauhulakh1.jpg
 img1_rollover: /img/skyrim/mauhulakh1a.jpg

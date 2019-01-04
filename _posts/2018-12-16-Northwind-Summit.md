@@ -3,8 +3,6 @@ layout: post
 post_type: single-img-rollover
 title: Northwind Summit Shitter
 date: 2018-12-16 01:00:00
-category: screenshot
-categories: [screenshots, rollover, shitters]
 tags: [skyrim, shitter, ROLLOVER]
 img1: /img/skyrim/northwindsummit1.jpg
 img1_rollover: /img/skyrim/northwindsummit2.jpg

@@ -3,8 +3,6 @@ layout: post
 post_type: double-img-rollover
 title: Mothership Zeta Shitter
 date: 2019-01-02 01:00:00
-category: screenshot
-categories: [screenshots, shitters]
 tags: [fallout, fallout 3, shitter, are you afraid of the gnome, ROLLOVER]
 img1: /img/fallout3/mzeta1.jpg
 img1_rollover: /img/fallout3/mzeta1a.jpg

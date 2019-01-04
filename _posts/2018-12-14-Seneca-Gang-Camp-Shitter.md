@@ -3,8 +3,6 @@ layout: post
 post_type: single-img
 title: Seneca Gang Camp Shitter
 date: 2018-12-14 09:00:00
-category: screenshot
-categories: [screenshots, shitters]
 tags: [fallout, fallout 76, shitter]
 img1: /img/fallout76/senecagang.jpg
 ---

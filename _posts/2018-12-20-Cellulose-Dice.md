@@ -3,8 +3,6 @@ layout: post
 post_type: single-img
 title: Cellulose Nitrate Dice
 date: 2018-12-20 02:10:00
-category: ponderous
-categories: [interesting]
 tags: [from the annals of history]
 img1: /img/memes/dice.jpg
 ---

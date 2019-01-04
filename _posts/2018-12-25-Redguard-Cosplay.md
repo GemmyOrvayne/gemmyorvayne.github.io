@@ -3,9 +3,7 @@ layout: post
 post_type: four-img
 title: Feveron Redguard Cosplay
 date: 2018-12-26 01:40:00
-category: art
-categories: [art]
-tags: [fan art, cosplay]
+tags: [this is art, cosplay]
 img1: /img/cosplay/feveron1.jpg
 img2: /img/cosplay/feveron4.jpg
 img3: /img/cosplay/feveron2.jpg

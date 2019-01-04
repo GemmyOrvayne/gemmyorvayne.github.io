@@ -2,9 +2,7 @@
 layout: post
 post_type: single-img
 title: Top of the World
-category: screenshot
-categories: [screenshots, funny]
-tags: [fallout, fallout 76, screenshot]
+tags: [fallout, fallout 76]
 img1: /img/fallout76/youcandie.png
 ---
 #### You Can Die

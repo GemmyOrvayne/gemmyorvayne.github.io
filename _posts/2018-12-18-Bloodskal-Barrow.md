@@ -3,8 +3,6 @@ layout: post
 post_type: double-img-rollover
 title: Bloodskal Barrow Shitters
 date: 2018-12-18 02:25:00
-category: screenshot
-categories: [screenshots, rollover, shitters]
 tags: [skyrim, shitter, bucket brigade, ROLLOVER]
 img1: /img/skyrim/bloodskal1.jpg
 img1_rollover: /img/skyrim/bloodskal1a.jpg

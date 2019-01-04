@@ -3,8 +3,6 @@ layout: post
 post_type: double-img-rollover
 title: The Golden Cat Shitter
 date: 2018-12-17 02:50:00
-category: screenshot
-categories: [screenshots, rollover, shitters]
 tags: [dishonored, shitter, ROLLOVER]
 img1: /img/dishonored/gc1.jpg
 img1_rollover: /img/dishonored/gc1a.jpg

@@ -3,8 +3,6 @@ layout: post
 post_type: triple-img-rollover
 title: Redwater Den Shitters
 date: 2018-12-18 02:00:00
-category: screenshot
-categories: [screenshots, rollover, shitters]
 tags: [skyrim, shitter, ROLLOVER]
 img1: /img/skyrim/redwater1.jpg
 img1_rollover: /img/skyrim/redwater1a.jpg

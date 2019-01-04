@@ -3,8 +3,6 @@ layout: post
 post_type: single-img-rollover
 title: Blatant Ripoff Shitter
 date: 2018-12-19 01:45:00
-category: screenshot
-categories: [screenshots, shitters]
 tags: [fallout, fallout 76, shitter, ROLLOVER]
 img1: /img/fallout76/patheticexcuse.jpg
 img1_rollover: /img/fallout76/patheticexcuse2.jpg

@@ -3,8 +3,6 @@ layout: post
 post_type: single-img
 title: The Gnome Wizard
 date: 2018-12-19 01:35:00
-category: screenshot
-categories: [screenshots, funny]
 tags: [fallout, fallout 76, are you afraid of the gnome]
 img1: /img/fallout76/gnomecauldron.jpg
 ---

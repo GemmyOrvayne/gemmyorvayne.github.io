@@ -3,8 +3,6 @@ layout: post
 post_type: single-img-rollover
 title: Burrows Lighthouse Shitter
 date: 2018-12-17 01:10:00
-category: screenshot
-categories: [screenshots, rollover, shitters]
 tags: [dishonored, shitter, ROLLOVER]
 img1: /img/dishonored/burrows1.jpg
 img1_rollover: /img/dishonored/burrows2.jpg

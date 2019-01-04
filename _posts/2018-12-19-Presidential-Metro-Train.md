@@ -3,8 +3,6 @@ layout: post
 post_type: single-img
 title: Presidential Metro Train NPC
 date: 2018-12-19 02:00:00
-category: screenshot
-categories: [screenshots, funny]
 tags: [fallout, fallout 3]
 img1: /img/fallout3/presmetrotrain.png
 ---

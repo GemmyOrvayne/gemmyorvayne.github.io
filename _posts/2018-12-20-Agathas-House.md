@@ -3,8 +3,6 @@ layout: post
 post_type: single-img-rollover
 title: Agatha's House Shitter
 date: 2018-12-20 01:40:00
-category: screenshot
-categories: [screenshots, shitters]
 tags: [fallout, fallout 3, shitter, ROLLOVER]
 img1: /img/fallout3/agatha1.jpg
 img1_rollover: /img/fallout3/agatha1a.jpg

@@ -3,9 +3,7 @@ layout: post
 post_type: single-img-rollover
 title: Movarth's Shoe Fetish
 date: 2018-12-20 01:35:00
-category: screenshot
-categories: [screenshots, funny]
-tags: [skyrim, screenshot, ROLLOVER]
+tags: [skyrim, ROLLOVER]
 img1: /img/skyrim/movarth1.jpg
 img1_rollover: /img/skyrim/movarth1a.jpg
 ---

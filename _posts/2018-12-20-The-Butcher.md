@@ -3,8 +3,6 @@ layout: post
 post_type: double-img-rollover
 title: The Windhelm Butcher Shitters
 date: 2018-12-20 01:00:00
-category: screenshot
-categories: [screenshots, shitters]
 tags: [skyrim, shitter, ROLLOVER]
 img1: /img/skyrim/butcher1.jpg
 img1_rollover: /img/skyrim/butcher1a.jpg

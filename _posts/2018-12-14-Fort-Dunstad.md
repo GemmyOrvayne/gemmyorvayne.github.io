@@ -3,8 +3,6 @@ layout: post
 post_type: single-img-rollover
 title: Fort Dunstad Shitter
 date: 2018-12-14 10:50:00
-category: screenshot
-categories: [screenshots, rollover, shitters]
 tags: [skyrim, shitter, ROLLOVER]
 img1: /img/skyrim/fortdunstad1.jpg
 img1_rollover: /img/skyrim/fortdunstad2.jpg

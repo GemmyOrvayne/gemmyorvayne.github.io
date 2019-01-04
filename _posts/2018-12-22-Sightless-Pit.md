@@ -3,8 +3,6 @@ layout: post
 post_type: single-img-rollover
 title: Sightless Pit Shitter
 date: 2018-12-24 01:10:00
-category: screenshot
-categories: [screenshots, shitters]
 tags: [skyrim, shitter, ROLLOVER]
 img1: /img/skyrim/sightlesspit1.jpg
 img1_rollover: /img/skyrim/sightlesspit1a.jpg

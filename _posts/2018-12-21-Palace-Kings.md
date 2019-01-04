@@ -3,9 +3,7 @@ layout: post
 post_type: triple-img-rollover
 title: Ulfric Stormcloak's Shitter
 date: 2018-12-21 01:00:00
-category: screenshot
-categories: [screenshots, skyrim, shitters]
-tags: [skyrim, shitter]
+tags: [skyrim, shitter, ROLLOVER]
 img1: /img/skyrim/potk2.jpg
 img1_rollover: /img/skyrim/potk2a.jpg
 img2: /img/skyrim/potk3.jpg

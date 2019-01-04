@@ -3,8 +3,6 @@ layout: post
 post_type: double-img-rollover
 title: Abandoned Mineshaft 2 Shitter
 date: 2018-12-30 01:03:00
-category: screenshot
-categories: [screenshots, shitters]
 tags: [fallout, fallout 76, shitter, ROLLOVER]
 img1: /img/fallout76/abandonedmineshaft2a.jpg
 img1_rollover: /img/fallout76/abandonedmineshaft2a1.jpg

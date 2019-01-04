@@ -3,8 +3,6 @@ layout: post
 post_type: four-img-rollover
 title: Marguerite's Shack Shitters
 date: 2018-12-20 01:50:00
-category: screenshot
-categories: [screenshots, shitters]
 tags: [fallout, fallout 3, shitter, are you afraid of the gnome, ROLLOVER]
 img1: /img/fallout3/marg1.jpg
 img1_rollover: /img/fallout3/marg1a.jpg

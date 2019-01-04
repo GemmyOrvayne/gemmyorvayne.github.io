@@ -3,8 +3,6 @@ layout: post
 post_type: single-img-rollover
 title: Deepwood Redoubt Shitter
 date: 2018-12-26 01:25:00
-category: screenshot
-categories: [screenshots, shitters]
 tags: [skyrim, shitter, ROLLOVER]
 img1: /img/skyrim/deepwoodredoubt1.jpg
 img1_rollover: /img/skyrim/deepwoodredoubt1a.jpg

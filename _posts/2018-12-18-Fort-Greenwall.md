@@ -3,8 +3,6 @@ layout: post
 post_type: triple-img-rollover
 title: Fort Greenwall Shitters
 date: 2018-12-18 02:10:00
-category: screenshot
-categories: [screenshots, rollover, shitters]
 tags: [skyrim, shitter, ROLLOVER]
 img1: /img/skyrim/fortgreenwall1.jpg
 img1_rollover: /img/skyrim/fortgreenwall1a.jpg
@@ -19,4 +17,4 @@ I went to Fort Greenwall at level 7, when it was occupied by Bandits. I ended up
 
 Since the Imperials are in charge now, I walked right up to the gate and said, “Excuse me, but do you have a public restroom?” Right this way, they replied.
 
-Behold! I know what you’re thinking. That looks an awful lot like Fort Dunstad’s shitter! But what you're witnessing is the fine and exacting standards of the milk-drinking Imperial military. Notice the Captain’s Quarters has its own chamber pot. You don’t expect the Captain to shit with all the petty officers? If I were this Captain, I would be less interested in the commode situation, and a little more concerned by the sleeping situation. If this doesn’t remind you of some #SochiProblems. That can’t be comfortable. I dare you to sort of casually remark to that last guy, “Yo nice crib dog. Dog. Nice crib.” There’d be a FIGHT. 
+Behold! I know what you’re thinking. That looks an awful lot like Fort Dunstad’s shitter! But what you're witnessing is the fine and exacting standards of the milk-drinking Imperial military. Notice the Captain’s Quarters has its own chamber pot. You don’t expect the Captain to shit with all the petty officers? If I were this Captain, I would be less interested in the commode situation, and a little more concerned by the sleeping situation. If this doesn’t remind you of some #SochiProblems. That can’t be comfortable. I dare you to sort of casually remark to that last guy, “Yo nice crib dog. Dog. Nice crib.” There’d be a FIGHT.
