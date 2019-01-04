@@ -3,8 +3,6 @@ layout: post
 post_type: single-img
 title: Anakin Skywalker in the Deadlands
 date: 2019-01-03 01:03:00
-category: screenshot
-categories: [screenshots, funny]
 tags: [oblivion, totallylookslike, star wars]
 img1: /img/oblivion/anakin.jpg
 ---
