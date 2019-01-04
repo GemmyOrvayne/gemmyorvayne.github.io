@@ -3,8 +3,6 @@ layout: post
 post_type: double-img-rollover
 title: Fort Bannister Shitter
 date: 2018-12-27 01:20:00
-category: screenshot
-categories: [screenshots]
 tags: [fallout, fallout 3, shitter, ROLLOVER]
 img1: /img/fallout3/bannister1.jpg
 img1_rollover: /img/fallout3/bannister1a.jpg

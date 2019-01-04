@@ -3,8 +3,6 @@ layout: post
 post_type: single-img-rollover
 title: Pain Is Your Friend
 date: 2018-12-26 02:00:00
-category: screenshot
-categories: [screenshots, funny]
 tags: [fallout, fallout 3, ROLLOVER]
 img1: /img/fallout3/raidergrenade1.jpg
 img1_rollover: /img/fallout3/raidergrenade1a.jpg

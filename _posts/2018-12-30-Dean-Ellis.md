@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Dean Ellis Painting
 date: 2018-12-30 01:01:00
-tags: [fan art]
+tags: [this is art]
 img1: /img/memes/deanellis.jpg
 source: <a href="http://scifiction.com/post/118791234812/the-crew-of-the-starship-rs-10-assemble-their" target="_blank" rel="nofollow">Scifiction</a>
 ---

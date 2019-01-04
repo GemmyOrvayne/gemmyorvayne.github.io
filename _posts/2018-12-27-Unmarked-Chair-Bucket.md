@@ -3,8 +3,6 @@ layout: post
 post_type: single-img-rollover
 title: A Fallout 76 Tribute to Skyrim
 date: 2018-12-27 01:47:00
-category: screenshots
-categories: [screenshots, shitters]
 tags: [fallout, fallout 76, shitter, ROLLOVER]
 img1: /img/fallout76/unmarked76a.jpg
 img1_rollover: /img/fallout76/unmarked76b.jpg
