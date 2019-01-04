@@ -1,6 +1,0 @@
----
-layout: default
----
-{% for post in site.category[page.category] %}
-  {% include post.html content=post.content img1=post.img1 date=post.date url=post.url tags=post.tags post_type=post.post_type item=post %}
-{% endfor %}
