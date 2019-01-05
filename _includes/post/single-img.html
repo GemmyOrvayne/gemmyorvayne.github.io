@@ -1,5 +1,9 @@
 <div class="post-date"><a href="{{ include.item.url }}">Posted on {{ include.item.date | date: "%B %e, %Y" }}</a></div>
 <div class="post-content">
-  <img src="{{ include.item.img1 }}" class="column-b-img">
+  {% if include.item.img1_link %}
+    <a href="{{ include.item.img1 }}" target="_blank"><img src="{{ include.item.img1 }}" class="column-b-img"></a>
+  {% else %}
+    <img src="{{ include.item.img1 }}" class="column-b-img">
+  {% endif %}
   {{ include.item.content }}
 </div>

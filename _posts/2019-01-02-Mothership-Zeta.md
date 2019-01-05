@@ -11,6 +11,6 @@ img2_rollover: /img/fallout3/mzeta2a.jpg
 ---
 #### Mothership Zeta shitter!
 
-While there are no actual shitters *aboard* Mothership Zeta, when you complete all the quests and touch back down planetside you'll be right next to this nice washroom (with scenic overlook). Good job, hero. Hope your victory shit is glorious.
+There are no *functioning* shitters aboard Mothership Zeta (only that Toilet Museum in photo 2). However, when you complete all the quests and touch back down planetside you'll be right next to this nice washroom (with scenic overlook). Good job, hero. Hope your victory shit is glorious.
 
 PS Mothership Zeta is run by a shadowgovernment (gnomes!). Their reign of terror over Earth was not enough. They want to be in Space.
