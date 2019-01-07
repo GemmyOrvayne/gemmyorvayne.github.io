@@ -9,4 +9,4 @@ img1_link: true
 ---
 #### Evil Gnomes to the left, Cuddly Teddybears to the right, please!
 
-This chart demonstrates the essential differences between vile, scheming gnomes and wonderful, morally-perfect teddybears. Behind every corpse is a gnome, and the teddies just want to make barbeque, benefit the world with ethical Science, and give each other spa treatments. Now you know the differences, so be safe out there, wastelanders. 
+This chart demonstrates the essential differences between vile, scheming gnomes and wonderful, morally-perfect teddybears. Behind every corpse is a gnome, and the teddies just want to make barbeque, benefit the world with ethical Science, and give each other spa treatments. Now, before you say anything, the particular model of Teddy in the first photo is called Teddy Fear, who obviously fell in with the wrong crowd. He's just a little confused, and needs guidance, and love. Anyway, now you know the differences, so be safe out there, wastelanders. 
