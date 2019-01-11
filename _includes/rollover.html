@@ -1,4 +1,19 @@
-<img id="{{ include.img | slugify }}" src="{{ include.img }}" class="column-b-img" onmouseover="rollover(this, '{{ include.img_rollover }}')" onmouseout="rollover(this, '{{ include.img }}')">
+{% if include.img_rollover %}
+  <a href="{{ include.img }}" target="_blank">
+    <img id="{{ include.img | slugify }}"
+         src="{{ include.img }}"
+         class="column-b-img"
+         onmouseover="rollover(this, '{{ include.img_rollover }}')"
+         onmouseout="rollover(this, '{{ include.img }}')">
+  </a>
+{% else %}
+  <a href="{{ include.img }}" target="_blank">
+    <img id="{{ include.img | slugify }}"
+         src="{{ include.img }}"
+         class="column-b-img">
+  </a>
+{% endif %}
+
 <style>
   {{ include.img | slugify }} {
     display: none;
