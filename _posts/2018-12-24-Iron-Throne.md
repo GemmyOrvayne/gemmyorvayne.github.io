@@ -4,7 +4,7 @@ post_type: single-img
 title: The Iron Throne
 date: 2018-12-24 01:25:00
 tags: [this is art, game of thrones]
-img1: /img/other/ironthrone.jpg
+img1: /img/art/ironthrone.jpg
 source: <a href="https://www.wired.com/2013/07/real-iron-throne-hbo-martin/" target="_blank" rel="nofollow">Wired</a>
 ---
 #### The Iron Throne, the way George R.R. Martin intended it.
