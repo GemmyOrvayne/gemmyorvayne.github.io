@@ -15,6 +15,7 @@
       }
     </script>
     <style>
+    * { box-sizing: border-box }
     html {
       height: 100%;
     }
@@ -40,7 +41,7 @@
       max-width: 1600px;
       justify-content: space-between;
     }
-    .flex-grid .sidebar {
+    .sidebar {
       flex: 1;
       width: 20%;
       margin: 10px;
@@ -49,6 +50,10 @@
       flex-direction: column;
       align-items: center;
       padding: 1em;
+    }
+    .sidebar.sidebar-fixed {
+      position: fixed;
+      background-color: rgba(0,0,0,0);
     }
     .sidebar-img {
       width: 150px;
@@ -187,11 +192,57 @@
       flex-direction: row;
       margin-top: 10px;
     }
+    input[type="submit"], input[type="reset"] {
+      padding: .25em 1em;
+      background: #8b0000;
+      color: #eeeeff;
+      cursor: pointer;
+      text-align: center;
+    }
+    .submitter .submit {
+      font-weight: bold;
+      font-size: larger;
+      color: #8b0000;
+    }
+    .submitter .legend {
+      font-weight: bold;
+      text-align: center;
+      padding: 1em;
+      color: #8b0000;
+    }
+    .submitter .formcontent {
+      font-style: italic;
+      padding: 1em;
+    }
+    .submitter .terms-label {
+      width: 100%;
+    }
+    .submitter label {
+      color: #8b0000;
+      font-weight: bold;
+      display: block;
+      width: 25%;
+      float: left;
+    }
+    .submitter .accept {
+    }
+    .submitter .fine-print {
+      font-style: italic;
+    }
+    .row {
+      display: flex;
+    }
+    .column {
+      display: flex;
+      flex-direction: column;
+    }
     </style>
   </head>
   <body>
     <div class="flex-grid">
       <div class="sidebar">
+      </div>
+      <div class="sidebar sidebar-fixed">
         <a href="/"><img src="/img/bucket.png" class="sidebar-img"></a>
         <p>Thank you for using Gaming Thrones
         <br>for your video game shitter needs.
