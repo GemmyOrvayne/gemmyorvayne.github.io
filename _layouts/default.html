@@ -3,6 +3,7 @@
   <head>
     <title>Gaming Thrones</title>
     <link rel="shortcut icon" href="/bucket.ico" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css?family=Architects+Daughter" rel="stylesheet">
     <script>
       if (window.location.hostname.match('127.0.0.1') || window.location.hostname.match('localhost')) {
         window.API_PATH = 'http://127.0.0.1:5000'
@@ -56,7 +57,7 @@
       background-color: rgba(0,0,0,0);
     }
     .sidebar-img {
-      width: 150px;
+      width: 125px;
       padding: 10px;
     }
     .sidebar p {
@@ -84,7 +85,8 @@
     }
     .tagcloud {
       margin: 1em;
-      display: none;
+      display: block;
+      font-family: 'Architects Daughter', cursive;
     }
     .flex-grid .main {
       flex: 4;
@@ -240,8 +242,7 @@
   </head>
   <body>
     <div class="flex-grid">
-      <div class="sidebar">
-      </div>
+      <div class="sidebar"></div>
       <div class="sidebar sidebar-fixed">
         <a href="/"><img src="/img/bucket.png" class="sidebar-img"></a>
         <p>Thank you for using Gaming Thrones
@@ -254,17 +255,7 @@
             <input type="submit" value="Submit" />
           </form>
         </div>
-        <div class="tagcloud">
-          {% assign tags = site.tags | sort %}
-          {% for tag in tags %}
-            <span class="site-tag">
-                <a href="/tag/{{ tag | first | slugify }}/"
-                    style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
-                        {{ tag[0] | replace:'-', ' ' }}
-                </a>
-            </span>
-          {% endfor %}
-        </div>
+        {% include tagcloud.html %}
       </div>
       <div class="main">
         <div class="banner">

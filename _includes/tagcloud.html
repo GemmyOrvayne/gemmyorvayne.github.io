@@ -1,0 +1,21 @@
+<div class="tagcloud">
+  {% assign total_tag_count = site.tags.size %}
+  {% for tag_obj in site.tags | sort_natural 0 %}
+    {% assign tag = tag_obj[0] %}
+    {% if tag == "ROLLOVER" %}
+      {% continue %}
+    {% endif %}
+    {% assign tag_count = site.tags[tag].size %}
+    {% if tag_count > 60 %}
+      {% assign rel_tag_size = 2 %}
+    {% elsif tag_count < 3 %}
+      {% continue %}
+    {% else %}
+      {% assign rel_tag_size = tag_count | times: 3.0 | divided_by: total_tag_count | divided_by: 10 | plus: 1 %}
+    {% endif %}
+    <span style="white-space: nowrap; font-size: {{ rel_tag_size }}em; padding: 0.6em;">
+      <a href="/tags/{{ tag | slugify }}" class="tag">{{ tag }}
+      </a>
+    </span>
+  {% endfor %}
+</div>
