@@ -1,0 +1,38 @@
+.primary-nav {
+  background-color: $brand-color;
+  align-items: flex-start;
+  color: $dark-bg-text-color;
+  text-shadow: 1px 1px 1px black;
+  height: 100vh;
+  position: sticky;
+  top: 0px;
+
+  .nav-list {
+    justify-content: space-evenly;
+    list-style: none;
+    margin: 1em 0;
+    width: 100%;
+
+    .nav-item {
+      justify-content: center;
+      width: 75%;
+      margin: auto;
+      .nav-title {
+        text-align: center;
+        border-bottom: 1px solid $accent-color;
+        margin-bottom: .1em; 
+      }
+      .nav-desc {
+        margin: .2em;
+        font-size: .8em;
+        text-align: center;
+      }
+    }
+  }
+
+  .logo {
+    margin: 1em;
+    display: block;
+    width: 75%;
+  }
+}
