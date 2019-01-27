@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Monongah Overlook Shitter
 date: 2019-01-24 01:03:00
-tags: [fallout, fallout 76]
+tags: [fallout, fallout 76, shitter, ROLLOVER]
 img1: /img/fallout76/mongover1.jpg
 img1_rollover: /img/fallout76/mongover1a.jpg
 img2: /img/fallout76/mongover2.jpg
