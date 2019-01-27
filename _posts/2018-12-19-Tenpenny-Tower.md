@@ -11,7 +11,7 @@ img2_rollover: /img/fallout3/tenpenny2a.jpg
 img3: /img/fallout3/tenpenny3.jpg
 img3_rollover: /img/fallout3/tenpenny3a.jpg
 ---
-#### Tenpenny Tower shitters!
+## Tenpenny Tower shitters!
 
 Allistair Tenpenny is a milk drinker with the voice of Herbert the Pervert, and skid marks on the bottom of his bathtub.
 

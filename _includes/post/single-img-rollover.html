@@ -1,5 +1,2 @@
-<div class="post-date"><a href="{{ include.item.url }}">Posted on {{ include.item.date | date: "%B %e, %Y" }}</a></div>
-<div class="post-content">
-  {% include rollover.html img=include.item.img1 img_rollover=include.item.img1_rollover %}
-  {{ include.item.content }}
-</div>
+{% include rollover.html img=include.item.img1 img_rollover=include.item.img1_rollover %}
+{{ include.item.content }}

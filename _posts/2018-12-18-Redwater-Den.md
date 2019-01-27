@@ -11,7 +11,7 @@ img2_rollover: /img/skyrim/redwater2a.jpg
 img3: /img/memes/skooma.jpg
 img3_rollover: /img/memes/skooma.jpg
 ---
-#### Redwater Den & Redwater Spring shitters!
+## Redwater Den & Redwater Spring shitters!
 
 As you meander along the cavern, as one of the only coherent sentient beings in Redwater Den, you'll find this clean, well-maintained, relatively-private alcove for paying customers only. If there's one thing these dope pushers know how to do, it's making you as comfortable as possible during the Skooma shakes.
 

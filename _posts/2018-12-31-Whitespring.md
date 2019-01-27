@@ -11,7 +11,7 @@ img2_rollover: /img/fallout76/whitespring1a.jpg
 img3: /img/fallout76/whitespringgnome1.jpg
 img3_rollover: /img/fallout76/whitespringgnome1a.jpg
 ---
-#### Whitespring Golf Resort shitters!
+## Whitespring Golf Resort shitters!
 
 The Child of Frankenstein that you see before you now is what happens when my camera view is cramped into a tiny-ass corner of a shower trying to get a shot of the entire bathroom and Bethesda will not let me be great. Anyway, I clipped it together and you get the idea. The Enclave's secret relaxation retreat, Whitespring Golf Club, boasts powder rooms with plenty of sparkly loots and fixtures that are not even broken. This is going to make the common people seethe from injustice and start singing Galavant's *Today We Rise.*
 <br><br>

@@ -9,7 +9,7 @@ img1_rollover: /img/bioshock/sfield2a.jpg
 img2: /img/bioshock/sfield3.jpg
 img2_rollover: /img/bioshock/sfield3a.jpg
 ---
-#### Soldier's Field shitters!
+## Soldier's Field shitters!
 
 Another 'amusement park' in Columbia, Soldier's Field features a baffling puzzle that only the most discerning simpleton could ever solve.
 

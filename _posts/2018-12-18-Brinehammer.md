@@ -7,6 +7,6 @@ tags: [skyrim, shitter, ROLLOVER]
 img1: /img/skyrim/brinehammer1.jpg
 img1_rollover: /img/skyrim/brinehammer2.jpg
 ---
-#### Wreck of the Brinehammer shitters!
+## Wreck of the Brinehammer shitters!
 
 Below deck, you’ll find numerous spots to squat. Watch out for Pirate Ghosts!

@@ -8,4 +8,4 @@ source: <a href="https://www.facebook.com/christopher.hockett.3" target="_blank"
 img1: /img/cosplay/props2.png
 img2: /img/cosplay/props1.png
 ---
-#### Fallout Props by Christopher Hockett.
+## Fallout Props by Christopher Hockett.

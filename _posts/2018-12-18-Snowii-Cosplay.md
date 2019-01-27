@@ -11,4 +11,4 @@ img3: /img/cosplay/snowii3.jpg
 img4: /img/cosplay/snowii4.jpg
 img5: /img/cosplay/snowii5.jpg
 ---
-#### RUINSNRADZ Cosplay photographed by Snowii Photographie.
+## RUINSNRADZ Cosplay photographed by Snowii Photographie.

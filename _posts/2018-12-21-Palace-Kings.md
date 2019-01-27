@@ -11,7 +11,7 @@ img2_rollover: /img/skyrim/potk3a.jpg
 img3: /img/skyrim/potk4.jpg
 img3_rollover: /img/skyrim/potk4a.jpg
 ---
-#### Palace of the Kings, Windhelm shitters!
+## Palace of the Kings, Windhelm shitters!
 
 This right here is why Jarl Ulfric Stormcloak is a vinegar-based feminine wash. The first photo is where Jorleif sleeps. No, really. Ulfric’s oldest friend, who he sorta just allows to hang around the throne room and pipe in with advice now and then, sleeps on the floor and shits in a corner of the kitchens.
 

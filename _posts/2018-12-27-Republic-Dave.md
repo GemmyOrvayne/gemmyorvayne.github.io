@@ -7,6 +7,6 @@ tags: [fallout, fallout 3, shitter, ROLLOVER]
 img1: /img/fallout3/rdave1.jpg
 img1_rollover: /img/fallout3/rdave1a.jpg
 ---
-#### Republic of Dave shitter!
+## Republic of Dave shitter!
 
 Note the waiting bench, in the event the very exposed, doorless outhouse is already in use. As I maneuvered into position to get this picture, Bob (Son of Dave), seen here peeping through a hole in the side of the Women’s Quarters, hollered at me, “Is that really necessary?” Isn’t it, Bob?

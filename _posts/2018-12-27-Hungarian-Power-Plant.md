@@ -9,4 +9,4 @@ img2: /img/fallout3/hungary2.png
 img3: /img/fallout3/hungary3.png
 source: <a href="https://www.flickr.com/photos/norue/sets/72157632825252512/" target="_blank" rel="nofollow">Flickr</a>
 ---
-#### Thermal Power Plant K, Hungary. *Built in 1927, abandoned in 2006.* Photos by Andreas S.
+## Thermal Power Plant K, Hungary. *Built in 1927, abandoned in 2006.* Photos by Andreas S.

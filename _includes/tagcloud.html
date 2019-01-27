@@ -1,6 +1,7 @@
 <div class="tagcloud">
   {% assign total_tag_count = site.tags.size %}
-  {% for tag_obj in site.tags | sort_natural 0 %}
+  {% assign sorted_tags = site.tags | sort %}
+  {% for tag_obj in sorted_tags %}
     {% assign tag = tag_obj[0] %}
     {% if tag == "ROLLOVER" %}
       {% continue %}

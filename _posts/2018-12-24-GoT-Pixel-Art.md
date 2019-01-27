@@ -12,4 +12,4 @@ img5: /img/art/melisandrepixel.gif
 img6: /img/art/daeneryspixel.gif
 source: <a href="http://pixeljoint.com/p/45353.htm/" target="_blank" rel="nofollow">PixelJoint</a>
 ---
-#### Game of Thrones character pixel art by Charlie_pl.
+## Game of Thrones character pixel art by Charlie_pl.

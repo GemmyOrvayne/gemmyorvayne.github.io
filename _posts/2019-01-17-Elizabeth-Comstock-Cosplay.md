@@ -9,4 +9,4 @@ img2: /img/cosplay/comstock1.jpg
 img3: /img/cosplay/comstock3.jpg
 source: <a href="https://www.deviantart.com/milliganvick" target="_blank" rel="nofollow">Deviantart</a>
 ---
-#### *Elizabeth Comstock,* by Milligan Vick.
+## *Elizabeth Comstock,* by Milligan Vick.

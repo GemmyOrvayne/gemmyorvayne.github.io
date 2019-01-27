@@ -7,6 +7,6 @@ tags: [fallout, fallout 3, shitter, ROLLOVER]
 img1: /img/fallout3/chacres1.jpg
 img1_rollover: /img/fallout3/chacres1a.jpg
 ---
-#### Chaste Acres Dairy Farm shitter!
+## Chaste Acres Dairy Farm shitter!
 
 Something tells me that outhouse has been witness to numerous grisly Jurassic Park-like horrors and is probably praying a stiff gust blows a flaming tumbleweed into its open bowl.
