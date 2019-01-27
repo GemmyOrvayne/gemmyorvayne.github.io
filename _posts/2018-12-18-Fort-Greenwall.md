@@ -11,7 +11,7 @@ img2_rollover: /img/skyrim/fortgreenwall2a.jpg
 img3: /img/skyrim/fortgreenwall3.jpg
 img3_rollover: /img/skyrim/fortgreenwall3a.jpg
 ---
-#### Fort Greenwall shitters!
+## Fort Greenwall shitters!
 
 I went to Fort Greenwall at level 7, when it was occupied by Bandits. I ended up running away with my arms over my head shouting, “I just want to photograph your shitter!” I sort of forgot about that place, and today, at level 68 I saw it in the distance and thought, “Today is the day where I witness where y'all do Number 2.”
 

@@ -13,7 +13,7 @@ img3_rollover: /img/skyrim/neugrad1a.jpg
 img4: /img/skyrim/kastav1.jpg
 img4_rollover: /img/skyrim/kastav1a.jpg
 ---
-#### Skyrim's Classic Prison shitter!
+## Skyrim's Classic Prison shitter!
 
 Here is a sampling of some of the shitters I found in Skyrim's various dungeons and jail cells.
 <br><br>

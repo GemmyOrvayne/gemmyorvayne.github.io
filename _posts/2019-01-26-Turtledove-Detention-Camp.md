@@ -9,6 +9,6 @@ img1_rollover: /img/fallout3/tdove1a.jpg
 img2: /img/fallout3/tdove2.jpg
 img2_rollover: /img/fallout3/tdove2a.jpg
 ---
-#### Turtledove Detention Camp shitters!
+## Turtledove Detention Camp shitters!
 
 How xenophobic do you have to be? This racist stockade has segregated bathrooms to protect the guards from whatever it is that makes a person Communist. Conditions here were so bad that part of the camp was used for a toxic waste dumping site.

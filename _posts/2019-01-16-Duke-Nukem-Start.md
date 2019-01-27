@@ -11,7 +11,7 @@ img2_rollover: /img/other/dukeforeverstart2a.jpg
 img3: /img/other/dukeforeverstart3.jpg
 img3_rollover: /img/other/dukeforeverstart3a.jpg
 ---
-#### Duke Nukem Forever Start Point shitter!
+## Duke Nukem Forever Start Point shitter!
 
 Right away when you start Duke Nukem Forever you find yourself in this setting, which really lays the foundation for what you can expect out of the game, in the way of humor and maturity. Needless to say, I felt electrified with a feverish enthusiasm to explore this complex storyline and multifaceted main character after zoning in to a bathroom first thing. These shitters are 100% interactive, a somewhat rare quality in a game shitter.
 

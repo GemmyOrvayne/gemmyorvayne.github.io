@@ -8,4 +8,4 @@ img1: /img/cosplay/heman1.jpg
 img2: /img/cosplay/heman1a.gif
 source: <a href="http://geekingabout-blog.tumblr.com/tagged/anime-boston" target="_blank" rel="nofollow">Geeking About</a>
 ---
-#### *The Rainbow Warrior,* Heman Cosplay.
+## *The Rainbow Warrior,* Heman Cosplay.

@@ -8,4 +8,4 @@ img1: /img/fallout4/newgroove1.jpg
 img2: /img/fallout4/newgroove2.gif
 source: <a href="https://unsaltedwaters.tumblr.com/post/134826816929/pull-the-lever-kronk" target="_blank" rel="nofollow">Unsalted Waters</a>
 ---
-#### *"Pull the lever, Kronk."*
+## *"Pull the lever, Kronk."*

@@ -9,7 +9,7 @@ img1_rollover: /img/fallout76/boltongreen1a.jpg
 img2: /img/fallout76/boltongreen2.jpg
 img2_rollover: /img/fallout76/boltongreen2a.jpg
 ---
-#### Bolton Greens shitter!
+## Bolton Greens shitter!
 
 Hey, little buddy, you're far from home. This gondola shitter is oddly placed in an overgrown meadow of lush grasses and defunct appliances. A scorched wastelander extends an arm toward the bowl, as though expecting salvation. In another lifetime, perhaps.
 

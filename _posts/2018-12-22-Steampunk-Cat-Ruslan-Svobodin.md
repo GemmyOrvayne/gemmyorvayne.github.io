@@ -7,4 +7,4 @@ tags: [totallylookslike, dishonored, this is art]
 img1: /img/dishonored/svobodin.jpg
 source: Artist R. Svobodin
 ---
-#### Steampunk Cat by Ruslan Svobodin
+## Steampunk Cat by Ruslan Svobodin

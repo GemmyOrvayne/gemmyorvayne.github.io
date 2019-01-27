@@ -7,4 +7,4 @@ tags: [this is art]
 img1: /img/art/eggleton.jpg
 source: <a href="http://70sscifiart.tumblr.com/post/132088172741/bob-eggleton-the-war-dragon" target="_blank" rel="nofollow">70s Sci-Fi Art</a>
 ---
-#### *The War Dragon,* Bob Eggleton.
+## *The War Dragon,* Bob Eggleton.

@@ -9,6 +9,6 @@ img1_rollover: /img/fallout76/berkleysprings1a.jpg
 img2: /img/fallout76/berkleysprings2.jpg
 img2_rollover: /img/fallout76/berkleysprings2a.jpg
 ---
-#### Berkley Springs shitter!
+## Berkley Springs shitter!
 
 This puzzling graffito was left in a trailer at Berkley Springs. Does the arcane scrawling on this filthy tiled cell indicate the presence of aliens, or are they perhaps sheriff hats? The chems can certainly only help you find the answer.

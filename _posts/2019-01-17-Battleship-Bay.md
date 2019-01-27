@@ -17,7 +17,7 @@ img5_rollover: /img/bioshock/colirish2a.jpg
 img6: /img/bioshock/colirish3.jpg
 img6_rollover: /img/bioshock/colirish3a.jpg
 ---
-#### Battleship Bay shitters!
+## Battleship Bay shitters!
 
 These shitters are brought to you by Bucket Brigadier **Minjianaxx!** The bathrooms at this entertainment resort are segregated, with obnoxious, rude signs indicating where it is legal or illegal to shit. The nerve of this place. You can't tell me where to squat.
 

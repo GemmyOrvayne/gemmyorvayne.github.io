@@ -9,6 +9,6 @@ img1_rollover: /img/fallout76/mm1a.jpg
 img2: /img/fallout76/mm2a.jpg
 img2_rollover: /img/fallout76/mm2a.jpg
 ---
-#### Mothman Museum shitter!
+## Mothman Museum shitter!
 
 Do you revere Mothman, but DESPISE doors on your shitters? This is the bathroom for you, my friend. The central worshipping temple of Mothman is accessed via this unisex restroom. Within this small room, turn left and you'll see a second doorway, also missing a door (it's busted down), and a stairway leading down to this picturesque country chapel. You bought Fallout 76 to fulfill your fantasy as the pastor of an imaginary, feathery insect with glowing eyes, didn't you? Bethesda has a little something for everyone!

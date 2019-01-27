@@ -9,7 +9,7 @@ img1_rollover: /img/fallout3/mzeta1a.jpg
 img2: /img/fallout3/mzeta2.jpg
 img2_rollover: /img/fallout3/mzeta2a.jpg
 ---
-#### Mothership Zeta shitter!
+## Mothership Zeta shitter!
 
 There are no *functioning* shitters aboard Mothership Zeta (only that Toilet Museum in photo 2). However, when you complete all the quests and touch back down planetside you'll be right next to this nice washroom (with scenic overlook). Good job, hero. Hope your victory shit is glorious.
 

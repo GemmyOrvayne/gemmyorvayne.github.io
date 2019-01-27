@@ -9,7 +9,7 @@ img1_rollover: /img/fallout3/LLamplight1a.jpg
 img2: /img/fallout3/bigtown.jpg
 img2_rollover: /img/fallout3/bt5.jpg
 ---
-#### Little Lamplight & Big Town shitters!
+## Little Lamplight & Big Town shitters!
 
 The inhabitants of the kids-only bunker of Little Lamplight are tough as nails, but do not underestimate their instinct for bathroom aesthetics. Just look at that ambiance! Nobody wants to get kicked out of Little Lamplight when they reach age 16, and no wonder. Do they even have a shitter in Big Town?
 

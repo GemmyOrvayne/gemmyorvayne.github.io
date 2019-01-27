@@ -7,4 +7,4 @@ tags: [skyrim, this is art]
 img1: /img/skyrim/sheehy.jpg
 source: <a href="https://www.facebook.com/pg/pencilmageillustrations/photos/" target="_blank" rel="nofollow">Facebook</a>
 ---
-#### Miniature Skyrim spellbooks, by artist Élisabeth Sheehy.
+## Miniature Skyrim spellbooks, by artist Élisabeth Sheehy.

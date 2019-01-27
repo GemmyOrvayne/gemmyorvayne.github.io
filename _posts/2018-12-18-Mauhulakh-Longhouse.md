@@ -9,6 +9,6 @@ img1_rollover: /img/skyrim/mauhulakh1a.jpg
 img2: /img/skyrim/mauhulakh2.jpg
 img2_rollover: /img/skyrim/mauhulakh2a.jpg
 ---
-#### Mauhulakh Longhouse shitters!
+## Mauhulakh Longhouse shitters!
 
 The Orcs of Narzulbur Stronghold show us the two extremes of indoor bucketing, each at opposite ends of the longhouse. One is clean and private, the other is neither.
