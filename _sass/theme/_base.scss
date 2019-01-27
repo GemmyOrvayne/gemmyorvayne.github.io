@@ -113,12 +113,11 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: $brand-color;
   }
 
   &:hover {
-    color: $text-color;
-    text-decoration: underline;
+    color: lighten($brand-color, 20%);
   }
 
   .social-media-list &:hover {
@@ -265,4 +264,13 @@ table {
 input {
   border-radius: 10px;
   padding: .2em .5em;
+}
+input[type="submit"] {
+  background-color: $brand-color;
+  border: 2px solid $secondary-color;
+  color: $dark-bg-text-color;
+  text-shadow: 1px 1px 1px black;
+  &:hover {
+    background-color: $secondary-color;
+  }
 }

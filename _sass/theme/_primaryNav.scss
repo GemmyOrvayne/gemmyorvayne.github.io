@@ -18,6 +18,16 @@
       justify-content: center;
       width: 75%;
       margin: auto;
+
+      a, a:visited, a:active { 
+        color: $dark-bg-text-color;
+      } 
+
+      a:hover {
+        text-decoration: none;
+        color: $accent-color;
+      }
+
       .nav-title {
         text-align: center;
         border-bottom: 1px solid $accent-color;

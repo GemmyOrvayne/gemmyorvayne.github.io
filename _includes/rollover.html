@@ -1,16 +1,16 @@
 {% if include.img_rollover %}
-  <a href="{{ include.img }}" target="_blank">
+  <a href="{{ include.img }}" class="content-img-link" target="_blank">
     <img id="{{ include.img | slugify }}"
          src="{{ include.img }}"
-         class="column-b-img"
+         class="content-img"
          onmouseover="rollover(this, '{{ include.img_rollover }}')"
          onmouseout="rollover(this, '{{ include.img }}')">
   </a>
 {% else %}
-  <a href="{{ include.img }}" target="_blank">
+  <a href="{{ include.img }}" class="content-img-link" target="_blank">
     <img id="{{ include.img | slugify }}"
          src="{{ include.img }}"
-         class="column-b-img">
+         class="content-img">
   </a>
 {% endif %}
 

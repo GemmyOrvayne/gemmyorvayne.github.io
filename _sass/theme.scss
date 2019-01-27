@@ -18,7 +18,7 @@ $text-color:       #111 !default;
 $dark-bg-text-color: #dccdbc !default;
 $brand-color:      #1d130d !default;
 $secondary-color:  lighten(adjust-hue($brand-color, 10%), 10%) !default;
-$accent-color:     lighten($brand-color, 50%)  !default;
+$accent-color:     #8b0000  !default;
 $background-color: #fdfdfd !default;
 $white-background: rgba(#ffffff,.7) !default;
 $background-image: url('/img/woodgrain_background.jpg');
@@ -59,6 +59,7 @@ $on-laptop:        800px !default;
   "theme/pagination",
   "theme/post",
   "theme/searchbar",
+  "theme/searchResults",
   "theme/primaryNav",
   "theme/secondaryNav"
 ;
