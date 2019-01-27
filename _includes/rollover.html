@@ -1,15 +1,15 @@
 {% if include.img_rollover %}
-  <a href="{{ include.item.img }}" target="_blank">
-    <img id="{{ include.item.img | slugify }}"
-         src="{{ include.item.img }}"
+  <a href="{{ include.img }}" target="_blank">
+    <img id="{{ include.img | slugify }}"
+         src="{{ include.img }}"
          class="column-b-img"
-         onmouseover="rollover(this, '{{ include.item.img_rollover }}')"
-         onmouseout="rollover(this, '{{ include.item.img }}')">
+         onmouseover="rollover(this, '{{ include.img_rollover }}')"
+         onmouseout="rollover(this, '{{ include.img }}')">
   </a>
 {% else %}
-  <a href="{{ include.item.img }}" target="_blank">
-    <img id="{{ include.item.img | slugify }}"
-         src="{{ include.item.img }}"
+  <a href="{{ include.img }}" target="_blank">
+    <img id="{{ include.img | slugify }}"
+         src="{{ include.img }}"
          class="column-b-img">
   </a>
 {% endif %}
@@ -17,6 +17,6 @@
 <style>
   {{ include.item.img | slugify }} {
     display: none;
-    content:url('{{ include.item.img_rollover }}');
+    content:url('{{ include.img_rollover }}');
   }
 </style>
