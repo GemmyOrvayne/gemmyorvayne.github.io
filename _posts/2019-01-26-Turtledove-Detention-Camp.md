@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Turtledove Detention Camp Shitters
 date: 2019-01-26 01:02:00
-tags: [fallout, fallout3, ROLLOVER]
+tags: [fallout, fallout 3, ROLLOVER]
 img1: /img/fallout3/tdove1.jpg
 img1_rollover: /img/fallout3/tdove1a.jpg
 img2: /img/fallout3/tdove2.jpg

@@ -9,7 +9,13 @@
     {% if tag == "memes" %}
       {% continue %}
     {% endif %}
-    {% if tag == "fallout" %}
+    {% if tag == "fallout new vegas" %}
+      {% continue %}
+    {% endif %}
+    {% if tag == "fallout 3" %}
+      {% continue %}
+    {% endif %}
+    {% if tag == "fallout 4" %}
       {% continue %}
     {% endif %}
     {% assign tag_count = site.tags[tag].size %}
@@ -20,7 +26,7 @@
     {% else %}
       {% assign rel_tag_size = tag_count | times: 3.0 | divided_by: total_tag_count | divided_by: 10 | plus: 1 %}
     {% endif %}
-    <span style="white-space: nowrap; font-size: {{ rel_tag_size }}em; padding: 0.6em;">
+    <span style="white-space: nowrap; font-size: {{ rel_tag_size }}em; padding: 5px;">
       <a href="/tags/{{ tag | slugify }}" class="tag">{{ tag }}
       </a>
     </span>

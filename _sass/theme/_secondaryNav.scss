@@ -1,11 +1,11 @@
 .secondary-nav {
   background-color: rgba($secondary-color, .9);
   min-width:300px;
-  color: $dark-bg-text-color;
+  color: $text-color;
   position: sticky;
   top: 0px;
   height: 100vh;
-  text-shadow: 1px 1px 1px black;
+
   * {
     margin: 1em 0 0;
   }
@@ -16,12 +16,12 @@
 }
 
 .tagcloud {
-  color: $dark-bg-text-color;
+  color: $text-color;
   margin: auto 1em;
   font-family: $heading-font;
 
   a, a:visited, a:active {
-    color: $dark-bg-text-color;
+    color: $text-color;
     padding: 5px;
   }
 }
