@@ -1,5 +1,6 @@
 .secondary-nav {
   background-color: rgba($secondary-color, .9);
+  min-width:300px;
   color: $dark-bg-text-color;
   position: sticky;
   top: 0px;
