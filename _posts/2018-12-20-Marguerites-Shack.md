@@ -13,7 +13,7 @@ img3_rollover: /img/fallout3/marg3a.jpg
 img4: /img/fallout3/marg4.jpg
 img4_rollover: /img/fallout3/marg4a.jpg
 ---
-#### Marguerite's Shack shitters!
+## Marguerite's Shack shitters!
 
 Now here's a real chin-scratcher. There are plenty of objects here that look the part, but which is the legitimate shitter? I'm pretty sure one is a planter. The structural outhouse has a great deal of overgrowth and other indications of disuse (such as the ‘innocent’ gnome laying nearby who we all know is a vicious killer).
 

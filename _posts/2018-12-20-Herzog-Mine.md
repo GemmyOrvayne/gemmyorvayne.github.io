@@ -11,7 +11,7 @@ img2_rollover: /img/fallout3/kenny2a.jpg
 img3: /img/fallout3/kenny3.jpg
 img3_rollover: /img/fallout3/kenny3a.jpg
 ---
-#### Miner’s Rest at Herzog Mine, Point Lookout shitters!
+## Miner’s Rest at Herzog Mine, Point Lookout shitters!
 
 Kenny has sweet digs in the abandoned Herzog Mine and his guest bunk has its own shitter! Tons of toys and games will keep you from thinking about that skeleton of Old Man Herzog hanging from a noose in the hallway below. Yes, Kenny is absolutely playing checkers with a Garden Gnome. Kenny IS the Pint-Sized Slasher and I’m pretty sure that Gnome is living vicariously through Kenny.
 

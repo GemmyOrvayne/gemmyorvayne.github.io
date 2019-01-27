@@ -7,6 +7,6 @@ tags: [fallout, fallout 76, shitter, ROLLOVER]
 img1: /img/fallout76/unmarked76a.jpg
 img1_rollover: /img/fallout76/unmarked76b.jpg
 ---
-#### Unmarked Wasteland shitter!
+## Unmarked Wasteland shitter!
 
 A tribute to Skyrim in the Appalachian Wasteland? This outhouse sports the classic combination - chair AND a bucket.

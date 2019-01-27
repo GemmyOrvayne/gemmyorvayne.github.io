@@ -9,9 +9,9 @@ img1_rollover: /img/fallout4/sunshinetidings1a.jpg
 img2: /img/fallout4/sunshinetidings2.jpg
 img2_rollover: /img/fallout4/sunshinetidings2a.jpg
 ---
-### *Winner! of the prestigious 2015 Brown Ribbon!*
+#### *Winner! of the prestigious 2015 Brown Ribbon!*
 
-#### Sunshine Tidings Co-op shitters!
+## Sunshine Tidings Co-op shitters!
 
 The winner of the coveted Brown Ribbon of the Year award in 2015 was this REALLY nice wooden outhouse at Sunshine Tidings Co-op. As you can see, this shitter is top-notch, with potential for a bright future. The elevated nature of this stall lends itself to superior protection against pests such as radroachs and molerats while you're having a moment alone.
 

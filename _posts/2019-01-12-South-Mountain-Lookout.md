@@ -7,4 +7,4 @@ tags: [fallout, fallout 76, ROLLOVER]
 img1: /img/fallout76/smtnlookout1.jpg
 img1_rollover: /img/fallout76/smtnlookout1a.jpg
 ---
-#### How to say "Welcome, stranger!" in the year 2102.
+## How to say "Welcome, stranger!" in the year 2102.

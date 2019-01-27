@@ -7,7 +7,7 @@ tags: [dragon age, shitter, bucket brigade, ROLLOVER]
 img1: /img/other/fereldenmt1.jpg
 img1_rollover: /img/other/fereldenmt1a.jpg
 ---
-#### Ferelden Mage Tower Dormitory shitter!
+## Ferelden Mage Tower Dormitory shitter!
 
 This image is from the game Dragon Age: Origins. Submitted by Bucket Brigadier **Minjianaxx**, who says this:
 <br><br>

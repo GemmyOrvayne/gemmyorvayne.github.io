@@ -12,4 +12,4 @@ source: <a href="https://flavoracle.tumblr.com/post/179612935702/a-couple-months
 <br><br>
 *Well it wasn’t on the 20...it was on the opposite side.*
 <br><br>
-*Now to be fair, I can imagine somebody on the marketing team thought, “Hey, we’re #1! That’s the best right?” But I just can’t help appreciating the humor of seeing “Xfinity” every time someone rolls a critical fail.*
+*Now to be fair, I can imagine somebody on the marketing team thought, “Hey, we’re ##1! That’s the best right?” But I just can’t help appreciating the humor of seeing “Xfinity” every time someone rolls a critical fail.*

@@ -7,7 +7,7 @@ tags: [skyrim, shitter, ROLLOVER]
 img1: /img/skyrim/sightlesspit1.jpg
 img1_rollover: /img/skyrim/sightlesspit1a.jpg
 ---
-#### Sightless Pit shitter!
+## Sightless Pit shitter!
 
 From the picture, this looks like a pretty nice campsite. But if you were there, you’d know that bucket is frozen to the damn floor. By the way, Falmer drag campers off into the darkness and cut them into pieces just for making a fire here, so I would recommend you proceed without squatting.
 

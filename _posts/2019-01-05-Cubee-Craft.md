@@ -7,4 +7,4 @@ tags: [this is art]
 img1: /img/merch/nintendo.jpg
 source: <a href="http://www.cubeecraft.com/" target="_blank" rel="nofollow">Cubeecraft</a>
 ---
-#### Cubeecraft's Nintendo Controller makes a great treat box for parties.
+## Cubeecraft's Nintendo Controller makes a great treat box for parties.

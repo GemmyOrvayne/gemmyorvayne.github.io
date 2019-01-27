@@ -5,6 +5,6 @@ title: Top of the World
 tags: [fallout, fallout 76]
 img1: /img/fallout76/youcandie.png
 ---
-#### You Can Die
+## You Can Die
 
 This helpful sign is found outside Top of the World. Fun Fact: Since radscorpions and rocket-launching Mole Men live there, you don't even have to leave. You can die right at the Ski Resort.

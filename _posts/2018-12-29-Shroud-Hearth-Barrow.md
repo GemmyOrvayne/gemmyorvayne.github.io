@@ -9,7 +9,7 @@ img1_rollover: /img/skyrim/shb1a.jpg
 img2: /img/skyrim/shb2.jpg
 img2_rollover: /img/skyrim/shb2a.jpg
 ---
-#### Shroud Hearth Barrow shitter!
+## Shroud Hearth Barrow shitter!
 
 Wyndelius Gatharian was holed up in this Nordic tomb for a year, using potions that made him look like a ghost to scare everyone away while he attempted to claim an ancient treasure for himself.
 

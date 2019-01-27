@@ -1,0 +1,24 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="/bucket.ico" type="image/x-icon">
+  <link href="https://fonts.googleapis.com/css?family=Architects+Daughter" rel="stylesheet">
+  {%- seo -%}
+  <link rel="stylesheet" href="{{ "/css/style.css" | relative_url }}">
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+  <script>
+    if (window.location.hostname.match('127.0.0.1') || window.location.hostname.match('localhost')) {
+      window.API_PATH = 'http://127.0.0.1:5000'
+    } else {
+      window.API_PATH = 'https://sleepy-harbor-81030.herokuapp.com'
+    }
+    function rollover (x,src) {
+      x.src=src;
+    }
+  </script>
+
+</head>
