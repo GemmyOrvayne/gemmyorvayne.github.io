@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Sunday Mail Bag
 date: 2019-01-20 01:01:00
-tags: [bucket brigade, updates]
+tags: [bucket brigade, mail bag, updates]
 img1: /img/mailbag/nov2918.jpg
 ---
 Today's **Sunday Mail Bag** letter comes from loyal Bucket Brigadier **imsopopfly**. This fan letter was sent in November of 2018, while we were still on Tumblr. Notes like these are dear to my heart. I really treasure that you have been following my adventures for so long. Thank you for your support, Brigadier!
