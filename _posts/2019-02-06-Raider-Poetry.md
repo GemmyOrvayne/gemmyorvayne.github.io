@@ -1,7 +1,7 @@
 ---
 layout: post
 post_type: five-img
-title: Falout 4 Raider Poetry
+title: Fallout 4 Raider Poetry
 date: 2019-02-06 01:00:00
 tags: [fallout, fallout 4, ROLLOVER]
 img1: /img/fallout4/raiderpoem1.jpg
