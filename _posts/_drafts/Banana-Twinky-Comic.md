@@ -1,4 +1,3 @@
----
 layout: post
 post_type: double-img
 title: Banana Twinky Comic

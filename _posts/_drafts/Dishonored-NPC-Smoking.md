@@ -1,4 +1,3 @@
----
 layout: post
 post_type: video
 title: Smoking My Actual Fucking Sword

@@ -1,4 +1,3 @@
----
 layout: post
 post_type: single-img
 title: Galerie de Paleontologie

@@ -1,4 +1,3 @@
----
 layout: post
 post_type: single-img
 title: Presidential Metro Train NPC

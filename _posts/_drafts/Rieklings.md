@@ -1,4 +1,3 @@
----
 layout: post
 post_type: four-img
 title: Rieklings at Church
