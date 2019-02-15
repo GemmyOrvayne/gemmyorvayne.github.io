@@ -5,8 +5,11 @@ title: Legend of Zelda Pheoni Toilet Hand
 date: 2019-02-15 01:06:00
 tags: [legend of zelda, shitter]
 img1: /img/loz/mm1.jpg
+img1_rollover: /img/loz/mm1a.jpg
 img2: /img/loz/oa2.jpg
+img2_rollover: /img/loz/oa2a.jpg
 img3: /img/loz/sw1.png
+img3_rollover: /img/loz/sw1a.jpg
 source: <a href="https://www.toplessrobot.com/2012/04/6_types_of_japanese_ghosts_that_hang_out_in_toilet.php">Topless Robot</a>
 ---
 ## Legend of Zelda's Toilet Hand!
