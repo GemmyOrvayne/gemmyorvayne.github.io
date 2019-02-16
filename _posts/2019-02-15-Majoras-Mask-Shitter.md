@@ -18,7 +18,7 @@ The entity that lives in the lavatories of the many incarnations of Legend of Ze
 
 **Majora's Mask**: At the Stock Pot Inn in Clock Town, hand him any of various paper items and he'll reward you with a heart piece that "fell in"!
 
-**Oracle of Ages**: This time, in exchange for paper, Phoeni will toss you a "Stink Bag." This is a component in a complicated trade agreement between MANY parties that ultimately results in a sword that shoots fucking lasers.
+**Oracle of the Ancients**: This time, in exchange for paper, Phoeni will toss you a "Stink Bag." This is a component in a complicated trade agreement between MANY parties that ultimately results in a sword that shoots fucking lasers.
 
 Get a clock from Poe; trade to the postman for Stationery; trade to Pheoni for Stink Bag; trade to the Tokay cook for Tasty Meat; trade to Happy Mask Salesman for Doggie Mask; trade to Mamamu Yan for a Dumbbell; trade to Thomas for a Cheesy Mustache; trade to the comedian in Lynna City for a Funny Joke; trade to Dekadin for a Touching Book; trade to Maple for Magic Oar; trade to Rafton for the Sea Ukulele; trade to Old Zora for the Broken Sword; and finally, trade to Patch for the Noble Sword.
 
