@@ -7,6 +7,6 @@ tags: [prey, this is art]
 img1: /img/art/preyposter1.jpg
 img2: /img/art/preyposter2.jpg
 img3: /img/art/preyposter3.jpg
-source: <a href=http://addermire-institute.tumblr.com/post/167943469961/i-really-like-movie-posters-so-i-made-a-few>Tumblr</a>
+source: <a href="http://addermire-institute.tumblr.com/post/167943469961/i-really-like-movie-posters-so-i-made-a-few" target="_blank" rel="nofollow">Tumblr</a>
 ---
 ## Prey "Movie Posters," by Addermire Art.
