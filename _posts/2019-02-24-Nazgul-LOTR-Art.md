@@ -7,4 +7,4 @@ tags: [tolkien, this is art]
 img1: /img/art/nazgul.jpg
 source: <a href="https://artlords.com/u/omertunc/images/nazgul" target="_blank" rel="nofollow">ArtLords</a>
 ---
-## *Nazgul*, Omer Tunc.
+## *Nazgul*, by Omer Tunc.
