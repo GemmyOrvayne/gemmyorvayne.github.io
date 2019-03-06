@@ -3,7 +3,7 @@ layout: post
 post_type: triple-img-rollover
 title: Fort Greenwall Shitters
 date: 2018-12-18 02:10:00
-tags: [skyrim, shitter, ROLLOVER]
+tags: [skyrim, shitter, best in show, ROLLOVER]
 img1: /img/skyrim/fortgreenwall1.jpg
 img1_rollover: /img/skyrim/fortgreenwall1a.jpg
 img2: /img/skyrim/fortgreenwall2.jpg
