@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: four-img
+post_type: single-img
 title: Oblivion Nehrim Fate's Gate Soul Train Shitter
 date: 2019-03-05 01:02:00
 tags: [oblivion, shitter, bucket brigade]
