@@ -3,7 +3,7 @@ layout: post
 post_type: triple-img
 title: Stilton Manor Shitters
 date: 2019-03-20 01:00:00
-tags: [dishonored, best in show, ROLLOVER]
+tags: [dishonored, shitter, best in show, ROLLOVER]
 img1: /img/dishonored2/stiltonmbr2.jpg
 img1_rollover: /img/dishonored2/stiltonmbr22.jpg
 img2: /img/dishonored2/stiltonmbr1a.jpg
