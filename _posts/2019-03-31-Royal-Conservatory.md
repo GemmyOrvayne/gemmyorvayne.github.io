@@ -9,4 +9,4 @@ img1_rollover: /img/dishonored2/conservatory1a.jpg
 ---
 ## Royal Conservatory shitter!
 
-Here's a room that was made for the sole purpose of making sure there was a shitter in this building. Thank you very much, Arkane Studios. There's nothing in this room aside from a functioning toilet, a dead guy, and two bullets. 
+Here's a room that was created for the sole purpose of making sure there was a shitter in this building. Thank you very much, Arkane Studios. There's nothing in this room aside from a functioning toilet, a dead guy, and two bullets. 
