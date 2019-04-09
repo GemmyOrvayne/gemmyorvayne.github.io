@@ -1,0 +1,8 @@
+.primary-nav {
+  display: none;
+  
+  &.is-expanded {
+    display: flex;
+
+  }
+}
