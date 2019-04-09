@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: double-img-rollover
+post_type: double-img
 title: Mauhulakh Longhouse Shitters
 date: 2018-12-18 03:15:00
 tags: [skyrim, shitter, ROLLOVER]

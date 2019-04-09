@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: double-img-rollover
+post_type: double-img
 title: Fort Bannister Shitter
 date: 2018-12-27 01:20:00
 tags: [fallout, fallout 3, shitter, ROLLOVER]

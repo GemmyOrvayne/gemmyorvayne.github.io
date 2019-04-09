@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: double-img-rollover
+post_type: double-img
 title: Larry's Toxic Meat 'n Go
 date: 2018-12-19 01:30:00
 tags: [fallout, fallout 76, shitter, ROLLOVER]

@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: double-img-rollover
+post_type: double-img
 title: Shroud Hearth Barrow Shitter
 date: 2018-12-29 01:10:00
 tags: [skyrim, shitter, ROLLOVER]

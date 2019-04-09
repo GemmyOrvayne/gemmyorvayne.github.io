@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: triple-img-rollover
+post_type: triple-img
 title: Ulfric Stormcloak's Shitter
 date: 2018-12-21 01:00:00
 tags: [skyrim, shitter, ROLLOVER]

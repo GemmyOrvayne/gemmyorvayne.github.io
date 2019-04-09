@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: double-img-rollover
+post_type: double-img
 title: Paradise Falls Shitters
 date: 2019-01-02 01:01:00
 tags: [fallout, fallout 3, shitter, ROLLOVER]

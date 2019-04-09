@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: double-img-rollover
+post_type: double-img
 title: Krakevisa Midden Shitter
 date: 2019-01-08 01:02:00
 tags: [skyrim, shitter, ROLLOVER]

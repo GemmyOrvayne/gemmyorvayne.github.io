@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: double-img-rollover
+post_type: double-img
 title: Abandoned Prison Shitters
 date: 2018-12-19 01:00:00
 tags: [skyrim, shitter]

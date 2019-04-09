@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: triple-img-rollover
+post_type: triple-img
 title: Hound Pits Pub Shitters
 date: 2018-12-22 01:25:00
 tags: [dishonored, shitter, ROLLOVER]

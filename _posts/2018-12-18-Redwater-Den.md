@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: triple-img-rollover
+post_type: triple-img
 title: Redwater Den Shitters
 date: 2018-12-18 02:00:00
 tags: [skyrim, shitter, ROLLOVER]

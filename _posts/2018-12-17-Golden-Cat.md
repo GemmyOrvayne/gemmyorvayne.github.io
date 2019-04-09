@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: double-img-rollover
+post_type: double-img
 title: The Golden Cat Shitter
 date: 2018-12-17 02:50:00
 tags: [dishonored, shitter, ROLLOVER]

@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: double-img-rollover
+post_type: double-img
 title: Bloodskal Barrow Shitters
 date: 2018-12-18 02:25:00
 tags: [skyrim, shitter, bucket brigade, best in show, ROLLOVER]

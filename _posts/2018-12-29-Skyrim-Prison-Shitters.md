@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: four-img-rollover
+post_type: four-img
 title: Skyrim's Prison Shitters
 date: 2018-12-29 01:05:00
 tags: [skyrim, shitter, ROLLOVER]

@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: triple-img-rollover
+post_type: triple-img
 title: Whitespring Resort Shitters
 date: 2018-12-31 01:06:00
 tags: [fallout, fallout 76, shitter, are you afraid of the gnome, ROLLOVER]

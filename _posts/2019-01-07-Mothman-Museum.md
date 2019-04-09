@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: double-img-rollover
+post_type: double-img
 title: Mothman Museum Shitter
 date: 2019-01-07 01:03:00
 tags: [fallout, fallout 76, shitter, ROLLOVER]

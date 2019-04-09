@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: triple-img-rollover
+post_type: triple-img
 title: Ancestor Moth Fan Art Figurine
 date: 2018-12-20 01:15:00
 tags: [skyrim, this is art, ROLLOVER]

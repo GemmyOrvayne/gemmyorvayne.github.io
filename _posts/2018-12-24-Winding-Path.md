@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: double-img-rollover
+post_type: double-img
 title: Palace of the Winding Path Shitter
 date: 2018-12-25 01:15:00
 tags: [fallout, fallout 76, shitter, ROLLOVER]
