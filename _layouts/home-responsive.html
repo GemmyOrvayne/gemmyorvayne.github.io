@@ -1,0 +1,9 @@
+---
+layout: responsive
+---
+{% for post in paginator.posts %}
+  {% include post-responsive.html item=post %}
+{% endfor %}
+</div>
+{% include pagination.html %}
+<div>

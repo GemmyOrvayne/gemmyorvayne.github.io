@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
-  {%- include head.html -%}
+  {%- include head-responsive.html -%}
   <body>
-  <section class="section">
-    <div class="container">
-      <h1 class="title">
-        Hello World
-      </h1>
-      <p class="subtitle">
-        My first website with <strong>Bulma</strong>!
-      </p>
+    <div class="columns">
+      {%- include primary-nav-responsive.html -%}
+      {%- include secondary-nav-responsive.html -%}
+      <div class="column has-background-white">
+        <div class="container">
+          <img src="/img/banner.png">
+        </div>
+          {{ content }}
+      </div>
     </div>
-  </section>
   </body>
 </html>

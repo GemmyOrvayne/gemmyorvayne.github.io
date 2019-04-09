@@ -1,0 +1,20 @@
+<div class="post">
+  <div class="box has-background-white">
+    <article class="media">
+      <div class="media-left">
+        <figure class="image is-32x32">
+          <img src="/img/bucket.png" alt="Image">
+        </figure>
+      </div>
+      <div class=" ">
+        <div class=" ">
+          <h3 class="post-date"><a href="{{ include.item.url }}">Posted on {{ include.item.date | date: "%B %e, %Y" }}</a></h3>
+          <div class=" ">
+            {% include post-responsive/{{ include.item.post_type }}.html item=include.item %}
+          </div>
+          {% include post-responsive/footer-responsive.html item=include.item %}
+        </div>
+      </div>
+    </article>
+  </div>
+</div>

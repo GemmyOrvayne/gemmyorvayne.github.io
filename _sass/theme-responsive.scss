@@ -52,17 +52,15 @@ $on-laptop:        800px !default;
 @mixin relative-font-size($ratio) {
   font-size: $base-font-size * $ratio;
 }
+// Bulma variables.
+
+$box-padding: 1.5em;
+// $primary: hsl(30, 100%, 5%)
+// $info: rgb(242, 230, 217), hsl(0, 0%, 29%);
+// $white: hsl(0, 0%, 100%)
 
 // Import partials.
 @import
-  "theme/base",
-  "theme/layout",
-  "theme/pagination",
-  "theme/post",
-  "theme/searchbar",
-  "theme/searchResults",
-  "theme/primaryNav",
-  "theme/charities",
-  "theme/secondaryNav",
-  "theme/videoembed"
-;
+  "bulma/bulma",
+  "theme-responsive/base",
+  "theme-responsive/layout";
