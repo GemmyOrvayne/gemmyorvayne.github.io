@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Big Mouth Billy Bass Shitter
 date: 2019-01-04 01:00:00
 tags: [fallout, fallout 76, shitter, ROLLOVER]

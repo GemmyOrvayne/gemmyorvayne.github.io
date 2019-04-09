@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: North Cutthroat Camp Shitter
 date: 2018-12-18 01:50:00
 tags: [fallout, fallout 76, shitter, ROLLOVER]

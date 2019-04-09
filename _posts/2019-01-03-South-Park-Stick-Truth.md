@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: South Park Stick of Truth Shitter
 date: 2019-01-03 01:00:00
 tags: [shitter, bucket brigade, ROLLOVER]

@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Unmarked Shitter
 date: 2018-12-15 03:00:00
 tags: [fallout, fallout 3, shitter, ROLLOVER]

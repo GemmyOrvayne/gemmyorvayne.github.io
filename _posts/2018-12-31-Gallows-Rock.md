@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Gallows Rock Shitter
 date: 2018-12-31 01:02:00
 tags: [skyrim, shitter, ROLLOVER]

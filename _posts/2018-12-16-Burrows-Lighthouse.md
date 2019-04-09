@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Burrows Lighthouse Shitter
 date: 2018-12-17 01:10:00
 tags: [dishonored, shitter, ROLLOVER]

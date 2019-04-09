@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Valtheim Towers Shitter
 date: 2018-12-15 02:30:00
 tags: [skyrim, shitter, ROLLOVER]

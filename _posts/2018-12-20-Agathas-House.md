@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Agatha's House Shitter
 date: 2018-12-20 01:40:00
 tags: [fallout, fallout 3, shitter, best in show, ROLLOVER]

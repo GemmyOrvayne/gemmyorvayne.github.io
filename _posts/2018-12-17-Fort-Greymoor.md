@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Fort Greymoor Shitter
 date: 2018-12-17 02:10:00
 tags: [skyrim, shitter, ROLLOVER]

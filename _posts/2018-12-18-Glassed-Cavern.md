@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Glassed Cavern
 date: 2018-12-18 03:00:00
 tags: [fallout, fallout 76, shitter]

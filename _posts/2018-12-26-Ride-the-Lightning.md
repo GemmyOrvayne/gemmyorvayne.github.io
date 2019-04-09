@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Scroll of Ride the Lightning
 date: 2018-12-26 01:35:00
 tags: [skyrim, ROLLOVER]

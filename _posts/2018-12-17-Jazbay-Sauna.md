@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Jazbay Sauna Story
 date: 2018-12-17 02:00:00
 tags: [skyrim, ROLLOVER]

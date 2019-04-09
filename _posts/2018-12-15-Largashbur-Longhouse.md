@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Largashbur Longhouse Shitter
 date: 2018-12-15 02:40:00
 tags: [skyrim, shitter, ROLLOVER]

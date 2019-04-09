@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Highpoint Tower Shitter
 date: 2018-12-26 01:30:00
 tags: [skyrim, shitter, ROLLOVER]

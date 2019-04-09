@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Timesaving Shitter
 date: 2019-01-09 01:00:00
 tags: [fallout, fallout 76, shitter, ROLLOVER]

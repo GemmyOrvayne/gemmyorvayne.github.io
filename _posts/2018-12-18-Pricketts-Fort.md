@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Prickett's Fort Shitter
 date: 2018-12-18 01:40:00
 tags: [fallout, fallout 76, shitter, ROLLOVER]

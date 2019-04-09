@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Teddy Ramsay Cooking Show
 date: 2019-01-04 01:01:00
 tags: [fallout, fallout 76, ROLLOVER]

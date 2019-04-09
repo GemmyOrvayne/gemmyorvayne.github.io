@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Dunwall Graffito
 date: 2018-12-17 03:00:00
 tags: [dishonored, ROLLOVER]

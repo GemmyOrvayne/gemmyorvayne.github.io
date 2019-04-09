@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: You Already Know Fear
 date: 2018-12-17 02:20:00
 tags: [skyrim, ROLLOVER]

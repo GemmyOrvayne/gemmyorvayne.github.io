@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Faldars Tooth Shitter
 date: 2018-12-15 03:40:00
 tags: [skyrim, shitter, ROLLOVER]

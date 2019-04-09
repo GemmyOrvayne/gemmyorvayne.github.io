@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Movarth's Shoe Fetish
 date: 2018-12-20 01:35:00
 tags: [skyrim, ROLLOVER]

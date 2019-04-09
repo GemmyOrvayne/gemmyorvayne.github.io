@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Fort Snowhawk Shitter
 date: 2018-12-16 01:10:00
 tags: [skyrim, shitter, ROLLOVER]

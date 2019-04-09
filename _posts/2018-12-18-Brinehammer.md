@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Wreck of the Brinehammer Shitters
 date: 2018-12-18 01:05:00
 tags: [skyrim, shitter, ROLLOVER]

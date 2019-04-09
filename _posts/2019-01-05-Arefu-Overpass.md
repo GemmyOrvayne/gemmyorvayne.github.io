@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Arefu Overpass Shitters
 date: 2019-01-05 01:02:00
 tags: [fallout, fallout 3, ROLLOVER]

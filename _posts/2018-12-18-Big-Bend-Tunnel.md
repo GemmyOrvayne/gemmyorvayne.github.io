@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Big Bend Tunnel Shitter
 date: 2018-12-18 01:20:00
 tags: [fallout, fallout 76, shitter, ROLLOVER]

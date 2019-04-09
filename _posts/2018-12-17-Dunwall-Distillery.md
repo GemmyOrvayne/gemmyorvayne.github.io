@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Dunwall Distillery
 date: 2018-12-17 03:10:00
 tags: [dishonored, shitter, best in show, ROLLOVER]

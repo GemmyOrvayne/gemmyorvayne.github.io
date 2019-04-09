@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Mysterium Xarxes Becomes a Bucket
 date: 2018-12-17 03:40:00
 tags: [skyrim, shitter, ROLLOVER]

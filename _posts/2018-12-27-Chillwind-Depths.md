@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Chillwind Depths Shitter
 date: 2018-12-27 01:00:00
 tags: [skyrim, shitter, bucket brigade, ROLLOVER]

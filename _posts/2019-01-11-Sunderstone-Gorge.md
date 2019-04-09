@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Sunderstone Gorge Shitter
 date: 2019-01-11 01:02:00
 tags: [skyrim, shitter, ROLLOVER]

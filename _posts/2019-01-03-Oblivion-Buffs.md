@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Oblivion Buffs
 date: 2019-01-03 01:02:00
 tags: [oblivion, ROLLOVER]

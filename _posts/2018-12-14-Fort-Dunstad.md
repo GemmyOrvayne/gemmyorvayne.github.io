@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Fort Dunstad Shitter
 date: 2018-12-14 10:50:00
 tags: [skyrim, shitter, best in show, ROLLOVER]

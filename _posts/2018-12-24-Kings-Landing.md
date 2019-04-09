@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Kings Landing Shitter
 date: 2018-12-24 01:35:00
 tags: [game of thrones, shitter, ROLLOVER]

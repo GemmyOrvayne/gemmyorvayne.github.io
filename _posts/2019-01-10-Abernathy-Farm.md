@@ -1,6 +1,6 @@
 ---
 layout: post
-post_type: single-img-rollover
+post_type: single-img
 title: Abernathy Farm Shitter
 date: 2019-01-10 01:01:00
 tags: [fallout, fallout 4, shitter, ROLLOVER]
