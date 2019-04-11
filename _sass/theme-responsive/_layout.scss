@@ -19,13 +19,13 @@ body {
     }
 }
 .post {
+  max-width: inherit;
   padding: 1em;
   background-color: rgba(255,255,255,0.9);
 }
 
 .media {
   display: flex;
-  margin: 1em 0;
 }
 
 .post-date {
