@@ -8,10 +8,11 @@
       {%- include primary-nav-responsive.html -%}
       {%- include secondary-nav-responsive.html -%}
       <div class="column">
-        <div class="container">
+        <div class="banner">
           <img src="/img/banner.png">
         </div>
-          {{ content }}
+        {{ content }}
+        {% include pagination-responsive.html %}
       </div>
     </div>
   </body>

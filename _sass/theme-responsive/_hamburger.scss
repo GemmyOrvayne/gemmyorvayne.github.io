@@ -1,8 +1,7 @@
 .hamburger-toggle {
-  display: block;
   position: absolute;
-  top: 50px;
-  left: 50px;
+  top: 70px;
+  left: 100px;
   z-index: 1;
   -webkit-user-select: none;
   user-select: none;
@@ -27,7 +26,7 @@
   height: 4px;
   margin-bottom: 5px;
   position: relative;
-  background: #cdcdcd;
+  background: #300000;
   border-radius: 3px;
   z-index: 1;
   transform-origin: 4px 0px;
@@ -47,7 +46,7 @@
 .hamburger-toggle input:checked ~ span {
   opacity: 1;
   transform: rotate(45deg) translate(-2px, -1px);
-  background: #232323;
+  background: #dccdbc;
 }
 
 .hamburger-toggle input:checked ~ span:nth-last-child(3) {
@@ -60,14 +59,17 @@
   transform: rotate(-45deg) translate(0, -1px);
 }
 
+.hamburger-toggle input:checked ~ .hamburger-menu {
+  transform: scale(1.0, 1.0);
+  opacity: 1;
+}
+
 .hamburger-menu {
   position: absolute;
   width: 300px;
   margin: -100px 0 0 0;
-  padding: 50px;
-  padding-top: 125px;
   left: -100px;
-  background: #ededed;
+  background-color: #1d130d;
   list-style-type: none;
   -webkit-font-smoothing: antialiased;
   transform-origin: 0% 0%;
@@ -75,12 +77,42 @@
   transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
 }
 
-.hamburger-menu li {
-  padding: 10px 0;
-  font-size: 22px;
+.burger-menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 12pt;
+  padding-bottom: 1rem;
+
+  img {
+    padding: 1em;
+  }
+  h4 {
+    font-family: "Architects Daughter", Helvetica;
+    color: #dccdbc;
+    font-weight: 500;
+    padding: 0;
+  }
+  li {
+    font-size: 12pt;
+    color: #dccdbc;
+
+    a:hover {
+      background-color: #1d130d;
+      color: #dccdbc;
+    }
+  }
 }
 
-.hamburger-toggle input:checked ~ .hamburger-menu {
-  transform: scale(1.0, 1.0);
-  opacity: 1;
+.welcome {
+  font-family: "Architects Daughter", Helvetica;
+  font-weight: 500;
+}
+
+.searchbar {
+  padding: 1em;
+  input {
+    border-radius: 10px;
+    padding: .2em .5em;
+    }
 }
