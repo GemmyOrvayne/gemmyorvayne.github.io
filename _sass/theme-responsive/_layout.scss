@@ -1,25 +1,47 @@
 body {
-  background: woodgrain_background;
+  background: url("/img/woodgrain_background.jpg");
 }
 
-.sec-nav-responsive {
-  padding: 1.5em;
-  background-color: #ecd9c6, .9;
-  color: $white;
-  text-align: center;
-  position: sticky;
-  height: 100vh;
-
+.column-is-3 {
+  padding: 1em;
 }
 
+.column-is-4 {
+  padding: 1em;
+  background-color: rgba(255,255,255,0.9);
+}
 
-.tagcloud {
-  color: $text-color;
-  margin: auto 1em;
-  font-family: $heading-font;
+.searchbar {
+  padding: 1em;
+  input {
+    border-radius: 10px;
+    padding: .2em .5em;
+    }
+}
+.post {
+  padding: 1em;
+  background-color: rgba(255,255,255,0.9);
+}
 
-  a, a:visited, a:active {
-    color: $text-color;
-    padding: 5px;
-  }
+.media {
+  display: flex;
+  margin: 1em 0;
+}
+
+.post-date {
+  color: #900C3F;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #900C3F;
+  font-family: "Architects Daughter";
+}
+
+.card-content {
+  vertical-align: middle;
+}
+
+.post-footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }

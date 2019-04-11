@@ -1,8 +1,26 @@
 .primary-nav {
   display: none;
-  
+  justify-content: space-evenly;
+  align-items: flex-start;
+  background-color: #1d130d;
+  height: 100vh;
+  position: sticky;
+  top: 0px;
+  overflow-x: hidden;
+
   &.is-expanded {
     display: flex;
 
   }
+}
+
+.menu-label {
+  font-family: "Architects Daughter", Helvetica;
+  text-shadow: 1px 1px 1px black;
+  font-weight: 400;
+}
+
+.menu-link {
+  font-family: "Segoe UI", Helvetica;
+  font-size: 12pt;
 }

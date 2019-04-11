@@ -8,20 +8,20 @@ $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 $heading-font:     'Architects Daughter', cursive;
-
 $spacing-unit:     30px !default;
 
 // #FAF5D0
 // #faf5b3
 
-$link-color:       #900C3F !default;
+$menu-label-color: #f9f2ec;
+$menu-item-color:  #f9f2ec;
+$link:             #900C3F !default;
 $text-color:       #111 !default;
 $dark-bg-text-color: #dccdbc !default;
 $brand-color:      #1d130d !default;
 $secondary-color:  lighten(adjust-hue($brand-color, 10%), 80%) !default;
 $accent-color:     $dark-bg-text-color !default;
 $background-color: #fdfdfd !default;
-$white-background: rgba(#ffffff,.9) !default;
 $background-image: url('/img/woodgrain_background.jpg');
 
 $grey-color:       #828282 !default;
@@ -52,15 +52,11 @@ $on-laptop:        800px !default;
 @mixin relative-font-size($ratio) {
   font-size: $base-font-size * $ratio;
 }
-// Bulma variables.
-
-$box-padding: 1.5em;
-// $primary: hsl(30, 100%, 5%)
-// $info: rgb(242, 230, 217), hsl(0, 0%, 29%);
-// $white: hsl(0, 0%, 100%)
 
 // Import partials.
 @import
   "bulma/bulma",
   "theme-responsive/layout",
-  "theme-responsive/primary-nav";
+  "theme-responsive/primary-nav",
+  "theme-responsive/secondary-nav",
+  "theme-responsive/hamburger";
