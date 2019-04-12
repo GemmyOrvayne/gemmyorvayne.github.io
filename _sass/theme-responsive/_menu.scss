@@ -1,0 +1,23 @@
+.menu {
+  .menu-label {
+    font-family: "Architects Daughter", Helvetica;
+    color: #dccdbc;
+    text-shadow: 1px 1px 1px black;
+    font-weight: 400;
+    font-size: 1em;
+    text-transform: none;
+    border-bottom: 1px solid #dccdbc;
+  }
+
+  .menu-list {
+    font-family: "Segoe UI", Helvetica;
+    font-size: 12pt;
+    a {
+      padding-bottom: 1em;
+    }
+    a:hover {
+      background-color: #1d130d;
+      color: #dccdbc;
+    }
+  }
+}

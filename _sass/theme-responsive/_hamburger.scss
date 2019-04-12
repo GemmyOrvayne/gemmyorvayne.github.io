@@ -1,13 +1,13 @@
 .hamburger-toggle {
   position: absolute;
-  top: 70px;
-  left: 100px;
+  top: 34px;
+  left: 50px;
   z-index: 1;
   -webkit-user-select: none;
   user-select: none;
 }
 
-.hamburger-toggle input {
+.hamburger-toggle input[type="checkbox"] {
   display: block;
   width: 40px;
   height: 32px;
@@ -66,7 +66,7 @@
 
 .hamburger-menu {
   position: absolute;
-  width: 300px;
+  width: 90vw;
   margin: -100px 0 0 0;
   left: -100px;
   background-color: #1d130d;
@@ -83,6 +83,8 @@
   align-items: center;
   font-size: 12pt;
   padding-bottom: 1rem;
+  padding-left: 50px;
+  padding-top: 3.5rem;
 
   img {
     padding: 1em;
