@@ -1,6 +1,5 @@
 body {
   background: url("/img/woodgrain_background.jpg");
-  margin-bottom: 1em;
 }
 
 * {
@@ -11,20 +10,6 @@ body {
   padding: 1em;
 }
 
-.column-is-4 {
-  background-color: rgba(236,226,214,0.9);
-  padding: 1em;
-  margin-left: 1em;
-}
-
-.searchbar {
-  padding: 1em;
-  input {
-    border-radius: 10px;
-    padding: .2em .5em;
-    }
-
-}
 .post {
   max-width: inherit;
   padding: 1em;
