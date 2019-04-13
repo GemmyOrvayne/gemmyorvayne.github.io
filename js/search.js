@@ -8,7 +8,7 @@
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
         //appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a></li>';
-        appendString += '<div class="search-result"><a href="' + item.url + '"><img src="' + item.img1 + '" class="search-result-img" /></a></div>'
+        appendString += '<div class="column search-result is-one-fifth"><a href="' + item.url + '"><img src="' + item.img1 + '" class="search-result-img" /></a></div>'
     }
 
       searchResults.innerHTML = appendString;
@@ -32,7 +32,7 @@
 
   var searchTerm = getQueryVariable('query');
 
-  if (searchTerm) {    
+  if (searchTerm) {
     // Initalize lunr with the fields it will be searching on. I've given title
     // a boost of 10 to indicate matches on this field are more important.
     var idx = lunr(function () {

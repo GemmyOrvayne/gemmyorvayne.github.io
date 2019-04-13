@@ -24,26 +24,29 @@ body {
 
 .media {
   display: flex;
-}
+  flex-direction: row;
+  .media-left {
+    display: flex;
+    flex-direction: row;
+  }
 
-.post-date {
-  display: block;
-  color: #900C3F;
-  text-transform: uppercase;
-  font-weight: bold;
-  font-size: 1.17em;
-  color: #900C3F;
-  font-family: "Architects Daughter";
-  margin-block-start: 1em;
-  margin-block-end: 1em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
 }
 
 .post .post-content {
     padding: 1em 1em 0 1em;
     max-width: 800px;
     margin: 1em auto;
+
+    .post-date {
+      display: block;
+      color: #900C3F;
+      text-transform: uppercase;
+      font-weight: bold;
+      font-size: 1.17em;
+      color: #900C3F;
+      font-family: "Architects Daughter";
+      margin: 0 1em;
+    }
 
     h2 {
       font-family: "Architects Daughter";
