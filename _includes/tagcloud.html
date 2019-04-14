@@ -30,7 +30,7 @@
       {% assign rel_tag_size = tag_count | times: 3.0 | divided_by: total_tag_count | divided_by: 10 | plus: 1 %}
     {% endif %}
     <span style="white-space: nowrap; font-size: {{ rel_tag_size }}em; padding: 5px;">
-      <a href="/tags/{{ tag | slugify }}" class="tag">{{ tag }}
+      <a href="/tags/{{ tag | slugify }}" class="tag-cloud-item">{{ tag }}
       </a>
     </span>
   {% endfor %}
