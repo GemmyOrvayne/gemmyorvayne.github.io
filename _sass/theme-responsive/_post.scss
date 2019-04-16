@@ -1,0 +1,74 @@
+.post {
+  max-width: inherit;
+  padding: 0;
+  margin: 0;
+  padding-bottom: 1em;
+  margin-bottom: 1em;
+  background-color: rgba(255,255,255,0.9);
+  .media {
+    display: flex;
+    flex-direction: row;
+    .media-left {
+      display: flex;
+      flex-direction: row;
+    }
+  }
+  img {
+    max-height: 700px;
+    display: block;
+    padding-bottom: 1em;
+    margin: auto;
+  }
+  .post-content {
+    padding: 0;
+    max-width: 800px;
+    margin: 0;
+    .post-date {
+      display: block;
+      color: #900C3F;
+      text-transform: uppercase;
+      font-weight: bold;
+      font-size: 1.17em;
+      color: #900C3F;
+      font-family: "Architects Daughter";
+      padding: 0 1em;
+      margin: 0;
+    }
+    h2 {
+      font-family: "Architects Daughter";
+      font-size: 18pt;
+      color: #1a0d00
+    }
+    .content-img {
+      max-height: 700px;
+    }
+  }
+  .post-body {
+    font-family: "Helvetica";
+    margin-bottom: 1em;
+    padding: 0 1em;
+    p {
+      padding: .5em 1em;
+    }
+  }
+  .post-footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-top: 1px solid #1d130d;
+    width: 98%;
+    margin: auto;
+    padding-top: 1em;
+    .post-tags {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      .post-tag {
+        padding: 0 1em 0 1em;
+      }
+    }
+  }
+  .heart {
+    width: 25px;
+  }
+}

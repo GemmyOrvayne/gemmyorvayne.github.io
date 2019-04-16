@@ -1,15 +1,22 @@
 <div class="post">
   <article class="media">
-    <div class="media-left">
+    <div class="media-left is-hidden-touch">
       <figure class="image is-32x32">
         <img src="/img/bucket.png" alt="Image">
       </figure>
 
     </div>
     <div class="post-content">
-      <h3 class="post-date"><a href="{{ include.item.url }}">Posted on {{ include.item.date | date: "%B %e, %Y" }}</a></h3>
+      <h3 class="post-date"><a href="{{ include.item.url }}"><span class="is-hidden-touch">Posted on </span>{{ include.item.date | date: "%B %e, %Y" }}</a></h3>
+      <div class="post-images">
         {% include post-responsive/{{ include.item.post_type }}.html item=include.item %}
+      </div>
+      <div class="post-body">
+        {{ include.item.content }}
+      </div>
+      <div class="post-footer">
         {% include post-responsive/footer.html item=include.item %}
+      </div>
     </div>
   </article>
 </div>
