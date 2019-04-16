@@ -11,6 +11,9 @@
     .media-left {
       display: flex;
       flex-direction: row;
+      figure {
+        margin: 1em;
+      }
     }
   }
   img {
@@ -22,7 +25,7 @@
   .post-content {
     padding: 0;
     max-width: 800px;
-    margin: 0;
+    margin: auto;
     .post-date {
       display: block;
       color: #900C3F;
