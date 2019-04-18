@@ -7,7 +7,7 @@
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/css/style-responsive.css" | relative_url }}">
   {%- feed_meta -%}
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+  {%- if jekyll.environment == 'production' -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
   <script>
@@ -20,5 +20,5 @@
       x.src=src;
     }
   </script>
-  <script src="{{ "/js/heart.js" | relative_url }}"></script> 
+  <script src="{{ "/js/heart.js" | relative_url }}"></script>
 </head>
