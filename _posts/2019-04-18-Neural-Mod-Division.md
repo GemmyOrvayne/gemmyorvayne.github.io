@@ -11,6 +11,6 @@ img2_rollover: /img/prey/neuromoddiv4a.jpg
 img3: /img/prey/neuromoddiv5.jpg
 img3_rollover: /img/prey/neuromoddiv5a.jpg
 ---
-## Neural Mod Division shitter!
+## Neuro Mod Division shitter!
 
 Venture into the Neuro Mod Division's waterlogged and partially-electrified gender-neutral bathroom to see a spooky shitter! Proceed into the inky blackness with extreme caution, using your flashlight to identify the corpses of various crew members. If you are brave enough to make it to the shitter, there's an unusual prize waiting for you: A pile of eel scraps! Neat!
