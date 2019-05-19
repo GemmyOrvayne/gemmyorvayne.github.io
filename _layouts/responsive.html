@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {%- include primary-nav-horizontal.html -%}
   {%- include head-responsive.html -%}
   <body>
     <div class="primary-content columns is-mobile">
       {%- include hamburger.html -%}
-      {%- include primary-nav-responsive.html -%}
       {%- include secondary-nav-responsive.html -%}
-      <div class="primary-column column">
+      <div class="primary-column column-is-centered">
         <div class="banner">
           <img src="/img/banner.png">
         </div>
