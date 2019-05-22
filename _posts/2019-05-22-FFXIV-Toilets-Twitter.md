@@ -7,6 +7,6 @@ tags: [ffxiv, shitter, this is art]
 img1: /img/other/sunkentemple.jpg
 source: <a href="https://twitter.com/ffxivtoilets" target="_blank" rel="nofollow">Twitter</a>
 ---
-## Final Fantasy 14 shitters!
+## Final Fantasy 14 Shitter Twitter!
 
 Real-world shitters that look quite a lot like FF14 locations!
