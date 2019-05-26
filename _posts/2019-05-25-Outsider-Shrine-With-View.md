@@ -9,4 +9,4 @@ img1_rollover: /img/dishonored2/shrine1a.jpg
 ---
 ## Outsider Shrine Shitter!
 
-On your way to Jindosh Mansion, climb over a balcony to find this shitter with a view of a dark-sided shrine to the Outsider. Spooky! It looks to me, based on the splash patter of the debris, that the bathroom was broken into from the side of the shrine. Priorities. 
+On your way to Jindosh Mansion, climb over a balcony to find this shitter with a view of a dark-sided shrine to the Outsider. Spooky! It looks to me, based on the splash pattern of the debris, that the bathroom was broken into from the side of the shrine. Priorities. 
