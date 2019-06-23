@@ -1,7 +1,7 @@
 ---
 layout: post
 post_type: single-img
-title: Cidhna Mine Shitter
+title: Cidhna Mine Prison Shitter
 date: 2018-12-21 01:15:00
 tags: [skyrim, shitter]
 img1: /img/skyrim/cidhnamine1.jpg
