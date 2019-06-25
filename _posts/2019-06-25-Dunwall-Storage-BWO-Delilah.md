@@ -1,7 +1,7 @@
 ---
 layout: post
 post_type: single-img
-title: Dishonored 2 Dunwall Storage Hallyway by way of Delilah
+title: Dishonored 2 Dunwall Storage Hallway by way of Delilah
 date: 2019-06-25 01:00:00
 tags: [dishonored, shitter, ROLLOVER]
 img1: /img/dishonored2/dunwallstoragebrigmore1.jpg
