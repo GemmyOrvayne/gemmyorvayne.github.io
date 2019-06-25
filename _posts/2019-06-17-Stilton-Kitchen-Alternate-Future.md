@@ -15,6 +15,6 @@ If there's anything that makes me hang around in a place long after beating the 
 
 In the first slide, we see the storage room as it appears in 1849. Don't worry, these ladies are just sleeping. I compassionately stashed them in here so I could rummage through their kitchen properly. They'll be all right.
 
-In the second slide, we see the room is now a shitter in the *alternate* future of 1851. It was difficult to get before and after pictures here because the room has changed so much, but this room now has two separate stalls and a utility sink.
+In the second slide, we see the room is now a shitter in the *alternate* future of 1852. It was difficult to get before and after pictures here because the room has changed so much, but this room now has two separate stalls and a utility sink.
 
 Appreciation of the new utopia of Stilton Manor must be properly contrasted against the [shitter-less Hell that is Jindosh Mansion](https://gaming-thrones.com/2019/03/18/Clockwork-Mansion.html). And we should all be more like Aramis Stilton (artistic, thoughtful, and hygienic). Jindosh has one personal shitter, and one prison shitter for his Sokolov Holding Cell. But Stilton Manor has so many, I haven't even posted them all!
