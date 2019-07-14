@@ -12,7 +12,11 @@
         <span class="previous"> &lt;&lt; Previous</span>
       {% endif %}
       <span class="page_number ">
+      {% if paginator.page %}
         Page {{ paginator.page }} of {{ paginator.total_pages }}
+      {% else %}
+        Page 1 of 1
+      {% endif %}
       </span>
       {% if paginator.next_page %}
         <a href="{{ paginator.next_page_path }}" class="next">Next &gt;&gt;</a>
