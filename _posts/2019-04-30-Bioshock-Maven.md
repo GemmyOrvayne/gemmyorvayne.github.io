@@ -13,4 +13,4 @@ img3_rollover: /img/bioshock/maven3a.jpg
 ---
 ## Bioshock Infinite apartment shitter!
 
-Submitted by junior shitter hunter and bucket brigadier *Maven* from Maven's Madness! I am proud to present the results of Maven's first ever shitter safari - These two bathrooms are from the beginning of Bioshock Infinite. Here is some commentary from Maven: "How much do I weigh after using the shitter?" and, "Is this a lounge toilet?"
+Submitted by junior shitter hunter and bucket brigadier **Maven** from Maven's Madness! I am proud to present the results of Maven's first ever shitter safari - These two bathrooms are from the beginning of Bioshock Infinite. Here is some commentary from Maven: "How much do I weigh after using the shitter?" and, "Is this a lounge toilet?"

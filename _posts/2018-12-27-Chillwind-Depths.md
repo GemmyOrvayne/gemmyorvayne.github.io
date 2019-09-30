@@ -9,4 +9,4 @@ img1_rollover: /img/skyrim/chillwind1a.jpg
 ---
 ## Chillwind Depths shitter!
 
-Submitted by Bucket Brigadier **askerandur!** Isn't it super that the Falmer provide shitters to their captives before slaying them mercilessly?
+Submitted by Bucket Brigadier **askerandur**! Isn't it super that the Falmer provide shitters to their captives before slaying them mercilessly?

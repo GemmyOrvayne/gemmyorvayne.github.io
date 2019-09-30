@@ -11,4 +11,4 @@ img2_rollover: /img/rdr2/brandywinedrop2a.jpg
 ---
 ## Brandywine Drop Overlook Outhouse!
 
-Bucket Brigadier *Casper* submitted this pastoral cliffside shitter! It's empty. You don't get a door, but it's positioned facing away from a fenced cliff's edge, so at least you'll see if a bear is coming right at you. Do you think the fear element is a help, or a hindrance to use of this facility?
+Bucket Brigadier **Casper** submitted this pastoral cliffside shitter! It's empty. You don't get a door, but it's positioned facing away from a fenced cliff's edge, so at least you'll see if a bear is coming right at you. Do you think the fear element is a help, or a hindrance to use of this facility?

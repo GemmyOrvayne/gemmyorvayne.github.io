@@ -11,7 +11,7 @@ img2_rollover: /img/other/doom1a.jpg
 ---
 ## Argent Energy Research Facility shitter!
 
-Submitted by Bucket Brigadier *Minjianaxx*, who says: *"This was in the research facility for Argent Energy, which is an energy source found in Hell that can make infinite energy. The leader fucked up and let some bitch open a hell wave on Mars
+Submitted by Bucket Brigadier **Minjianaxx**, who says: *"This was in the research facility for Argent Energy, which is an energy source found in Hell that can make infinite energy. The leader fucked up and let some bitch open a hell wave on Mars
 turning 60% of the people into demons, and the rest got killed horribly by said demons."*
 
 A hatch hangs open on the ceiling. That doesn't look safe, gamer! Exceptional photography by this Brigadier, who snapped a shot of the shitter itself in the midst of a melee.

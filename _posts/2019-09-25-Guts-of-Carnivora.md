@@ -9,8 +9,8 @@ img1_rollover: /img/borderlands3/gutsofcarnivora1a.jpg
 ---
 ## Guts of Carnivora shitter!
 
-Submitted by Bucket Brigadier *Solo Espresso*, who writes:
+Submitted by Bucket Brigadier **Solo Espresso**, who writes:
 
   *"Look it's a double toilet! Just right there. Inside a shipping container two of them. #ToiletsWithThreateningAuras"*
-  
+
 It's not just remarkable that this unassuming shipping container sports two shitcans, which appear to have, somehow, a working flush function. It's also wired for electricity!

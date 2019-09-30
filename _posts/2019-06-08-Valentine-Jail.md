@@ -9,5 +9,5 @@ img1_rollover: /img/rdr2/valentinejail1a.jpg
 ---
 ## Valentine Jail Cell Shittoon!
 
-This Red Dead Redemption 2 shitter was submitted by Bucket Brigadier *Casper*, who provides the following commentary:
+This Red Dead Redemption 2 shitter was submitted by Bucket Brigadier **Casper**, who provides the following commentary:
 *"Even amidst the dangerous West in the year 1899, prisoners were looked after better than some of the ranchers. This one in particular I can only assume sat a bandit leader for his last.. you know."*
