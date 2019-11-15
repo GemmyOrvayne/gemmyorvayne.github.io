@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: FFXIV 2019 Furnishing Contest
 date: 2019-11-08 01:00:00
-tags: [ffxiv, shitter]
+tags: [ffxiv, shitter, bucket brigade]
 img1: /img/other/mandragoratoilet1.jpg
 source: <a href="https://tinyurl.com/y5yjag6s" target="_blank" rel="nofollow">FFXIV Lodestone</a>
 ---
