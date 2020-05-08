@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Fallout 76 Crimson Prospect
 date: 2020-04-21 01:01:00
-tags: [fallout 76, shitter, ROLLOVER]
+tags: [fallout, fallout 76, shitter, ROLLOVER]
 img1: /img/fallout76/crimsonprospect1.jpg
 img1_rollover: /img/fallout76/crimsonprospect1a.jpg
 ---
