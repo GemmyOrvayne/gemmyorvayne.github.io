@@ -2,7 +2,7 @@
 layout: post
 post_type: double-img
 title: Fallout 76 The Rusty Pick
-date: 2020-05-11 01:00:00
+date: 2020-05-11 01:01:00
 tags: [fallout, fallout 76, shitter]
 img1: /img/fallout76/rustypick.png
 img2: /img/fallout76/rustypick2.png
