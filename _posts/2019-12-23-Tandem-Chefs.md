@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Little Nightmares Twin Chefs Shitter
 date: 2019-12-23 01:00:00
-tags: [little nightmares, shitter, bucket brigade, ROLLOVER]
+tags: [little nightmares, shitter, bucket brigade]
 img1: /img/other/tandemchef1.jpg
 img1_rollover: /img/other/tandemchef1a.jpg
 ---

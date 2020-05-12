@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Borderlands 3 Droughts Pandora Shitter
 date: 2020-01-08 01:00:00
-tags: [borderlands, shitter, bucket brigade, ROLLOVER]
+tags: [borderlands, shitter, bucket brigade]
 img1: /img/borderlands3/junkyard1.jpg
 img1_rollover: /img/borderlands3/junkyard1a.jpg
 img2: /img/borderlands3/junkyard2.jpg

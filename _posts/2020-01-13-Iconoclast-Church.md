@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Fallout 3 Iconoclast Church Shitter
 date: 2020-01-13 01:01:00
-tags: [fallout, fallout 3, shitter, ROLLOVER]
+tags: [fallout, fallout 3, shitter]
 img1: /img/fallout3/iconoclastchurch1.jpg
 img1_rollover: /img/fallout3/iconoclastchurch1a.jpg
 ---

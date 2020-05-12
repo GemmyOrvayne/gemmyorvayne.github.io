@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Metro Enemy Camp Shitters
 date: 2020-01-16 01:01:00
-tags: [metro, shitter, best in show, ROLLOVER]
+tags: [metro, shitter, best in show]
 img1: /img/metro/taigaenemycamp1.jpg
 img1_rollover: /img/metro/taigaenemycamp1a.jpg
 img2: /img/metro/taigaenemycamp2.jpg

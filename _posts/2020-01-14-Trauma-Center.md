@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Prey Trauma Center Shitter
 date: 2020-01-14 01:01:00
-tags: [prey, shitter, ROLLOVER]
+tags: [prey, shitter]
 img1: /img/prey/traumacenter1.jpg
 img1_rollover: /img/prey/traumacenter1a.jpg
 ---

@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Metro Exodus Fanatics Church Shitters
 date: 2019-12-15 01:00:00
-tags: [metro, shitter, ROLLOVER]
+tags: [metro, shitter]
 img1: /img/metro/churchupper1.jpg
 img1_rollover: /img/metro/churchupper1a.jpg
 img2: /img/metro/churchmain1.jpg

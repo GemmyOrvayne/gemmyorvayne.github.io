@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Metro Admiral's Teaparty
 date: 2020-01-24 01:00:00
-tags: [metro, ROLLOVER]
+tags: [metro]
 img1: /img/metro/admiral1.jpg
 img1_rollover: /img/metro/admiral1a.jpg
 ---

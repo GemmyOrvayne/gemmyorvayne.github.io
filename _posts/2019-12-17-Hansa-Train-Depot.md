@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Metro Exodus Hansa Train Depot Shitter
 date: 2019-12-17 01:00:00
-tags: [metro, shitter, best in show, ROLLOVER]
+tags: [metro, shitter, best in show]
 img1: /img/metro/hansashitter1.jpg
 img1_rollover: /img/metro/hansashitter1a.jpg
 ---

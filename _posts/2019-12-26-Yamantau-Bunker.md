@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Metro Yamantau Bunker Shitter
 date: 2019-12-26 01:00:00
-tags: [metro, shitter, ROLLOVER]
+tags: [metro, shitter]
 img1: /img/metro/yamantau1.jpg
 img1_rollover: /img/metro/yamantau1a.jpg
 ---

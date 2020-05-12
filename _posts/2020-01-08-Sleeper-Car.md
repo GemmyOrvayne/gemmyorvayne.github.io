@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Metro Sleeper Car Before After Shitter
 date: 2020-01-08 01:02:00
-tags: [metro, shitter, ROLLOVER]
+tags: [metro, shitter]
 img1: /img/metro/sleepercar1.jpg
 img1_rollover: /img/metro/sleepercar1a.jpg
 img2: /img/metro/sleepercar2.jpg

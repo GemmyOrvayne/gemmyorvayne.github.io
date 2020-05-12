@@ -3,7 +3,7 @@ layout: post
 post_type: four-img
 title: Dishonored 2 Shitters of Note
 date: 2019-12-13 01:00:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored2/blackmarketdustdistrict1.jpg
 img1_rollover: /img/dishonored2/blackmarketdustdistrict1a.jpg
 img2: /img/dishonored2/karnacaenclaveguardhouse1.jpg

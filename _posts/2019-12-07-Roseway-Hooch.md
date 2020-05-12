@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Outer Worlds Roseway Hooch
 date: 2019-12-07 01:01:00
-tags: [outer worlds, shitter, ROLLOVER]
+tags: [outer worlds, shitter]
 img1: /img/ow/roseway1.jpg
 img1_rollover: /img/ow/roseway1a.jpg
 img2: /img/ow/roseway2.jpg

@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Thanks From WTO
 date: 2020-05-08 01:00:00
-tags: [charities]
+tags: [toilet times, charities]
 img1: /img/wto/thanks.jpg
 ---
 ## Thank You from WTO!
