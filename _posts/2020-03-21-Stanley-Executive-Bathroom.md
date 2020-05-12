@@ -3,7 +3,7 @@ layout: post
 post_type: triple-img
 title: Stanley Parable Executive Bathroom
 date: 2020-03-21 01:00:00
-tags: [stanley parable, shitter, best in show, ROLLOVER]
+tags: [stanley parable, shitter, best in show]
 img1: /img/stanley/exec1.jpg
 img1_rollover: /img/stanley/exec1a.jpg
 img2: /img/stanley/exec2.jpg

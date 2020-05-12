@@ -3,9 +3,7 @@ layout: post
 post_type: single-img
 title: Animal Crossing Custom Loo
 date: 2020-03-28 01:01:00
-tags: [animal crossing, bucket brigade, shitter, ROLLOVER]
-img1: /img/animalcrossing/loo1.jpg
-img1_rollover: /img/animalcrossing/loo1a.jpg
+tags: [animal crossing, bucket brigade, shitter]
 video: /videos/poo_on_the_loo.mp4
 ---
 ## Animal Crossing Interactive Shitter!

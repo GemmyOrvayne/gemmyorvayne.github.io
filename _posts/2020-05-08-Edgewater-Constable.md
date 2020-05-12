@@ -4,9 +4,9 @@ post_type: double-img
 title: Outer Worlds Edgewater Constabulary
 date: 2020-05-08 01:04:00
 tags: [outer worlds, shitter]
-img1: /img/ow/edgewaterconstable1.jpg
+img1: /img/ow/edgewaterconstable1.png
 img1_rollover: /img/ow/edgewaterconstable1a.jpg
-img2: /img/ow/edgewaterconstable2.jpg
+img2: /img/ow/edgewaterconstable2.png
 img2_rollover: /img/ow/edgewaterconstable2a.jpg
 ---
 ## Edgewater Constabulary shitter!

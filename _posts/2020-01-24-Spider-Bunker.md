@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Metro Spider Bunker Shitters
 date: 2020-01-24 01:01:00
-tags: [metro, shitter, ROLLOVER]
+tags: [metro, shitter]
 img1: /img/metro/spiderbunker1.jpg
 img1_rollover: /img/metro/spiderbunker1a.jpg
 img2: /img/metro/spiderbunker2.jpg
