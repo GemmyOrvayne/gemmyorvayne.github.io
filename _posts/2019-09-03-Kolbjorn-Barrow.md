@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Skyrim Solstheim Kolbjorn Barrow Shitter
 date: 2019-09-03 01:00:00
-tags: [skyrim, shitter, ROLLOVER]
+tags: [skyrim, shitter]
 img1: /img/skyrim/kolbjorn1.jpg
 img1_rollover: /img/skyrim/kolbjorn1a.jpg
 ---

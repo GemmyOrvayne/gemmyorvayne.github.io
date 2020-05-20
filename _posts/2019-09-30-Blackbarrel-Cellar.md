@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Borderlands 3 Blackbarrel Cellars Shitter
 date: 2019-09-30 01:00:00
-tags: [borderlands, shitter, best in show, bucket brigade, ROLLOVER]
+tags: [borderlands, shitter, best in show, bucket brigade]
 img1: /img/borderlands3/blackbarrelcellarseden6.jpg
 img1_rollover: /img/borderlands3/blackbarrelcellarseden6a.jpg
 ---

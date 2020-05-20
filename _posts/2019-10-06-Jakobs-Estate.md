@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Borderlands 3 Jakobs Estate Shitter
 date: 2019-10-06 01:00:00
-tags: [borderlands, shitter, bucket brigade, ROLLOVER]
+tags: [borderlands, shitter, bucket brigade]
 img1: /img/borderlands3/jakobsestateeden6.jpg
 img1_rollover: /img/borderlands3/jakobsestateeden6a.jpg
 ---

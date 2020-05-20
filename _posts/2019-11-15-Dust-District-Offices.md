@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Dishonored 2 Dust District Offices Shitter
 date: 2019-11-15 01:01:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored2/dustdistrictofficebuilding1.jpg
 img1_rollover: /img/dishonored2/dustdistrictofficebuilding1a.jpg
 img2: /img/dishonored2/dustdistrictofficebuilding2.jpg

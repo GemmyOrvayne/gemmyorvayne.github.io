@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Dishonored 2 Aventa District Guardhouse Shitter
 date: 2019-09-23 01:00:00
-tags: [dishonored, shitter, bucket brigade, ROLLOVER]
+tags: [dishonored, shitter, bucket brigade]
 img1: /img/dishonored2/aventadistrictguardhouse1.jpg
 img1_rollover: /img/dishonored2/aventadistrictguardhouse1a.jpg
 ---

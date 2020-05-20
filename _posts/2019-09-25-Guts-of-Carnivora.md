@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Borderlands 3 Guts of Carnivora Pandora Shitter
 date: 2019-09-25 01:00:00
-tags: [borderlands, shitter, bucket brigade, ROLLOVER]
+tags: [borderlands, shitter, bucket brigade]
 img1: /img/borderlands3/gutsofcarnivora1.jpg
 img1_rollover: /img/borderlands3/gutsofcarnivora1a.jpg
 ---

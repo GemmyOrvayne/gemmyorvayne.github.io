@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Dishonored 2 Durante's Grand Guard Prison Shitter
 date: 2019-10-08 01:00:00
-tags: [dishonored, shitter, bucket brigade, best in show, ROLLOVER]
+tags: [dishonored, shitter, bucket brigade, best in show]
 img1: /img/dishonored2/durantecell1.jpg
 img1_rollover: /img/dishonored2/durantecell1a.jpg
 ---
