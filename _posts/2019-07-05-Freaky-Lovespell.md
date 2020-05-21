@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Delilah's Freakish Love Spell at Dunwall Tower
 date: 2019-07-05 01:00:00
-tags: [dishonored, ROLLOVER]
+tags: [dishonored]
 img1: /img/dishonored2/lovespell1.jpg
 img1_rollover: /img/dishonored2/lovespell1a.jpg
 ---

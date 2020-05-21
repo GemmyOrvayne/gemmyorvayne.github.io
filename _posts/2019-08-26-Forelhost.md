@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Skyrim Forelhost Shitter
 date: 2019-08-26 01:01:00
-tags: [skyrim, shitter, ROLLOVER]
+tags: [skyrim, shitter]
 img1: /img/skyrim/forelhost1.jpg
 img1_rollover: /img/skyrim/forelhost1a.jpg
 ---

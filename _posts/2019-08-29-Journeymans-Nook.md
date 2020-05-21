@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Skyrim Journeyman's Nook Shitter
 date: 2019-08-29 01:01:00
-tags: [skyrim, shitter, ROLLOVER]
+tags: [skyrim, shitter]
 img1: /img/skyrim/journeymansnook1.jpg
 img1_rollover: /img/skyrim/journeymansnook1a.jpg
 ---

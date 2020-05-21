@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Dishonored 2 Stilton Manor's Alternate Future Kitchen Shitters
 date: 2019-06-17 01:00:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored2/stiltonkitchen1.jpg
 img1_rollover: /img/dishonored2/stiltonkitchen1a.jpg
 img2: /img/dishonored2/stiltonkitchen2.jpg

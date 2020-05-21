@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Skyrim Mzinchaleft You Are Not the Shitter
 date: 2019-08-29 01:00:00
-tags: [skyrim, shitter, ROLLOVER]
+tags: [skyrim, shitter]
 img1: /img/skyrim/mzinchaleft1.jpg
 img1_rollover: /img/skyrim/mzinchaleft1a.jpg
 img2: /img/skyrim/mzinchaleft2.jpg

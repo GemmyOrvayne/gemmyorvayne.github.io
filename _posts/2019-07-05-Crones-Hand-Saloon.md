@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Crone's Hand Saloon Shitters
 date: 2019-07-05 01:01:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored2/croneshand1.jpg
 img1_rollover: /img/dishonored2/croneshand1a.jpg
 img2: /img/dishonored2/croneshand2.jpg

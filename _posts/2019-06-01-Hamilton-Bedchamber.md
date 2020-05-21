@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Dishonored 2 Hamilton Bedchamber Shitters
 date: 2019-06-01 01:01:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored2/hamilton1.jpg
 img1_rollover: /img/dishonored2/hamilton1a.jpg
 ---

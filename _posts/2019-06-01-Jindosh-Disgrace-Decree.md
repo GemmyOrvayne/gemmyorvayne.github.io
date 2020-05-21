@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Dishonored 2 Kirin Jindosh's Secret Shame
 date: 2019-06-01 01:00:00
-tags: [dishonored, ROLLOVER]
+tags: [dishonored]
 img1: /img/dishonored2/jindoshdecree1.jpg
 img1_rollover: /img/dishonored2/jindoshdecree1a.jpg
 img2: /img/dishonored2/jindoshdecree2.jpg

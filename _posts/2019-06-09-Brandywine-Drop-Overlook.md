@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Red Dead Redemption 2 Brandywine Drop Overlook Outhouse
 date: 2019-06-09 01:00:00
-tags: [rdr2, shitter, bucket brigade, ROLLOVER]
+tags: [rdr2, shitter, bucket brigade]
 img1: /img/rdr2/brandywinedrop1.jpg
 img1_rollover: /img/rdr2/brandywinedrop1a.jpg
 img2: /img/rdr2/brandywinedrop2.jpg

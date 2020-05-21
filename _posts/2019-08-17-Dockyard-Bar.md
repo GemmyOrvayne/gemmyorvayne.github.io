@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Dishonored Addermire Mission Bartender's Shitter
 date: 2019-08-17 01:00:00
-tags: [dishonored, shitter, bucket brigade, ROLLOVER]
+tags: [dishonored, shitter, bucket brigade]
 img1: /img/dishonored2/barkeep1.jpg
 img1_rollover: /img/dishonored2/barkeep1a.jpg
 ---

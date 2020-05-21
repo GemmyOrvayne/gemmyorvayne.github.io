@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Amh Araeng Nuvy's Leavings Mystery Shitter
 date: 2019-08-11 01:00:00
-tags: [ffxiv, shitter, ROLLOVER]
+tags: [ffxiv, shitter]
 img1: /img/other/nuvysleavings1.jpg
 img1_rollover: /img/other/nuvysleavings1a.jpg
 ---

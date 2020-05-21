@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Karnaca Enclave Barber Shop Shitter
 date: 2019-08-05 01:00:00
-tags: [dishonored, shitter, best in show, ROLLOVER]
+tags: [dishonored, shitter, best in show]
 img1: /img/dishonored2/karnacaenclavebarbershop1.jpg
 img1_rollover: /img/dishonored2/karnacaenclavebarbershop1a.jpg
 ---
