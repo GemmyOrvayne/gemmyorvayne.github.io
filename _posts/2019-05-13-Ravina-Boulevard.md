@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Dishonored 2 Wealth Disparity of Ravina Boulevard shitters
 date: 2019-05-13 01:01:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored2/ravina1a.jpg
 img1_rollover: /img/dishonored2/ravina1b.jpg
 img2: /img/dishonored2/ravina2a.jpg

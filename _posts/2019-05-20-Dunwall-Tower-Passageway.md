@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Dishonored 2 Dunwall Tower Passageway shitter
 date: 2019-05-20 01:00:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored2/lucile1.jpg
 img1_rollover: /img/dishonored2/lucile1a.jpg
 ---

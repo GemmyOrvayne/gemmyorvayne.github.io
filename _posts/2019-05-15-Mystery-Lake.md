@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: The Long Dark Mystery Lake Outhouse
 date: 2019-05-15 01:00:00
-tags: [shitter, ROLLOVER, the long dark]
+tags: [shitter, the long dark]
 img1: /img/tld/mysterylake1a.jpg
 img1_rollover: /img/tld/mysterylake1b.jpg
 ---

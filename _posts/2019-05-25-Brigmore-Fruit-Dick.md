@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Dishonored 2 Brigmore Witches Fruit Dick
 date: 2019-05-25 01:00:00
-tags: [dishonored, ROLLOVER]
+tags: [dishonored]
 img1: /img/dishonored2/dickfruit1.jpg
 img1_rollover: /img/dishonored2/dickfruit1a.jpg
 ---

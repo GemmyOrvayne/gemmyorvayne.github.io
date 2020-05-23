@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Dishonored 2 Stilton Manor Attic
 date: 2019-05-13 01:00:00
-tags: [dishonored, ROLLOVER]
+tags: [dishonored]
 img1: /img/dishonored2/stiltonattic2a.jpg
 img1_rollover: /img/dishonored2/stiltonattic2b.jpg
 img2: /img/dishonored2/stiltonattic1a.jpg

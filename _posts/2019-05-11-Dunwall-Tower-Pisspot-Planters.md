@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Dishonored 2 Dunwall Tower Pisspot Cranny
 date: 2019-05-11 01:00:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored2/dunwalltower4.jpg
 img1_rollover: /img/dishonored2/dunwalltower4a.jpg
 img2: /img/dishonored2/dunwalltower4b.jpg
