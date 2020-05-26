@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Dishonored 2 Kaldwin Saferoom Shitter
 date: 2019-04-06 01:00:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored2/kaldwinsaferoom1.jpg
 img1_rollover: /img/dishonored2/kaldwinsaferoom1a.jpg
 img2: /img/dishonored2/kaldwinsaferoomafter1.jpg

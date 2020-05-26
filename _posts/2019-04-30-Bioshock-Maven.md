@@ -3,7 +3,7 @@ layout: post
 post_type: triple-img
 title: Bioshock Infinite Junior Shitter Hunter Maven
 date: 2019-04-30 01:00:00
-tags: [bioshock, shitter, bucket brigade, ROLLOVER]
+tags: [bioshock, shitter, bucket brigade]
 img1: /img/bioshock/maven1.jpg
 img1_rollover: /img/bioshock/maven1a.jpg
 img2: /img/bioshock/maven2.jpg

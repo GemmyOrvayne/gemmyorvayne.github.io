@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Dishonored 2 Dust District Shitter
 date: 2019-04-26 01:00:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored2/dustdistrict1.jpg
 img1_rollover: /img/dishonored2/dustdistrict1a.jpg
 ---

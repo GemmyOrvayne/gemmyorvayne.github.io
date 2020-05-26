@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Doom Argent Energy Research Facility Shitter
 date: 2019-04-24 01:00:00
-tags: [doom, shitter, bucket brigade, ROLLOVER]
+tags: [doom, shitter, bucket brigade]
 img1: /img/other/doom2.jpg
 img1_rollover: /img/other/doom2a.jpg
 img2: /img/other/doom1.jpg

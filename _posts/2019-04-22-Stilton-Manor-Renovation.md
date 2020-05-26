@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Dishonored 2 Stilton Manor Renovation Shitter
 date: 2019-04-22 01:00:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored2/stiltonreno2.jpg
 img1_rollover: /img/dishonored2/stiltonreno2a.jpg
 img2: /img/dishonored2/stiltonreno1.jpg

@@ -3,7 +3,7 @@ layout: post
 post_type: triple-img
 title: Prey Neural Mod Division Shitter
 date: 2019-04-18 01:00:00
-tags: [prey, shitter, ROLLOVER]
+tags: [prey, shitter]
 img1: /img/prey/neuromoddiv3.jpg
 img1_rollover: /img/prey/neuromoddiv3a.jpg
 img2: /img/prey/neuromoddiv4.jpg
