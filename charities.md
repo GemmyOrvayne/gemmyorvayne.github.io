@@ -15,6 +15,6 @@ Worldwide, 2.4 billion people lack access to proper sanitation. Just like food, 
 
 Through coordination with governments and social organizations across many countries, 'Mr. Toilet' has forged partnerships to better bring proper sanitation to many platforms. The WTO even works with the UN for global sanitation goals and World Toilet Day, November 19, which highlights and focuses the need for sanitation.
 
-In order to bring clean, safe toilets to every person, the World Toilet Organization needs your support. Please consider donating to the World Toilet Organization today. You can donate any amount, one time, or in monthly installments. Your donation can make a difference in bringing clean, safe toilets to children, students, families, and communities all over the world, and provide a lasting impact for generations.
+In order to bring clean, safe toilets to every person, the World Toilet Organization needs your support. Please consider donating to the World Toilet Organization today. You can donate any amount, one time, or in monthly installments. You can use PayPal, so you know your payment is secure. Your donation can make a difference in bringing clean, safe toilets to children, students, families, and communities all over the world, and provide a lasting impact for generations.
 
-## [You can donate today by clicking here.](https://worldtoilet.give.asia/)
+## [You can donate today by clicking here and selecting DONATE.](https://worldtoilet.org/)
