@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Dishonored 2 Clockwork Mansion Assessment Chamber Prison Shitter
 date: 2019-03-18 01:00:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored2/assessmentchamber1.jpg
 img1_rollover: /img/dishonored2/assessmentchamber2.jpg
 ---

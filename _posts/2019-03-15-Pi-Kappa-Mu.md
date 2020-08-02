@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Fallout 76 Frat House Shitters
 date: 2019-03-15 01:00:00
-tags: [fallout, fallout 76, shitter, ROLLOVER]
+tags: [fallout, fallout 76, shitter]
 img1: /img/fallout76/frat1.jpg
 img1_rollover: /img/fallout76/frat1a.jpg
 img2: /img/fallout76/frat2.jpg

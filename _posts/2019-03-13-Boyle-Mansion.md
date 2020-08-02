@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Dishonored Boyle Mansion Shitters
 date: 2019-03-13 01:01:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored/boyle2.jpg
 img1_rollover: /img/dishonored/boyle2a.jpg
 ---

@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Dishonored Dunwall Distillery District Shitter
 date: 2019-03-13 01:00:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored/distillery1.jpg
 img1_rollover: /img/dishonored/distillery1a.jpg
 ---

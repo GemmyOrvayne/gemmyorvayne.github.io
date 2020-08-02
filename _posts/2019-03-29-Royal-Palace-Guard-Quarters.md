@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Dishonored 2 Royal Palace Guard Quarters Shitter
 date: 2019-03-29 01:00:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored2/abeleguard1.jpg
 img1_rollover: /img/dishonored2/abeleguard1a.jpg
 img2: /img/dishonored2/abeleguard2.jpg

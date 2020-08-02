@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Fenella Reid's Shitter
 date: 2019-03-22 01:00:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored2/reid1.jpg
 img1_rollover: /img/dishonored2/reid1a.jpg
 ---

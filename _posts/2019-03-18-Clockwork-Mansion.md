@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Dishonored 2 Clockwork Mansion Kirin Jindosh Shitter
 date: 2019-03-18 01:01:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored2/jindosh1.jpg
 img1_rollover: /img/dishonored2/jindosh1a.jpg
 img2: /img/dishonored2/jindosh2.jpg

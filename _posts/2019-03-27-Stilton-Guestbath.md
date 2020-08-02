@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Dishonored 2 Stilton Manor Guest Bathroom Shitter
 date: 2019-03-27 01:00:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored2/stiltonguest1.jpg
 img1_rollover: /img/dishonored2/stiltonguest1a.jpg
 img2: /img/dishonored2/stiltonguest2.jpg

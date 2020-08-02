@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Fallout 76 Charleston Shitter
 date: 2019-03-08 01:01:00
-tags: [fallout, fallout 76, shitter, ROLLOVER]
+tags: [fallout, fallout 76, shitter]
 img1: /img/fallout76/charleston2.jpg
 img1_rollover: /img/fallout76/charleston2a.jpg
 img2: /img/fallout76/charleston1.jpg

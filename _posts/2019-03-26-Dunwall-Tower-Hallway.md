@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Dishonored 2 Dunwall Tower Hallway shitter
 date: 2019-03-26 01:00:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored2/dunwalltowerhall1.jpg
 img1_rollover: /img/dishonored2/dunwalltowerhall1a.jpg
 ---

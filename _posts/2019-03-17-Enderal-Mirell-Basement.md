@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Skyrim Enderal Mirell's Basement Shitter
 date: 2019-03-17 01:00:00
-tags: [skyrim, enderal, shitter, ROLLOVER]
+tags: [skyrim, enderal, shitter]
 img1: /img/enderal/mirell1.jpg
 img1_rollover: /img/enderal/mirell1a.jpg
 ---

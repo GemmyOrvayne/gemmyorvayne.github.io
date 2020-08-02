@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Dishonored Dunwall Tower Lord Regent Shitter
 date: 2019-03-12 01:01:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored/lordregent1.jpg
 img1_rollover: /img/dishonored/lordregent1a.jpg
 ---

@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Dishonored Dunwall Tower Whale Oil Shitter
 date: 2019-03-12 01:00:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored/dunwalltower1.jpg
 img1_rollover: /img/dishonored/dunwalltower1a.jpg
 ---
