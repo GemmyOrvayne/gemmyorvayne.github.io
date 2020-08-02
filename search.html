@@ -4,7 +4,7 @@ layout: responsive
 <div class="search-results-page is-centered">
   <div class="search-results-block is-centered">
   <h2 class="search-results-page-title is-info">Your Search Results for: <span id="search-term"></span></h2>
-  <div id="search-results" class="columns is-mobile is-multiline">
+  <div id="search-results" class="columns is-mobile is-multiline search-results">
     <!-- search.js displaySearchResults() -->
   </div>
   </div>
@@ -17,7 +17,8 @@ layout: responsive
         "title": "{{ post.title | xml_escape }}",
         "tags": "{{ post.tags }}",
         "url": "{{ post.url }}",
-        "img1": "{{ post.img1 }}"
+        "img1": "{{ post.img1 }}",
+        "video": "{{ post.video }}"
       }
       {% unless forloop.last %},{% endunless %}
     {% endfor %}

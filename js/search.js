@@ -8,9 +8,15 @@
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
         //appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a></li>';
-        appendString += '<div class="column search-result is-one-fifth"><a href="' + item.url + '"><img src="' + item.img1 + '" class="search-result-img" /></a></div>'
-    }
+        
+        if (item.video) { // Include video results along with img results
+          appendString += '<div class="column search-result is-one-fifth"><a href="' + item.url + '"><video src="' + item.video + '" class="search-result-img" /></a></div>'
+        }
+        else {
+          appendString += '<div class="column search-result is-one-fifth"><a href="' + item.url + '"><img src="' + item.img1 + '" class="search-result-img" /></a></div>'
+        }
 
+      }
       searchResults.innerHTML = appendString;
     } else {
       searchResults.innerHTML = '<li>No results found</li>';
@@ -46,9 +52,8 @@
         'title': window.store[key].title,
         'tags': window.store[key].tags
       });
-
-      var results = idx.search(searchTerm); // Get lunr to perform a search
-      displaySearchResults(results, window.store); // We'll write this in the next section
     }
+    var results = idx.search(searchTerm); // Get lunr to perform a search
+    displaySearchResults(results, window.store); 
   }
 })();
