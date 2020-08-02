@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Scenic Overlook Shitter
 date: 2019-01-06 01:02:00
-tags: [fallout, fallout 76, shitter, ROLLOVER]
+tags: [fallout, fallout 76, shitter]
 img1: /img/fallout76/scenoverl1.jpg
 img1_rollover: /img/fallout76/scenoverl1a.jpg
 ---
