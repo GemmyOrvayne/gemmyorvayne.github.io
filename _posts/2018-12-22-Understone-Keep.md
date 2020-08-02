@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Understone Keep Shitter
 date: 2018-12-24 01:00:00
-tags: [skyrim, shitter, ROLLOVER]
+tags: [skyrim, shitter]
 img1: /img/skyrim/understone.jpg
 img1_rollover: /img/skyrim/understone1a.jpg
 ---

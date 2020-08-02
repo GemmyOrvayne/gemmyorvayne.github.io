@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Republic of Dave Shitter
 date: 2018-12-27 01:25:00
-tags: [fallout, fallout 3, shitter, ROLLOVER]
+tags: [fallout, fallout 3, shitter]
 img1: /img/fallout3/rdave1.jpg
 img1_rollover: /img/fallout3/rdave1a.jpg
 ---

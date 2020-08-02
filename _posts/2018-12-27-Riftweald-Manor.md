@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Riftweald Manor Shitter
 date: 2018-12-27 01:05:00
-tags: [skyrim, shitter, ROLLOVER]
+tags: [skyrim, shitter]
 img1: /img/skyrim/riftweald1.jpg
 img1_rollover: /img/skyrim/riftweald1a.jpg
 ---

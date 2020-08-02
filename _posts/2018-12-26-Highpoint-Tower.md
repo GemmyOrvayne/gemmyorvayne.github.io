@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Highpoint Tower Prison Shitter
 date: 2018-12-26 01:30:00
-tags: [skyrim, shitter, ROLLOVER]
+tags: [skyrim, shitter]
 img1: /img/skyrim/highpointtower1.jpg
 img1_rollover: /img/skyrim/highpointtower1a.jpg
 ---

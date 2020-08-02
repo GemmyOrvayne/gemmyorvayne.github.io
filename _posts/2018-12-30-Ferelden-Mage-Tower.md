@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Ferelden Mage Tower
 date: 2018-12-30 01:00:00
-tags: [dragon age, shitter, bucket brigade, ROLLOVER]
+tags: [dragon age, shitter, bucket brigade]
 img1: /img/other/fereldenmt1.jpg
 img1_rollover: /img/other/fereldenmt1a.jpg
 ---

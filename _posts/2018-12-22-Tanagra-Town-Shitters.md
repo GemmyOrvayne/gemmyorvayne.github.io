@@ -3,7 +3,7 @@ layout: post
 post_type: triple-img
 title: Tanagra Town Shitters
 date: 2018-12-22 01:15:00
-tags: [fallout, fallout 76, shitter, ROLLOVER]
+tags: [fallout, fallout 76, shitter]
 img1: /img/fallout76/tanagratown1.jpg
 img1_rollover: /img/fallout76/tanagratown1a.jpg
 img2: /img/fallout76/tanagratown2.jpg

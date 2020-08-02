@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Kings Landing Prison Shitter
 date: 2018-12-24 01:35:00
-tags: [game of thrones, shitter, ROLLOVER]
+tags: [game of thrones, shitter]
 img1: /img/other/kingslanding1.jpg
 img1_rollover: /img/other/kingslanding1a.jpg
 ---

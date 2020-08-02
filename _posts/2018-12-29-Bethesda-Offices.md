@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Bethesda Offices Shitter
 date: 2018-12-29 01:25:00
-tags: [fallout, fallout 3, shitter, ROLLOVER]
+tags: [fallout, fallout 3, shitter]
 img1: /img/fallout3/boffice1.jpg
 img1_rollover: /img/fallout3/boffice1a.jpg
 img2: /img/fallout3/boffice2.jpg

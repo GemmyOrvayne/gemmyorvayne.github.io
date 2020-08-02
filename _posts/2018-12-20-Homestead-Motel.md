@@ -3,7 +3,7 @@ layout: post
 post_type: triple-img
 title: Homestead Motel Shitters
 date: 2018-12-20 02:00:00
-tags: [fallout, fallout 3, shitter, ROLLOVER]
+tags: [fallout, fallout 3, shitter]
 img1: /img/fallout3/hsm1.jpg
 img1_rollover: /img/fallout3/hsm1a.jpg
 img2: /img/fallout3/hsm2.jpg

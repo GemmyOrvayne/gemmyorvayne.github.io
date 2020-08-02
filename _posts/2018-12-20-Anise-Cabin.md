@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Anise's Cabin Shitter
 date: 2018-12-20 01:10:00
-tags: [skyrim, shitter, ROLLOVER]
+tags: [skyrim, shitter]
 img1: /img/skyrim/anise1.jpg
 img1_rollover: /img/skyrim/anise1a.jpg
 ---

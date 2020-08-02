@@ -3,7 +3,7 @@ layout: post
 post_type: triple-img
 title: Herzog Mine Shitters
 date: 2018-12-20 01:55:00
-tags: [fallout, fallout 3, shitter, are you afraid of the gnome, ROLLOVER]
+tags: [fallout, fallout 3, shitter, are you afraid of the gnome]
 img1: /img/fallout3/kenny1.jpg
 img1_rollover: /img/fallout3/kenny1a.jpg
 img2: /img/fallout3/kenny2.jpg

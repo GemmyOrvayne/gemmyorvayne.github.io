@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Swindler's Den Shitter
 date: 2018-12-20 01:30:00
-tags: [skyrim, shitter, ROLLOVER]
+tags: [skyrim, shitter]
 img1: /img/skyrim/swindlersden1.jpg
 img1_rollover: /img/skyrim/swindlersden1a.jpg
 ---

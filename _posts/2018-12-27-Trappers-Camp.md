@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Trapper's Camp Shitter
 date: 2018-12-27 01:49:00
-tags: [fallout, fallout 76, shitter, best in show, ROLLOVER]
+tags: [fallout, fallout 76, shitter, best in show]
 img1: /img/fallout76/tcamp1.jpg
 img1_rollover: /img/fallout76/tcamp1a.jpg
 ---

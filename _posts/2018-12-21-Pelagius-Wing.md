@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Pelagius Wing Shitter
 date: 2018-12-21 01:05:00
-tags: [skyrim, shitter, ROLLOVER]
+tags: [skyrim, shitter]
 img1: /img/skyrim/pelagius1.jpg
 img1_rollover: /img/skyrim/pelagius1a.jpg
 ---

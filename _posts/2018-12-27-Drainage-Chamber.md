@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Drainage Chamber
 date: 2018-12-27 01:35:00
-tags: [fallout, fallout 3, ROLLOVER]
+tags: [fallout, fallout 3]
 img1: /img/fallout3/dchamber1.jpg
 img1_rollover: /img/fallout3/dchamber1a.jpg
 ---
