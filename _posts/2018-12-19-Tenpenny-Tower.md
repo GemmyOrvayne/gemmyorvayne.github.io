@@ -3,7 +3,7 @@ layout: post
 post_type: triple-img
 title: Tenpenny Tower
 date: 2018-12-19 01:55:00
-tags: [fallout, fallout 3, shitter, ROLLOVER]
+tags: [fallout, fallout 3, shitter]
 img1: /img/fallout3/tenpenny1.jpg
 img1_rollover: /img/fallout3/tenpenny1a.jpg
 img2: /img/fallout3/tenpenny2.jpg

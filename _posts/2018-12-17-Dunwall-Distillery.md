@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Dunwall Distillery
 date: 2018-12-17 03:10:00
-tags: [dishonored, shitter, best in show, ROLLOVER]
+tags: [dishonored, shitter, best in show]
 img1: /img/dishonored/dunwalldistill1.jpg
 img1_rollover: /img/dishonored/dunwalldistill2.jpg
 ---

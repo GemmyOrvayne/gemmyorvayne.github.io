@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Faldars Tooth Shitter
 date: 2018-12-15 03:40:00
-tags: [skyrim, shitter, ROLLOVER]
+tags: [skyrim, shitter]
 img1: /img/skyrim/faldarstooth1.jpg
 img1_rollover: /img/skyrim/faldarstooth2.jpg
 ---

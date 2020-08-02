@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Frostmere Crypt Shitter
 date: 2018-12-16 01:20:00
-tags: [skyrim, shitter, ROLLOVER]
+tags: [skyrim, shitter]
 img1: /img/skyrim/frostmere1.jpg
 img1_rollover: /img/skyrim/frostmere2.jpg
 ---

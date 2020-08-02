@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Fort Defiance
 date: 2018-12-18 02:55:00
-tags: [fallout, fallout 76, are you afraid of the gnome, ROLLOVER]
+tags: [fallout, fallout 76, are you afraid of the gnome]
 img1: /img/fallout76/fortdefiance1.jpg
 img1_rollover: /img/fallout76/fortdefiance1a.jpg
 ---

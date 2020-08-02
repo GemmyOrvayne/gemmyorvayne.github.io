@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Embershard Mine and Prison Shitters
 date: 2018-12-18 01:00:00
-tags: [skyrim, shitter, ROLLOVER]
+tags: [skyrim, shitter]
 img1: /img/skyrim/embershard1.jpg
 img1_rollover: /img/skyrim/embershard1a.jpg
 img2: /img/skyrim/embershard2.jpg

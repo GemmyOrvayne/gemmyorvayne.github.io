@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Sunnytop Station Shitter
 date: 2018-12-18 01:25:00
-tags: [fallout, fallout 76, shitter, best in show, ROLLOVER]
+tags: [fallout, fallout 76, shitter, best in show]
 img1: /img/fallout76/sunnytop1.jpg
 img1_rollover: /img/fallout76/sunnytop2.jpg
 ---

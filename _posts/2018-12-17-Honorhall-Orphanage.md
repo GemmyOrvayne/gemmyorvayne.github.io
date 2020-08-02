@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Honorhall Orphanage
 date: 2018-12-17 01:30:00
-tags: [skyrim, shitter, ROLLOVER]
+tags: [skyrim, shitter]
 img1: /img/skyrim/honorhall1.jpg
 img1_rollover: /img/skyrim/honorhall2.jpg
 ---

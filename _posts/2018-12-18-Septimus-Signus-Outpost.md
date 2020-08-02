@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Glassed Cavern
 date: 2018-12-18 03:10:00
-tags: [skyrim, shitter, ROLLOVER]
+tags: [skyrim, shitter]
 img1: /img/skyrim/septimus1.jpg
 img1_rollover: /img/skyrim/septimus1a.jpg
 ---

@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Dunwall Graffito
 date: 2018-12-17 03:00:00
-tags: [dishonored, ROLLOVER]
+tags: [dishonored]
 img1: /img/dishonored/senpai1.jpg
 img1_rollover: /img/dishonored/senpai2.jpg
 ---

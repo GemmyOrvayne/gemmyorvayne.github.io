@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Sunshine Tidings Shitters
 date: 2018-12-18 02:40:00
-tags: [fallout, fallout 4, best in show, ROLLOVER]
+tags: [fallout, fallout 4, best in show]
 img1: /img/fallout4/sunshinetidings1.jpg
 img1_rollover: /img/fallout4/sunshinetidings1a.jpg
 img2: /img/fallout4/sunshinetidings2.jpg

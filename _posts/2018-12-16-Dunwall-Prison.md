@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Dunwall Prison
 date: 2018-12-17 01:00:00
-tags: [dishonored, shitter, ROLLOVER]
+tags: [dishonored, shitter]
 img1: /img/dishonored/dunwallprison1.jpg
 img1_rollover: /img/dishonored/dunwallprison2.jpg
 ---
