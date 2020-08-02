@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Prey Psychotronics Shitter
 date: 2019-02-16 01:02:00
-tags: [prey, shitter, ROLLOVER]
+tags: [prey, shitter]
 img1: /img/prey/psychtron1.jpg
 img1_rollover: /img/prey/psychtron1a.jpg
 img2: /img/prey/psychtron2.jpg

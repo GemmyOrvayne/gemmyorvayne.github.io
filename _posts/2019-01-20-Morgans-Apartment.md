@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Morgan Yu's Apartment Shitter
 date: 2019-01-20 01:02:00
-tags: [prey, shitter, ROLLOVER]
+tags: [prey, shitter]
 img1: /img/prey/morganapt1.jpg
 img1_rollover: /img/prey/morganapt1a.jpg
 ---

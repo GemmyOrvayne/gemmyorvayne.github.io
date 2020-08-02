@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Fallout 76 Phillipi Battlefield Cemetery Shitter
 date: 2019-03-02 01:02:00
-tags: [fallout, fallout 76, shitter, ROLLOVER]
+tags: [fallout, fallout 76, shitter]
 img1: /img/fallout76/phillipibc1.png
 img1_rollover: /img/fallout76/phillipibc1a.png
 img2: /img/fallout76/phillipibc2.png

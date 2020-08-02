@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Cazadores
 date: 2019-01-14 01:00:00
-tags: [fallout new vegas, ROLLOVER]
+tags: [fallout new vegas]
 img1: /img/falloutnewvegas/cazadores.jpg
 img1_rollover: /img/falloutnewvegas/cazadoresA.jpg
 ---

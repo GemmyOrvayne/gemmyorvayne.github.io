@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Mechanic Facilities Shitter
 date: 2019-01-22 01:00:00
-tags: [prey, shitter, ROLLOVER]
+tags: [prey, shitter]
 img1: /img/prey/lockerroom1.jpg
 img1_rollover: /img/prey/lockerroom1a.jpg
 img2: /img/prey/lockerroom2.jpg

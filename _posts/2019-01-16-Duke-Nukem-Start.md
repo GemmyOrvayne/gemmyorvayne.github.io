@@ -3,7 +3,7 @@ layout: post
 post_type: triple-img
 title: Duke Nukem Forever Start Point Shitter
 date: 2019-01-16 01:01:00
-tags: [duke nukem, shitter, ROLLOVER]
+tags: [duke nukem, shitter]
 img1: /img/other/dukeforeverstart1.jpg
 img1_rollover: /img/other/dukeforeverstart1a.jpg
 img2: /img/other/dukeforeverstart2.jpg

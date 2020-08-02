@@ -3,7 +3,7 @@ layout: post
 post_type: triple-img
 title: Calvert Labs Shitters
 date: 2019-02-13 01:00:00
-tags: [fallout, fallout 3, shitter, ROLLOVER]
+tags: [fallout, fallout 3, shitter]
 img1: /img/fallout3/calvert1.jpg
 img1_rollover: /img/fallout3/calvert1a.jpg
 img2: /img/fallout3/calvert2.jpg

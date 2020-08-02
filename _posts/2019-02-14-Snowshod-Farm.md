@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Skyrim Snowshod Farm Shitters
 date: 2019-02-14 01:03:00
-tags: [skyrim, shitter, ROLLOVER]
+tags: [skyrim, shitter]
 img1: /img/skyrim/snowshod1.jpg
 img1_rollover: /img/skyrim/snowshod1a.jpg
 ---

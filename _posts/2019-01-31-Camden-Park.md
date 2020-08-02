@@ -5,7 +5,7 @@ title: Fallout 76 Fun
 date: 2019-01-31 01:03:00
 img1: /img/fallout76/camden1.jpg
 img1_rollover: /img/fallout76/camden1a.png
-tags: [fallout, fallout 76, shitter, ROLLOVER]
+tags: [fallout, fallout 76, shitter]
 ---
 ## Camden Park shitters!
 

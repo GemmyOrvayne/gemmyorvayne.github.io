@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Paradise Falls Prison Shitters
 date: 2019-01-02 01:01:00
-tags: [fallout, fallout 3, shitter, ROLLOVER]
+tags: [fallout, fallout 3, shitter]
 img1: /img/fallout3/pfalls1.jpg
 img1_rollover: /img/fallout3/pfalls1a.jpg
 img2: /img/fallout3/pfalls2.jpg

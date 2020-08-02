@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Bolton Greens Gondola Shitter
 date: 2019-01-06 01:01:00
-tags: [fallout, fallout 76, shitter, ROLLOVER]
+tags: [fallout, fallout 76, shitter]
 img1: /img/fallout76/boltongreen1.jpg
 img1_rollover: /img/fallout76/boltongreen1a.jpg
 img2: /img/fallout76/boltongreen2.jpg

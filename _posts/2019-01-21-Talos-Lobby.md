@@ -3,7 +3,7 @@ layout: post
 post_type: triple-img
 title: Talos Lobby Shitters
 date: 2019-01-21 01:01:00
-tags: [prey, shitter, ROLLOVER]
+tags: [prey, shitter]
 img1: /img/prey/lobby1.jpg
 img1_rollover: /img/prey/lobby1.jpg
 img2: /img/prey/lobby2.jpg

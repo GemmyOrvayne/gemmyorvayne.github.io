@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Fallout 76 Morgantown Rooftop Shitter
 date: 2019-02-20 01:01:00
-tags: [fallout, fallout 76, shitter, ROLLOVER]
+tags: [fallout, fallout 76, shitter]
 img1: /img/fallout76/aparker1.jpg
 img1_rollover: /img/fallout76/aparker1a.jpg
 ---

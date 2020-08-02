@@ -3,9 +3,9 @@ layout: post
 post_type: single-img
 title: Prey GUTS Closet Shitter
 date: 2019-01-30 01:02:00
+tags: [prey, shitter]
 img1: /img/prey/gutscloset1.jpg
 img1_rollover: /img/prey/gutscloset1a.jpg
-tags: [prey, shitter, ROLLOVER]
 ---
 ## G.U.T.S. Closet shitter!
 

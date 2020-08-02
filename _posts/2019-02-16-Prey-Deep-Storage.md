@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Prey Deep Storage Shitter
 date: 2019-02-16 01:01:00
-tags: [prey, shitter, ROLLOVER]
+tags: [prey, shitter]
 img1: /img/prey/deepstorage1.jpg
 img1_rollover: /img/prey/deepstorage1a.jpg
 ---

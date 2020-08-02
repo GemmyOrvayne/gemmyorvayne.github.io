@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Hunters Ridge Shitter
 date: 2019-01-07 01:01:00
-tags: [fallout, fallout 76, shitter, are you afraid of the gnome, ROLLOVER]
+tags: [fallout, fallout 76, shitter, are you afraid of the gnome]
 img1: /img/fallout76/huntersridge1.jpg
 img1_rollover: /img/fallout76/huntersridge1a.jpg
 ---

@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Soldier's Field Shitter
 date: 2019-01-18 01:00:00
-tags: [bioshock, shitter, ROLLOVER]
+tags: [bioshock, shitter]
 img1: /img/bioshock/sfield2.jpg
 img1_rollover: /img/bioshock/sfield2a.jpg
 img2: /img/bioshock/sfield3.jpg

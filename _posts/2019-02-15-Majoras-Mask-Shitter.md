@@ -3,7 +3,7 @@ layout: post
 post_type: triple-img
 title: Legend of Zelda Pheoni Toilet Hand
 date: 2019-02-15 01:06:00
-tags: [legend of zelda, shitter, ROLLOVER]
+tags: [legend of zelda, shitter]
 img1: /img/loz/mm1.jpg
 img1_rollover: /img/loz/mm1a.jpg
 img2: /img/loz/oa2.jpg

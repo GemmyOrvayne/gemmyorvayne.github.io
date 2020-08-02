@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: South Park Stick of Truth Shitter
 date: 2019-01-03 01:00:00
-tags: [shitter, bucket brigade, ROLLOVER]
+tags: [shitter, bucket brigade]
 img1: /img/other/sp1.jpg
 img1_rollover: /img/other/sp1a.jpg
 ---

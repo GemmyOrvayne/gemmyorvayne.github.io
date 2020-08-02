@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Fallout 76 Shadowbreeze Apartments
 date: 2019-02-28 01:01:00
-tags: [fallout, fallout 76, shitter, ROLLOVER]
+tags: [fallout, fallout 76, shitter]
 img1: /img/fallout76/shadowbreeze1.jpg
 img1_rollover: /img/fallout76/shadowbreeze1a.jpg
 ---

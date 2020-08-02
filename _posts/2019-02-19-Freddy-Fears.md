@@ -3,7 +3,7 @@ layout: post
 post_type: triple-img
 title: Fallout 76 Freddy Fears House of Scares Shitters
 date: 2019-02-19 01:01:00
-tags: [fallout, fallout 76, shitter, ROLLOVER]
+tags: [fallout, fallout 76, shitter]
 img1: /img/fallout76/FFHoS3.jpg
 img1_rollover: /img/fallout76/FFHoS3a.jpg
 img2: /img/fallout76/FFHoS2.jpg

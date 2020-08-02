@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Prey Life Support Shitter
 date: 2019-02-07 01:01:00
-tags: [prey, shitter, ROLLOVER]
+tags: [prey, shitter]
 img1: /img/prey/ls1a.jpg
 img1_rollover: /img/prey/ls1a2.jpg
 img2: /img/prey/ls1b.jpg

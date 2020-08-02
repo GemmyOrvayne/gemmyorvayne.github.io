@@ -3,7 +3,7 @@ layout: post
 post_type: four-img
 title: Fallout 4 North of Ten Pines Bluff
 date: 2019-02-10 01:05:00
-tags: [fallout, fallout 4, shitter, ROLLOVER]
+tags: [fallout, fallout 4, shitter]
 img1: /img/fallout4/no10pines1.jpg
 img2: /img/fallout4/no10pines2.jpg
 img3: /img/fallout4/no10pines3.jpg

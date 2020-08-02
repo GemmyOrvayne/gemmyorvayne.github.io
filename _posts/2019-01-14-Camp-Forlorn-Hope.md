@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Camp Forlorn Hope Shitters
 date: 2019-01-14 01:01:00
-tags: [fallout, fallout new vegas, ROLLOVER]
+tags: [fallout, fallout new vegas]
 img1: /img/falloutnewvegas/forlornhope1.jpg
 img1_rollover: /img/falloutnewvegas/forlornhope1a.jpg
 img2: /img/falloutnewvegas/forlornhope2.jpg

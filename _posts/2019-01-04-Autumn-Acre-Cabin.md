@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Autumn Acre Cabin Shitter
 date: 2019-01-04 01:02:00
-tags: [fallout, fallout 76, ROLLOVER]
+tags: [fallout, fallout 76]
 img1: /img/fallout76/autumnacre1.jpg
 img1_rollover: /img/fallout76/autumnacre1a.jpg
 img2: /img/fallout76/autumnacre2.jpg

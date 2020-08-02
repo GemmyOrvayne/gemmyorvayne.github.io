@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: South Cutthroat Camp Gondola Shitter
 date: 2019-01-01 01:00:00
-tags: [fallout, fallout 76, shitter, ROLLOVER]
+tags: [fallout, fallout 76, shitter]
 img1: /img/fallout76/scc1.jpg
 img1_rollover: /img/fallout76/scc1a.jpg
 ---

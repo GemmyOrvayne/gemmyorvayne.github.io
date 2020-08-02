@@ -3,7 +3,7 @@ layout: post
 post_type: triple-img
 title: Kiddie Corner Cabins Shitter
 date: 2019-02-25 01:00:00
-tags: [fallout, fallout 76, shitter, are you afraid of the gnome, ROLLOVER]
+tags: [fallout, fallout 76, shitter, are you afraid of the gnome]
 img1: /img/fallout76/kcc1.jpg
 img1_rollover: /img/fallout76/kcc1a.jpg
 img2: /img/fallout76/kcc2.jpg

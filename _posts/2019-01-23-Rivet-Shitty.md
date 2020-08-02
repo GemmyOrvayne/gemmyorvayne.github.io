@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Rivet City Shitters
 date: 2019-01-23 01:02:00
-tags: [fallout, fallout 3, shitter, ROLLOVER]
+tags: [fallout, fallout 3, shitter]
 img1: /img/fallout3/rivetshitty1.jpg
 img1_rollover: /img/fallout3/rivetshitty1a.jpg
 ---

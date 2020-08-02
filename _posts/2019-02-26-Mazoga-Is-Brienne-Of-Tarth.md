@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Mazoga the Orc is Brienne of Tarth
 date: 2019-02-26 01:03:00
-tags: [oblivion, totallylookslike, game of thrones, ROLLOVER]
+tags: [oblivion, totallylookslike, game of thrones]
 img1: /img/oblivion/mazogabrienne1.png
 img1_rollover: /img/oblivion/mazogabrienne1a.jpg
 ---

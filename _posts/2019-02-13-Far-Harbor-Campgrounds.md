@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Far Harbor Campgrounds Shitter
 date: 2019-02-13 01:02:00
-tags: [fallout, fallout 4, shitter, ROLLOVER]
+tags: [fallout, fallout 4, shitter]
 img1: /img/fallout4/farharbor1.jpg
 img1_rollover: /img/fallout4/farharbor1a.jpg
 ---

@@ -3,7 +3,7 @@ layout: post
 post_type: triple-img
 title: Fallout 76 Toxic Valley Public Pool
 date: 2019-02-22 01:02:00
-tags: [fallout, fallout 76, shitter, ROLLOVER, are you afraid of the gnome]
+tags: [fallout, fallout 76, shitter, are you afraid of the gnome]
 img1: /img/fallout76/toxicvalleypool1.jpg
 img1_rollover: /img/fallout76/toxicvalleypool1a.jpg
 img2: /img/fallout76/toxicvalleypool2.jpg

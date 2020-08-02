@@ -3,7 +3,7 @@ layout: post
 post_type: six-img
 title: Battleship Bay Shitters
 date: 2019-01-17 01:01:00
-tags: [bioshock, shitter, bucket brigade, ROLLOVER]
+tags: [bioshock, shitter, bucket brigade]
 img1: /img/bioshock/whites1.jpg
 img1_rollover: /img/bioshock/whites1a.jpg
 img2: /img/bioshock/whites2.jpg

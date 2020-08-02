@@ -7,7 +7,7 @@ img1: /img/prey/tchc1.jpg
 img1_rollover: /img/prey/tchc1a.jpg
 img2: /img/prey/tchc2.jpg
 img2_rollover: /img/prey/tchc2a.jpg
-tags: [prey, shitter, ROLLOVER]
+tags: [prey, shitter]
 ---
 ## Psychotronics Holding Cell shitters!
 

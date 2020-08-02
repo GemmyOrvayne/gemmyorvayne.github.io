@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Sunderstone Gorge Shitter
 date: 2019-01-11 01:02:00
-tags: [skyrim, shitter, ROLLOVER]
+tags: [skyrim, shitter]
 img1: /img/skyrim/sunderstone1.jpg
 img1_rollover: /img/skyrim/sunderstone1a.jpg
 ---

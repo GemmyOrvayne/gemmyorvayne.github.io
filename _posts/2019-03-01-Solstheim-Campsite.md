@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Skyrim Solstheim Campsite Shitter
 date: 2019-03-01 01:01:00
-tags: [skyrim, shitter, ROLLOVER]
+tags: [skyrim, shitter]
 img1: /img/skyrim/solstheimcamp1.jpg
 img1_rollover: /img/skyrim/solstheimcamp1a.jpg
 ---

@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Fatal Fortress
 date: 2019-01-21 01:02:00
-tags: [prey, dungeons and dragons, ROLLOVER]
+tags: [prey, dungeons and dragons]
 img1: /img/prey/preydd5.jpg
 img1_rollover: /img/prey/preydd5a.jpg
 img2: /img/prey/preycharsheets1.jpg

@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Nifty Thrifty Shitter
 date: 2019-01-14 01:02:00
-tags: [fallout, fallout 3, ROLLOVER]
+tags: [fallout, fallout 3]
 img1: /img/fallout3/niftythrifty1.jpg
 img1_rollover: /img/fallout3/niftythrifty1a.jpg
 ---

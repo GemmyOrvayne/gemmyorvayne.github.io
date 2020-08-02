@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Timesaving Shitter
 date: 2019-01-09 01:00:00
-tags: [fallout, fallout 76, shitter, ROLLOVER]
+tags: [fallout, fallout 76, shitter]
 img1: /img/fallout76/toothbrush1.png
 img1_rollover: /img/fallout76/toothbrush1a.jpg
 ---

@@ -3,7 +3,7 @@ layout: post
 post_type: single-img
 title: Goat Simulator Shitter
 date: 2019-01-13 01:02:00
-tags: [goat simulator, shitter, ROLLOVER]
+tags: [goat simulator, shitter]
 img1: /img/other/goatsim1.jpg
 img1_rollover: /img/other/goatsim1a.jpg
 ---

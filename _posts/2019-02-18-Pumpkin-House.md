@@ -3,7 +3,7 @@ layout: post
 post_type: four-img
 title: Fallout 76 Pumpkin House Shitter
 date: 2019-02-18 01:01:00
-tags: [fallout, fallout 76, shitter, ROLLOVER]
+tags: [fallout, fallout 76, shitter]
 img1: /img/fallout76/pumpkin1.jpg
 img1_rollover: /img/fallout76/pumpkin1aa.jpg
 img2: /img/fallout76/pumpkin2.jpg

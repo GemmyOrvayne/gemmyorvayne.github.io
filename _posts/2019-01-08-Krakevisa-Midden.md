@@ -3,7 +3,7 @@ layout: post
 post_type: double-img
 title: Krakevisa Midden Shitter
 date: 2019-01-08 01:02:00
-tags: [skyrim, shitter, ROLLOVER]
+tags: [skyrim, shitter]
 img1: /img/skyrim/krakevisa1.jpg
 img1_rollover: /img/skyrim/krakevisa1a.jpg
 img2: /img/skyrim/krakevisa2.jpg
