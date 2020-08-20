@@ -1,3 +1,4 @@
 _site/*
 img.zip
 .sass-cache
+.jekyll-cache
