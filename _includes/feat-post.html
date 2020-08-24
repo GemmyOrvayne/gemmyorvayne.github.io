@@ -1,0 +1,35 @@
+<div id="featuredPostTarget"></div>
+
+<script>
+    // Extracting data from store
+    posts = Object.keys(window.store);
+    postCount = posts.length;
+    postIndex = Math.floor(Math.random() * postCount);
+    post = window.store[posts[postIndex]];
+    img1 = post.img1;
+    title = post.title;
+    url = post.url;
+
+    // Building HTML elements
+    // Building img element
+    imgElement = document.createElement("img");
+    imgElement.src = img1;
+    imgElement.className = "feat-post img";
+
+    // Building title element
+    titleElement = document.createElement("div");
+    titleElement.innerHTML = title;
+    titleElement.className = "feat-post title";
+    
+    // Building link element
+    linkElement = document.createElement("a");
+    linkElement.href = url;
+    linkElement.className = "feat-post link";
+
+    // Append img and title as children to link 
+    linkElement.appendChild(titleElement);
+    linkElement.appendChild(imgElement);
+
+    target = document.getElementById("featuredPostTarget");
+    target.appendChild(linkElement);
+</script>

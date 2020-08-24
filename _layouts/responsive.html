@@ -6,13 +6,14 @@
     <div class="primary-content columns is-mobile">
       {%- include hamburger.html -%}
       {%- include secondary-nav-responsive.html -%}
-      <div class="primary-column column-is-centered">
+      <div class="primary-column is-half column-is-centered">
         <div class="banner">
           <img src="/img/banner.png">
         </div>
         {{ content }}
         {% include pagination-responsive.html %}
       </div>
+      {%- include feat-nav-responsive.html -%}
     </div>
   </body>
 </html>

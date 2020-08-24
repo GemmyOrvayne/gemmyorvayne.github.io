@@ -22,4 +22,19 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
+  <script>
+    window.store = {
+      {% for post in site.posts %}
+        "{{ post.url | slugify }}": {
+          "title": "{{ post.title | xml_escape }}",
+          "tags": "{{ post.tags }}",
+          "url": "{{ post.url }}",
+          "img1": "{{ post.img1 }}",
+          "video": "{{ post.video }}"
+        }
+        {% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    };
+    console.log(window.store)
+  </script>
 </head>
