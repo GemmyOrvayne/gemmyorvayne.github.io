@@ -23,5 +23,6 @@ The biggest challenge for me is finishing a game without finding a single toilet
 
 A bathroom is a place of peace, serenity, and contemplation. In the perfect bathroom, one would feel completely at ease. A great toilet is clean, quiet, and solitary. One should enter a bathroom with confidence, and leave feeling invigorated. When you leave the bathroom, you should feel ready to conquer the world!
 
+***
 
 *The Gaming Thrones blog is in no way affiliated with [Gaming Throne Chairs](https://gamingthrone.com/). It is a completely autonomous entity, whose purpose is hobby and entertainment.*
