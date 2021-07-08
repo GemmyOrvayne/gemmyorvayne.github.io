@@ -1,7 +1,7 @@
 ---
 layout: post
 post_type: single-img
-title: Baldur's Gate Whispering Depths Shitter
+title: Baldur's Gate Whispering Depths
 date: 2021-07-05 01:00:00
 tags: [baldur's gate, shitter, bucket brigade]
 img1: /img/other/wdepths1a.jpg
